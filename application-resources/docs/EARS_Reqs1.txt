@@ -1,0 +1,9 @@
+When the "turn indicator" command is received, the car shall operate the indicator lights on the front, side and rear of the vehicle, and provide audible and visual confirmation to the driver.
+
+When the laptop is off and the power button is pressed, the laptop shall boot up.
+
+While the ignition is on, the car shall display the fuel level and the oil level to the driver.
+
+If the incorrect password is entered, then the laptop shall display XXX warning message.
+
+Where the car has electric windows, the electric window controls shall be on the driver's door panel.

@@ -1,0 +1,134 @@
+at least one charging point
+access point of interests and service
+status information
+simple POI and service profile
+location of user
+specified time-out elapse
+location information
+museum application
+specific end-user
+or more arbitrarily chosen point
+location of touristic attraction
+request of user
+several communication service
+user of alert
+personalized catalogue service
+small ; mobile device
+POI
+occurrence of event
+profile and context information
+table reservation service
+generic adaptation service
+user's profile
+tour reservation service
+mobile user
+link
+user’s device
+explicit need
+profile and context
+profile of user
+status and location information of buddy
+authentication credentials
+current context
+suggested alternative route
+POIs and service
+default expiry date
+REQ_USR_001
+information about traffic jams and construction work
+knowledge about end-user
+Create
+location of user's buddy
+presentation of functionality
+user of occurrence
+end-user's device
+user profile
+newly learn tastes and preference of user
+previously set alert
+user's ID
+point of interests and service
+access
+access rights
+multiple source
+translated guide service
+walking or driving instruction
+location of various point
+3rd party service provider
+Create ; Read ; Update ; Delete   CRUD  access rights
+calculated route
+more complex profile
+Only terminal capability
+photograph of interior
+location of buddy
+expiry date
+traffic jams and construction work
+search query
+traffic jams or construction work
+web service description
+CRUD
+invocation of user-selected service
+registry search or service interaction
+other user
+best-effort manner
+restaurant application
+login
+Delete
+given area
+WASP platform
+first time
+found service
+other people
+map of given area
+classification scheme
+end-user
+specific user
+geographic location of point
+service registry
+Read
+specific information request
+suggested route
+other dinner guest
+WASP
+user's buddy list
+or more point
+POI and service profile
+Update
+certain type of services and event
+point of interest
+touristic attraction
+current location of user
+list of event
+service profile
+part of user profile
+buddy list
+user-selected service
+term of profile and context
+available weekday
+different role
+phone call connection
+multiple sources.The WASP platform
+internal standard
+Services
+specific WASP application
+traffic jam
+international standard
+group of end-user
+interior of restaurant
+schedule information
+WASP application
+user and store
+default schedule
+large ; fixed terminal
+end-user about occurrence
+regular interval
+user's buddy
+interests and service
+various point of interest
+web-based   form
+services and event
+tourist application
+3G platform
+notification type
+orderly manner
+limited   number of classification scheme
+application datum
+certain type of point

@@ -1,0 +1,11 @@
+When a GSI component constraint changes, STS shall deliver a warning message to the system operator.
+
+STS shall store the availability of GSI components in the DB.
+
+STS shall supply GSI monitoring information (GSI anomalies, GSI input parameters and GSI output parameters) to the system operator.
+
+STS subcontractors shall describe the progress of development activities in the progress report.
+
+STS subcontractors shall describe the GSI's progress in the progress report.
+
+STS shall update its availability incase there is some progress.

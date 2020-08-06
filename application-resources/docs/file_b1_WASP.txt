@@ -1,0 +1,15 @@
+R3: When changes are discovered in the status of a user's buddy, the WASP platform must sent out notifications according to the alerts set by the user (see also REQ_NOT_006).
+
+R4: The WASP application shall be able to set up phone call connections and video chat connections using the 3G Platform via the WASP platform.
+
+R6: The platform must be able to store POI profiles.
+
+R7: The WASP platform must be able to show the location of users on a map by marking them with a circle.
+
+R10: The WASP platform should be possible to determine the location of touristic attractions close to a calculated route.
+
+R16: GSTSIM shall provide a function to include existing scenarios into a new simulation. 
+
+R17: GSTSIM SIMEDTE shall maintain the sessions scheduled, the current active session and the sessions in the handled sessions list.
+
+R18: GSTSIM shall allow to parametrize scenarios by reading parameter files during the execution of a scenario.

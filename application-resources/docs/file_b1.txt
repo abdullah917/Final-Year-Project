@@ -1,0 +1,25 @@
+R3: OPENCOSS must be able to show the spot of users on a map by marking them with a circle.
+
+R4: bla boa vla.
+
+R6: The system shall provide users with the ability to store transaction/bla data at remote server.
+
+R8: The car shall operate the indicator lights on the front, side and rear of the vehicle, and provide audible and visual confirmation to the driver.
+
+R10: The laptop shall have a mass of no more than YYY grams.
+
+R11: The car shall be compliant with the safety requirements defined in YYY.
+
+R12: When the "turn indicator" command is received, the car shall operate the indicator lights on the front, side and rear of the vehicle.
+
+R13: The software shall be written in .Net.
+
+R14: If the ATM card inserted is reported lost or stolen, then software shall confiscate the card.
+
+R15: While in Low Power Mode, the installed software shall keep the display brightness at the Maximum Level.
+
+R16: GSTSIM shall provide a function to include existing scenarios into a new simulation. 
+
+R17: GSTSIM SIMEDTE shall maintain the sessions scheduled, the current active session and the sessions in the handled sessions list.
+
+R18: GSTSIM shall allow to parametrize scenarios by reading parameter files during the execution of a scenario.

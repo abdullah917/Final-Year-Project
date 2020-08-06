@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">created from String</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>When changes are discovered in the status of a user’s buddy, the WASP platform MUST 
+sent out notifications according to the alerts set by the user.<Node id="148"/>
+
+<Node id="150"/>A WASP application SHALL be able to set up phone call connections and video chat connections using the 3G Platform via the WASP platform.<Node id="287"/>
+
+<Node id="289"/>The platform must be able to store POI profiles.<Node id="337"/>
+
+<Node id="339"/>The WASP platform SHOULD be possible to determine the location of touristic attractions close to a calculated route.<Node id="455"/>
+
+<Node id="457"/>The WASP platform SHOULD be possible to determine the location of touristic attractions.<Node id="545"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Gold_Standard">
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="1" Type="Boilerplate_Conformant" StartNode="150" EndNode="287">
+</Annotation>
+<Annotation Id="2" Type="Boilerplate_Conformant" StartNode="0" EndNode="148">
+</Annotation>
+<Annotation Id="3" Type="Boilerplate_Conformant" StartNode="289" EndNode="337">
+</Annotation>
+<Annotation Id="4" Type="Boilerplate_Non_Conformant" StartNode="339" EndNode="455">
+</Annotation>
+<Annotation Id="5" Type="Boilerplate_Non_Conformant" StartNode="457" EndNode="545">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+</AnnotationSet>
+
+</GateDocument>

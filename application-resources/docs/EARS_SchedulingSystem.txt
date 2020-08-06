@@ -1,0 +1,75 @@
+The user application shall be installable on multiple different operating systems including those on mobile devices.
+
+The scheduling system shall utilize calendar information from existing calendar applications.
+
+The scheduling system shall have interfaces accessible by third party applications.
+
+The scheduling system shall allow third party applications to get, add and edit any meeting scheduling related information through the interfaces.
+
+The scheduling system shall prevent users from directly accessing the calendar information of other users.
+
+The scheduling system shall never send the complete calendar information of the users (event details) outside of their device, only the free time periods.
+
+The scheduling system shall allow the users to form groups with other users for the purpose of sharing time periods.
+
+The scheduling system shall allow the users to belong to any number of user groups (or none at all).
+
+The scheduling system shall allow group members to set their group to be joinable by everyone or just invited users.
+
+The scheduling system shall allow group members to set their group to be valid for only a certain period of time.
+
+The scheduling system shall allow the users to specify before the scheduling process which periods of time from their calendar the scheduling system uses in every scheduling process.
+
+The scheduling system shall allow the users to set different time periods to be available for scheduling when scheduling a meeting with different user groups.
+
+The scheduling system shall allow the scheduling of meetings between users who aren't in the same group together.
+
+The scheduling system shall allow users to set what time periods are available for scheduling when scheduling a meeting between users who aren't in the same group.
+
+The scheduling system shall allow users to create meeting proposals.
+
+The scheduling system shall require that meeting proposals go through the meeting scheduling process before they can be added to the participants' calendars as meeting events.
+
+When a user has created a meeting proposal, the user shall be marked as the organizer for that meeting.
+
+When the organizer is creating a meeting proposal, the scheduling system shall require the organizer to enter at least the following information before the meeting proposal can be created: Participants, Topic, Date range, Location, Duration.
+
+When the organizer is creating a meeting proposal, the scheduling system shall allow the organizer to add user groups to the meeting.
+
+When the organizer has added a user group to a meeting, the scheduling system shall add all the members of that group to the meeting as invited participants.
+
+When the organizer is creating a meeting proposal, the scheduling system shall allow the organizer to add and/or remove individual participants from the meeting before initiating the scheduling process, even if they were added as part of a group.
+
+When the organizer has created the meeting proposal, the scheduling system shall present to the organizer a set of common time periods during which all the invited participants can attend the meeting.
+
+The scheduling system shall present a set of common time periods to the organizer in less than 10 seconds after the organizer has created the meeting proposal.
+
+When the scheduling system has presented a set of common time periods to the organizer, the scheduling system shall allow the organizer to select a time slot that occurs within the common time periods.
+
+When the organizer has selected a time slot, the scheduling system shall add the time slot as the time slot for the meeting.
+
+When the scheduling system has completed the scheduling process for a meeting and if no common time periods have been found, the scheduling system presents to the organizer a set of the time periods when the highest amount of invited participants are able to attend.
+
+While the scheduling process is on-going, the scheduling system shall allow all time slots used in the process to be available to other simultaneous scheduling processes as well.
+
+When the organizer has selected a time slot for the meeting proposal, the scheduling system shall notify the invited participants about the proposed meeting.
+
+When the scheduling system has notified the participants about the proposed meeting, the scheduling system shall allow the invited participants to view information about the proposed meeting's topic, time, duration, location and invited participants.
+
+When the scheduling system has notified the participants about the proposed meeting, the scheduling system shall allow the invited participants to choose if they accept the proposed meeting, reject it or decide that they don't want to participate.
+
+When an invited participant has accepted the proposed meeting, the scheduling system shall create a meeting event that matches the meeting proposal and add it to the participant's calendar.
+
+When the scheduling system has notified the participants about the proposed meeting, the scheduling system shall allow the organizer to see which invited participants have accepted, rejected or not yet responded to the meeting notification.
+
+When the scheduling system has notified the invited participants about the proposed meeting, the scheduling system shall allow the organizer to change the details of the proposed meeting or cancel the proposed meeting at any point.
+
+When the organizer has canceled the meeting event, the scheduling system shall remove the meeting event from the calendars of the participants.
+
+When the organizer has changed details of a meeting event, the scheduling system shall change the meeting events in participants' calendars accordingly.
+
+While the scheduling system has notified the invited participants about the proposed meeting, the scheduling system shall allow the organizer to send reminders to the invited participants about responding.
+
+When the scheduling system has created a meeting event, the scheduling system shall allow each participant to exclude herself from the meeting event.
+
+When a participant has excluded herself from a meeting event, the scheduling system shall remove that participant from the meeting event's list of participants as well as remove the meeting event from that participant's calendar.

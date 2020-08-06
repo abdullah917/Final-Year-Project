@@ -1,0 +1,1 @@
+R17: GSTSIM shall allow to inject messages into the web service interface of any MOC Software Component.

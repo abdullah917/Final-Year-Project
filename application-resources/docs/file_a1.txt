@@ -1,0 +1,23 @@
+R3: The WASP platform must be able to show the location of users on a map.
+
+R6: The system shall provide users with the ability to store transaction data.
+
+R7: status of EDRS Component.
+
+R8: When the "turn indicator" command is received, the car shall operate the indicator lights on the front, side and rear of the vehicle, and provide audible and visual confirmation to the driver.
+
+R11: The car shall be compliant with the safety requirements defined in XXX.
+
+R12: When the "turn indicator" command is received, the car shall operate the indicator lights on the front, side and rear of the vehicle, and provide audible and visual confirmation to the driver.
+
+R13: The software shall be written in Java.
+
+R14: If the ATM bank card inserted is reported lost or stolen, then software shall confiscate the card.
+
+R15: While in Low Power Mode, the software shall keep the brightness at the Minimum Level.
+
+R16: GSTSIM shall provide a function to include existing scenarios into a new scenario.
+
+R17: GSTSIM SIMEDTE shall maintain the sessions scheduled, the current active session and the last 200 completed sessions.
+
+R18: GSTSIM shall allow the parameterization of scenarios.

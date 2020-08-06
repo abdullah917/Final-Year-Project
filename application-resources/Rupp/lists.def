@@ -1,0 +1,7 @@
+snt.lst::::MOC_Term
+modals.lst::::OK_MD
+vague.lst::::Warn_Vague_Term
+and.lst::::Warn_AND
+or.lst::::Warn_OR
+quantifier.lst::::Warn_Quantifier
+conditional.lst::::Conditional

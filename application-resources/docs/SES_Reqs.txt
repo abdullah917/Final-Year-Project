@@ -1,0 +1,780 @@
+The M&C shall provide user with the ability to remotely monitor and control via SNMPv3.
+
+The M&C remote monitoring and control function shall support following services: starting, stopping, restarting, change of component state.
+
+The M&C shall provide users with the ability to configure monitoring interface via SNMPv3.
+
+The M&C shall allow access to the configuration monitoring interface to authenticate MOC operators, only. 
+
+The M&C shall provide users with the ability to configure control interface via SNMPv3.
+
+The M&C shall allow access to the configuration control interface to authenticate MOC operators, only. 
+
+The M&C shall supply an SNMPv3 object used to remotely command its mode of operations to either active or standby.
+
+The M&C shall provide users with the ability to remotely monitor and control operations via SNMPv3 interface.
+
+The M&C components shall be able to support handling of up to: 2 Ka-ISL payloads, 4 OISL payloads, 3 GEO satellite, 20 Users, 25 LEO satellites.
+
+The M&C shall support the handling of up to 200 communication sessions per day for  each  type  of communication  session  (Ka-ISL,  OISL)  for  each  payload. Where  10% (TBC2) of the OISL sessions are Forward Tasking sessions with a total uplink time of 2.4h (TBC3). 
+
+The M&C shall use the computer time to synchronize activities and when assigning timestamps to objects. 
+
+The  M&C shall provide users with the ability to configure following parameters: event timers durations, activities workflows triggers.
+
+The M&C shall provide users with the ability to poll configurable intervals for modules reading information from EDRS components.
+
+The M&C shall support reloading of configuration parameters during runtime.
+
+The M&C shall provide users with the ability to support configuration reload requests handling via SNMPv3 interface.
+
+The M&C shall load new configuration from DBMS and apply it as soon as it receives reloading request via SNMPv3 interface.
+
+The M&C shall support the modification of any of its configuration parameters upon request. 
+
+The M&C shall apply new configuration  with a limited (less than 30 minutes) unavailability time or without unavailability if the parameter is only modifying event timers durations, activities workflows triggers.
+
+The M&C shall read the new configuration from DBMS upon request.
+
+The M&C shall be connected to the MOC Local Network.
+
+During the M&C component design phase, the quality control personnel shall co-ordinate with the design personnel to assure that requirements are stated in such a way that conformance of hardware and procedures can be objectively verified. 
+Provisions shall be made to verify conformance to each stated requirement and that tools, facilities, skills, technical plans and procedures used will result in compliant hardware and software.
+
+In case of non-conformance, failures or problems, hardware or software, it shall to follow the  approved quality assurance procedures.   
+For all non-conformances affecting equipment hardware or software the appropriate standard non-conformance forms (NCR,SPR) shall be used.
+
+The M&C shall be developed under TechCom's ISO 9001 quality management system.
+
+The M&C component suppliers shall be responsible for adequate and effective control over his procurement sources to ensure that software artefacts and services meet all quality requirements. 
+
+The M&C component provider shall maintain adequate records of inspections and tests performed at source.  
+
+The M&C component provider shall control purchase orders to ensure incorporation of all pertinent technical and quality requirements, including authorised changes.
+
+All M&C deliverables shall be put under quality control.
+
+The M&C component progress shall be reported on regular basis once a month.
+
+The M&C component provider shall report on progress of supplier activities in the Progress Report if applicable.
+
+The M&C component supplier's report on supplier shall include at least that status of activities, software documentation incl. drawings, software development.
+
+
+All M&C component documents and software shall be version controlled.
+
+The M&C component shall utilize commercial software where possible. 
+
+The M&C shall utilize open source software were possible, if an commercial product is not available.
+
+The M&C shall utilize tested, in-house developed components, where flexibility and scalability is required.
+
+Specific software, not available commercially, shall be developed according to ECSS-E-ST-40c or a tailored and customer approved version thereof.
+
+The M&C documentation shall show the traceability of the requirements, in line with the ECSS-40C tailoring agreed and referenced in [AD05].
+
+The M&C component  suppliers  shall  produce  a specification  for  the M&C components. 
+
+The final version of the M&C SDD shall include the specification of the M&C component.
+
+The M&C component shall use UTC as base for all activities and functions.
+
+The M&C component provider shall provide users with the ability to make 3 electronic copies of the component documents.
+
+The M&C component provider shall provide users with the ability to make 3 paper copies of the component documents.
+
+The M&C component provider shall propose a list of component changes and events. 
+
+The M&C component provider shall agreed with the prime on the proposal.
+
+The M&C component shall log the approved changes and events in the DBMS.
+
+The M&C component shall send its log information to the centralized syslog daemon.
+
+The M&C component shall poll the DBMS for log information.
+
+The M&C component shall provide users with the ability to read the log files from log directory.
+
+The M&C Component shall provide users with the ability to search, filtering and analysis of log files by using an external tool.
+
+The M&C component provider shall provide users with the ability to train RSS on the M&C component.
+
+The M&C component provider shall supply training material on the M&C component.
+
+The M&C component training shall be based on the software manuals accompanied by a presentation. 
+
+The M&C shall read system configuration data from the DB.
+
+The M&C shall save system configuration data to the DB.
+
+The M&C shall not use local configuration files for system operations.
+
+If the M&C needs a local configuration file, then it shall be created from the DB system configuration data.
+
+The M&C shall monitor the MOC components configuration parameters changes in the DB.
+
+The M&C shall notify the MOC operator about MOC component configuration changes.
+
+The M&C shall provide the MOC operator with the ability to command MOC components to load new configuration from the DB.
+
+The M&C shall provide the MOC operator with the ability to schedule planned outages.
+
+As soon as a planned outage is schedule the M&C shall inform the DBMS.
+
+The M&C shall detect an unplanned outage from EDRS Components.
+
+As soon as a unplanned outage is detected the M&C shall inform the DBMS.
+
+As soon as a unplanned outage is detected the M&C shall inform the MOC operator.
+
+The M&C shall provide the MOC operator with the ability to acknowledge the unplanned outage.
+
+The M&C shall supply the status of each Ground Station and Satellite Control Center to the operator.
+
+The status can be one of the possible EDRS Component Statuses.
+
+The M&C shall use different colors to present visually to the MOC Operator the EDRS MOC component status.
+
+The M&C shall visually distinguish between planned unavailability or M&C detected only outage.
+
+The M&C shall supply a warning when an EDRS Component constraint has changed to the MOC Operator.
+
+The M&C component poll the DBMS for EDRS Component constraint changes.
+
+The M&C shall handle following constraint attributes changes: time, length, validity.
+
+The M&C shall provide the MOC Operator with a feature to change EDRS Component availability status, expected time to restore service.
+
+
+The M&C shall generate an XML file for EDRS Component constraints change trace ability purpose.
+
+The M&C shall poll the DBMS for the European Data Relay Satellite anomalies.
+
+The M&C shall poll the DBMS for European Data Relay Satellite payload anomalies.
+
+The M&C shall present to the MOC operator the European Data Relay Satellite anomalies
+
+The M&C shall present to the MOC operator European Data Relay Satellite payload anomalies.
+
+An anomaly shall be described in textual, human readable and understandable format.
+
+The M&C shall allow the operator to register a foreseen due date for a European Data Relay Satellite anomaly.
+
+The M&C shall allow the operator to register a foreseen due date for a European Data Relay Satellite payload anomaly.
+
+The M&C component shall command the DBMS to dispatch the final Configuration Files to the EDRS Stakeholders.
+
+The M&C shall command the DBMS to distribute the configuration files to the EDRS stakeholders.
+
+For each EDRS stakeholder a configurable parameter shall exists in the DB, which defines the distribution interval in seconds.
+
+On MOC operator request, the M&C shall command the DBMS to dispatch all autonomously dispatched Configuration Files and Data Files.
+
+The M&C shall provide the MOC operator with the ability to trigger dispatching of Configuration Files and Data Files.
+
+The M&C shall poll the DB for status information of the dispatching.
+
+The M&C shall display the status information of the dispatching to MOC Operator.
+
+The M&C shall command DBMS to distribute the Forward tasking data to the Satellite Control Center for the respective EDRS Satellite.
+
+The M&C shall report the status of the Forward tasking data dispatching to Satellite Control Centers to the MPS via DB.
+
+The M&C shall poll the DB for the time to upload the Forward tasking data to the Satellite Control Center.
+
+The M&C shall assure that Forward tasking data is available at Satellite Control Center in time before communication session.
+
+The M&C shall take into account the communication limits from the system configuration in the DBMS when planning the dispatching time.
+
+The M&C shall consider following note:
+The M&C component shall assure the transfer of the forward data to the SCC / DPCC in time. Upload may take several hours because of low uplink data rate. Worst case: 3MBytes, 500bps uplink rate, 14 h of upload time, i.e 14h MOC_Link_Configuration_Transmit to uplink the info in advance. This may be even higher if the useable data rate for the forward tasking data is less than 500 bits/sec.
+
+After a M&C component configuration change, the  M&C shall  store  its configuration into  the DBMS.
+
+The M&C shall store  the availability of the EDRS components into  the DBMS.
+
+The M&C shall periodically poll the EDRS Components for their availability during operations.
+
+The SSM shall supply a selection of general EDRS Satellite parameters through the DB to MOC Operator.
+
+The M&C shall aggregate the EDRS Satellite alarms into an overall status alarm.
+
+The M&C shall provide the MOC Operator with the ability to receive overall status alarm for EDRS Satellite.
+
+The M&C shall poll the DB for EDRS Satellite anomalies provided by the SSM having an impact on execution and link quality.
+
+The M&C shall notify the MPS of the degradation of the service via DB.
+
+The M&C shall provide the operator with the ability to report an anomaly as fixed and closed.
+
+The M&C shall notify the DBMS when a reported anomaly is fixed and closed.
+
+The M&C shall notify the MPS when a reported anomaly is fixed and closed.
+
+The M&C shall trigger the DBMS to issue a closure form to all the involved stakeholders.
+
+The M&C shall handle Forward Tasking Data Replacement requests until Last_Planning_Request before the communication session.
+
+The M&C shall generate a Forward Tasking Data deletion command to the Satellite Control Centre and store it on DBMS if a previous Forward tasking data set has been uploaded already, covering the concerned session.
+
+The M&C shall process internally the Forward Tasking Data set replacement if no Forward Tasking Data set has been uploaded already.
+
+The M&C shall periodically check the of the network elements by using the ping command. 
+
+The M&C shall periodically poll CSM data from the Ground Stations on SNMPv2c interface.
+
+The Ground Stations shall supply the CSM data in final, ready to display format.
+
+The M&C shall write the polled CSM accompanied by a time-stamp and ground station ID data into the DB.
+
+The M&C shall poll the DB for EDRS Satellite anomalies provided by the SSM.
+
+If the anomaly leads to an unavailability of EDRS Satellite for more than 24hrs the M&C shall supply this information in the EDRS Satellite status window to MOC Operator.
+
+The M&C shall poll the DB to retrieve the satellite switchover event.
+
+The M&C shall command the DBMS to dispatch the configuration files to the Satellite Control Center and Ground Stations in case of satellite switchover.
+
+The M&C shall poll the execution and completion status of the scheduled activities from DBMS.
+
+The DBMS polling interval shall be configurable to allow max. responsiveness. 
+
+The M&C shall supply the status of execution and completion of scheduled activities to MOC Operator.
+
+The M&C shall periodically poll max 5 predefined, fixed Ground Stations performance parameters from the DB.
+
+The M&C shall supply those performance parameters to MOC Operator.
+
+The M&C shall present the CSM data to the MOC operator for a visual quality evaluation.
+
+The M&C shall poll the DBMS for CSM data received from the CSM Ground Station.
+
+The M&C shall periodically poll the DBMS for EDTS CSM information.
+
+The M&C shall present the CSM information for visual link quality evaluation to MOC Operator.
+
+The M&C shall receive the CSM information in textual human readable format from DBMS, such that no additional post processing or calculation is required. 
+
+The M&C component shall command the DBMS to upload the final Configuration Files to the Satellite Control Center and Ground Station.
+
+The M&C shall command the DBMS to upload the Configuration Files according to the schedule.
+
+The M&C shall upload the Configuration Files [delay+/-margin] before execution of the link.
+
+The margin and the delay of the configuration upload shall be configurable parameters in the DBMS.
+
+The M&C shall obtain the time when to upload the configuration from the DBMS.
+
+The M&C shall configure the Anti-DPU of an EDTE using a configuration file at the time specified in the final configuration schedule.
+
+The M&C shall command the DBMS to upload the configuration file.
+
+The M&C shall configure the Anti-DPU of an EDTE using a configuration file at the time specified in the final configuration schedule.
+
+The M&C shall command the DBMS to upload the configuration file.
+
+The M&C shall support following configuration functions: GEO convolutional decoding, GEO de-framing, GEO Reed Solomon decoding, EDRS decryption, Data stream combination, Header management and evaluation, Idle data deletion for  each  communication  session  according to  the  parameters  of  the  communication schedule related configuration files 
+It is assumed that this information is transparent to the M&C since the M&C is in charge of uploading the configuration file, only. 
+
+The M&C shall configure the Anti-DPU of an EDTE using a configuration file at the time specified in the final configuration schedule.
+
+The M&C shall command the DBMS to upload the configuration file.
+
+The M&C shall configure the Anti-LIAU of an EDTE using a configuration file at the time specified in the final configuration schedule.
+
+The M&C shall command the DBMS to upload the configuration file.
+
+The M&C shall keep track of the latest configuration files sent to the Satellite Control Centers and Ground Stations.
+
+The M&C shall supply the time and status of the latest configuration file upload per EDRS component to MOC Operator.
+
+The M&C shall monitor the Satellite Control Center components by using  SNMPV2c.
+
+The M&C shall monitor and control the Ground Stations components by using SNMPv2c.
+
+The M&C shall monitor and control the Mission Operations Center components by using SNMPv3.
+
+The M&C shall periodically poll the status of the Ground Stations via SNMPv2c.
+
+The M&C shall support configurable polling interval per ground station.
+
+The M&C shall support up to five configurable status parameters.
+
+The M&C shall command the DBMS to upload the Configuration Files and Communication Schedule Files to EDTE and User Data Storage System.
+
+The M&C shall periodically poll the Satellite Control Center component status using SNMPv2c.
+
+The M&C shall write the status to the DBMS.
+
+The M&C shall supply this status information to MOC Operator.
+
+The M&C shall be able to launch CFI local M&C application as separate process.
+
+The M&C shall time out if there is no connection to the Ground Station components local M&C.
+
+The M&C shall periodically poll the availability of the Local M&C via SNMPv2c.
+
+The M&C shall raise a visual and audible alarm to the MOC operator in case availability cannot be detected.
+
+The M&C shall provide MOC operator with the ability to start the local M&C.
+
+The M&C shall raise an alarm (visual and audible) to the MOC operator in case re-connection fails after [m] retires.
+
+The M&C shall always try to connect after the grace period but shall not raise new alarms if it fails.
+
+The M&C shall read the system configuration for each EDRS Component from the DBMS.
+
+The M&C shall take the System Configuration Database parameters into account when commanding the DBMS to upload configuration files to EDRS components. 
+
+The M&C shall provide the MOC operator with the ability to start the local M&C. 
+Technically, the local M&C cannot run as child process of the Remote M&C. It runs as independent process on the operating system.
+
+The M&C shall monitor Mission Operation Center components status via SNMPv3.
+
+The M&C shall retrieve the control mode of the MOC Components using the SNMPv3 interface.
+
+The M&C shall supply the control mode information to MOC Operator.
+
+The M&C shall periodically poll the DBMS for logs from MOC Components.
+
+The M&C shall periodically poll the DBMS for logs from MOC Components.
+
+The M&C shall provide the MOC operator with the ability to query the logs from DBMS.
+
+The M&C shall provide the MOC operator with the ability to display the log.
+
+The M&C shall provide the MOC operator with the ability to filter the logs by sender, severity and timestamp.
+
+The M&C shall provide the MOC operator with the ability to search through the log entries by specifying a search string.
+
+The M&C shall supply  visual indication on alarms and events to MOC Operator.
+
+The M&C shall supply audible indication on alarms and events to MOC Operator.
+
+The M&C shall supply visual and audible alarm in any Control Mode in case of event or alarm to MOC Operator.
+
+The control mode shall one of the possible Control Modes.
+
+The M&C shall provide users with the ability to retrieve log entries from the DBMS.
+
+The M&C shall provide the MOC operator with the ability to view the log entries retrieved from the DBMS.
+
+The M&C shall provide the MOC operator with the ability to search and filter log entries in the DBMS.
+
+The M&C shall provide the MOC operator with the ability to export the search and filter results to a file in a CSV format enabling analysis by an external tool.
+
+The M&C shall poll EDRS Components for alarms using the SNMPv2c interface.
+
+The M&C shall poll EDRS Components for events using the SNMPv2c interface.
+
+The M&C shall present to the MOC Operator the alarms.
+
+The M&C shall present  to the MOC operator the events.
+
+The M&C shall write the alarms to the DBMS.
+
+The M&C shall write the events to the DBMS.
+
+The M&C shall present the operator with visual notification in case an alarm arises in the Ground Station or the Satellite Control Center.
+
+The M&C shall present the operator with audible notification in case an alarm arises in the Ground Station or the Satellite Control Center.
+
+The M&C shall retrieve the control mode of the MOC Components using the SNMPv3 interface.
+
+The M&C shall supply the control mode information to MOC Operator.
+
+The M&C shall configure the EDTEs and data storage system installed on the Ground Stations by uploading configuration files.
+
+The M&C shall command the DBMS to upload the configuration files.
+
+The M&C shall supply the status of each Mission Operations Center to MOC Operator.
+
+The Mission Operations Center status can be either active or standby.
+
+The M&C shall provide the MOC operator with the ability to switch to standby state at active MOC.
+
+The M&C shall provide the MOC operator with the ability to switch to active state at standby MOC.
+
+The M&C shall support following workflow when going from active to standby state:
+Synchronization of the DBMS, Change of the active MOC components to standby state, Change the active MOC to standby state, Change of the standby MOC components to active state, Change the standby MOC to active MOC.
+
+
+The M&C shall poll the DBMS for Satellite Control Centre Forward Tasking Data deletion command acknowledgement.
+
+In case of positive acknowledgement the M&C shall store the acknowledge message in DBMS, delete the Forward Tasking Data set from DBMS and command the DBMS to notify the user of the acknowledgement of his request. 
+
+
+The case of negative acknowledgement the M&C shall: store the acknowledge message in DBMS, command the DBMS to notify the user of the rejection of his request. 
+
+
+The M&C shall periodically poll the DBMS for the availability of LEO orbit S/C files.
+
+The M&C shall command the DBMS to send the LEO orbit S/C files to the Satellite Control Centre.
+
+The M&C component shall lock the component change mode feature while a component change mode request is under execution.
+
+The M&C shall wait until mode change if finished or a timeout occurs.
+
+The M&C shall display all the warnings or alarms to the MOC operator no later than 30 seconds (TBC26) after its reception or after its generation (internal to M&C). 
+
+The M&C shall periodically poll the DBMS for link process changes. 
+
+The M&C shall present to the MOC operator the link process changes latest 30s after its availability in the DBMS.
+
+The M&C shall periodically poll the DBMS for MOC equipment and MOC component status changes. 
+
+The M&C shall present to the MOC operator the MOC equipment or MOC component status changes latest 30s after its availability in the DBMS.
+
+The M&C shall periodically poll the DBMS for EDRS Satellite monitoring information.
+
+The M&C shall supply the EDRS Satellite monitoring information to MOC Operator.
+
+The DBMS shall facilitate the M&C with human readable, textual EDRS Satellite monitoring information.
+
+The M&C shall periodically poll the Satellite Control Center for EDRS satellite monitoring information using SNMPv2c.
+
+The M&C shall write the alarms and events to the DBMS.
+
+The severity of the events shall be configurable in the DBMS.
+
+The M&C shall notify the MOC visually and audibly in case of alarms and events.
+
+The M&C shall provide users with the ability to request EDRS-A TeleCommand (TC) data stored in the DBMS.
+
+The M&C shall provide users with the ability to display the EDRS TC Data to the MOC Operator.
+
+The EDRS TC Data shall be available in the DBMS in human readable, textual format. 
+
+The M&C shall periodically poll the DBMS for the availability of the Forward Tasking Data. 
+
+The M&C shall update the session data status in the DBMS with the availability of the Forward Tasking Data.
+
+The M&C shall poll periodically the DBMS for Satellite Control Center Forward Tasking Data Upload Confirmation.
+
+The M&C shall process the Forward Tasking Data Upload Confirmation and store a confirmation to the DBMS. 
+
+
+The M&C shall notify the DBMS to send a Forward Tasking Data Upload Confirmation to the respective user. 
+
+The M&C shall poll the DBMS for Forward Tasking Data Confirmation.
+
+The M&C shall notify the DBMS to dispatch Forward Tracking Data Confirmation to the respective user.
+
+The M&C shall poll periodically the DBMS for Satellite Control Center Forward Tasking Data Confirmation.
+
+The M&C shall process the Forward Tasking Data Confirmation and store a confirmation to the DBMS. 
+INF: Details the term process. 
+
+The M&C shall notify the DBMS to send a Forward Tasking Data Confirmation to the respective user. 
+
+The M&C shall support the workflow required to distribute Config Files incl D/L Keys to UGS EDTE by polling events from the DBMS and writing status to DBMS.
+
+The M&C shall command the DBMS to forward the Config Files incl. D/L Keys to the UGS EDTEs.
+
+The M&C shall perform validity check  before commanding the DBMS to distribute the Config files incl. D/L Keys.
+
+The M&C shall use PMOC_UEDTE_GFMN or BMOC_UEDTE_GFMN interface.
+
+The M&C component shall be designed and implemented respecting a processing capacity ("CPU usage") margin of min. 50. 
+
+The M&C shall demonstrate that it respects the processing capacity margin ("CPU usage") during a TBC5 period. 
+
+The M&C component shall be designed and implemented respecting a processor memory ("Memory usage") margin of min. 50%. 
+
+The M&C shall demonstrate that it respects the processor memory margin ("Memory usage") during a TBC4 period. 
+
+The M&C shall support the workflow required to distribute Forward Tasking data by polling events from the DBMS and writing status to DBMS.
+
+The M&C shall command the DBMS to forward the Forward Tasking data file to the Satellite Control Center.
+
+The M&C shall poll the status of the SCC from the SNMPv2c interface.
+
+The M&C shall write the status to the DB.
+
+The M&C shall support the workflow required to distribute to the DPCC P/L Config Files incl. D/L Keys file by polling events from the DB and writing status to DBMS.
+
+The M&C shall command the DBMS to forward the P/L Config Files incl. D/L Keys file to the DPCC.
+
+The M&C shall support the workflow required to distribute Config Files or Forward Tasking Data confirmation to UGS by polling events from the DBMS and writing status to DBMS.
+
+The M&C shall command the DBMS to forward the Config Files or Forward Tasking Data confirmation to the UGS.
+
+The M&C shall perform validity check before commanding the DBMS to distribute the Config Files or Forward Tasking Data confirmation.
+
+The M&C shall use PMOC_OptUSR_EMDN or BMOC_OptUSR_EMDN interface.
+
+The M&C shall poll the status of the DPCC from the SNMPv2c interface.
+
+The M&C shall write the status to the DBMS.
+
+The M&C shall poll FLGS status data using SNMPv2c interface
+
+The M&C shall write the status to the DBMS.
+
+The M&C shall poll BFLGS status data using SNMPv2c interface.
+
+The M&C shall write the status to the DBMS.
+
+The M&C shall poll RDGS status data using SNMPv2c interface
+
+The M&C shall write the status to the DBMS.
+
+The M&C shall poll HDGS status data using SNMPv2c interface.
+
+The M&C shall write the status to the DBMS.
+
+The M&C shall poll UGS status data using SNMPv2c interface.
+
+The M&C shall write the status to the DBMS.
+
+The M&C shall monitor and control activities of  active MOC and standby MOC.
+
+The M&C shall always be aware which MOC is active and which one standby.
+
+The M&C component shall be connected to the Ground Facility Management Network (GFMN).
+
+The M&C component shall be connected to the External Management Data Network (EMDN).
+
+The M&C shall transmit and receive Ground Station and Satellite Control Center data over the Ground Facility Management Network (GFMN).
+
+The M&C shall transmit and receive PMOC/BMOC coordination data over the Ground Facility Management Network (GFMN).
+
+The M&C shall monitor EDTEs installed in the Ground Stations and the Ground Stations itself using the SNMPv2c interface.
+
+The M&C shall control EDTEs installed on the Ground Stations and the Ground Stations itself using the SNMPv2c interface.
+
+The M&C shall utilize only the Ground Facility Management Network (GFMN).
+
+The M&C shall support the workflow required to distribute a Config File to UGS by polling events from the DBMS and writing status to DBMS.
+
+The M&C shall command the DBMS to forward the Config File to the UGS.
+
+The M&C shall perform validity check  before commanding the DBMS to distribute the Config File.
+
+The M&C shall use  PMOC_KaUSR_EMDN or BMOC_KaUSR_EMDN interface.
+
+The M&C shall support the workflow required to distribute a Config File to HDGS by polling events from the DBMS and writing status to DBMS.
+
+The M&C shall command the DBMS to forward the Config File to the HDGS.
+
+The M&C shall perform validity check  before commanding the DBMS to distribute the Config File.
+
+The M&C shall usePMOC_HDGS_GFMN or BMOC_HDGS_GFMN interface.
+
+The M&C shall support the workflow required to distribute a Config File to RDGS by polling events from the DBMS and writing status to DBMS.
+
+The M&C shall command the DBMS to forward the Config File to the RDGS.
+
+The M&C shall perform validity check before commanding the DBMS to distribute the Config File.
+
+The M&C shall use PMOC_RDGS_GFMN or BMOC_RDGS_GFMN  interfaces.
+
+The M&C shall support the workflow required to distribute a Config File to BLGS by polling events from the DBMS and writing status to DBMS.
+
+The M&C shall command the DBMS to forward the Config File to the BFLGS.
+
+The M&C shall perform validity check before commanding the DBMS to distribute the Config File.
+
+The M&C shall use the PMOC_BFLGS_GFMN or BMOC_BFLGS_GFMN interface.
+
+The M&C shall support the workflow required to distribute a Config File to FLGS by polling events from the DBMS and writing status to DBMS.
+
+The M&C shall command the DBMS to forward the Config File to the FLGS.
+
+The M&C shall perform validity check before commanding the DBMS to distribute the Config File.
+
+The M&C shall use the PMOC_FLGS_GFMN/BMOC_FLGS_GFMN interface.
+
+The M&C shall support the workflow required to distribute P/L Config Files incl. D/L Keys and Forward Tasking DataConfig File to SCC by polling events from the DBMS and writing status to DBMS.
+
+The M&C shall command the DBMS to forward the P/L Config Files incl. D/L Keys and Forward Tasking Data File to the SCC.
+
+The M&C shall perform validity check  before commanding the DBMS to distribute the P/L Config Files incl. D/L Keys
+and Forward Tasking Data.
+
+The M&C shall use PMOC_DPCC_GFMN or BMOC_DPCC_GFMN interface.
+
+The M&C shall be installed in the Mission Operations Centers.
+
+The M&C server application shall run on a server installed in a server room.
+
+The M&C client application shall run on a workstation installed in a MOC operator room.
+
+SPACEBEL shall install the M&C component on the M&C server.
+
+TECHCOM shall supply a installation guideline for the M&C component and additional artifacts required to run the M&C component.
+
+The M&C shall have access to the MOC Components via TCP/P protocol family and applications.
+
+The M&C shall have access to the MOC Components via SNMPv3.
+
+The M&C component shall have access to the MOC Components via FTP.
+
+The M&C server and client application shall run at PMOC site.
+
+The M&C server and client application shall run at BMOC site.
+
+The M&C shall locally use only that GFMN address range allocated to the local components.
+
+The network equipment shall control network access. 
+
+The M&C access shall access only local parts of the GFMN.
+
+The network equipment shall control network access. 
+
+The design lifetime of the M&C components shall be at least 18 years for the purpose specified in this project.
+
+The M&C component provider shall supply a list of applications to be installed by RSS.
+
+The M&C component provider shall inform the hardware providers in due time about new versions of applications and security patches.
+
+The M&C shall connect only to those networks for which the IP addresses have been specified.
+
+The M&C shall make the IP addresses it uses available for router configuration. 
+
+The M&C shall use only those IP addresses specified by the customer. 
+
+The M&C shall maintain license key locally where applicable.
+
+The M&C shall allow install software upgrades without need to access the internet. 
+
+The M&C shall avoid any connection to the internet except if required and authorized for operation purposes. 
+
+The M&C shall monitor MOC Components via SNMPv3 only after authentication.
+
+The M&C shall poll the component periodically. 
+
+The M&C shall control MOC Components via SNMPv3 only after authentication.
+
+The M&C shall receive the control credentials from the DB.
+
+The M&C shall control Ground Stations only after authentication.
+
+The M&C shall retrieve the monitoring credentials from the DB.
+
+The M&C shall poll the Satellite Control Centers and Ground Stations only after authentication.
+
+The M&C shall control the EDTE and DSU via SNMPv3 only after authentication.
+
+The M&C shall upload files to the defined upload directory using SFTP after authentication.
+
+The M&C shall download files from the defined download directory using SFTP after authentication.
+
+The M&C shall retrieve the control credentials from the DB.
+
+The M&C shall design the component such that it can be installed at prime and backup sites. 
+
+The M&C shall support the general concepts defined by RSS for data backup. 
+
+The M&C shall be designed to have no planned or predictable outages.
+
+The M&C components shall be designed to allow a 24/7 without interruption during routine operations with changing operator personnel.
+
+The M&C component provider shall deliver the source code of those artifacts developed in the frame of EDRS MOC project.
+
+The M&C component provider shall deliver the software development environment used for developing the software artifacts in the frame of the EDRS MOC project. 
+
+The M&C component supplier shall deliver all licenses required to operator the M&C component.
+
+The M&C component supplier shall deliver the software development environment. 
+
+The M&C component supplier shall deliver the simulators used for component validation. 
+
+The M&C component provider shall ensure a license validity of 20 years. 
+
+The M&C component supplier shall freeze the software development environment at each delivery and maintain it until MSCR.
+Note: Maintenance is not included in the contract.
+
+The M&C component supplier shall freeze the validation Simulator at MSCR.
+Note: Maintenance is not included in the contract. 
+
+The M&C shall provide users with the ability to test it under maintenance.
+
+The M&C component shall supply a set of executable built-in tests.
+
+The M&C shall provide users with the ability to trigger the execution of the build-in tests thru SNMPv3 interface.
+
+The M&C component shall implement self-tests used during maintenance. 
+
+The M&C component shall supply an interface simulator to support interface simulation during upgrade or validation tests.
+
+The M&C component design shall be such that the need for maintenance tools shall either be eliminated or shall be limited to standard COTS software.
+
+The M&C components shall supply all the necessary information to support the establishment of an obsolescence management.
+
+The M&C component provider shall supply following necessary information for used COTS SW and SW components: procurement source, life-span forecast, warranty conditions, maintenance conditions, supplier support conditions, lower level dependencies, alternative suppliers, preliminary risk identification.
+
+The M&C component shall supply an analysis regarding human error impacts.
+
+The M&C component shall implement any recommendation/requirements as identified as part of the Reliability and Availability analysis.
+
+The  design  of the M&C component shall  consider  that,  in any  case  where  safety  and maintainability requirements are  in conflict,  safety considerations  shall  have  absolute priority. 
+
+The M&C component shall contribute to the maintainability analysis, giving absolute priority to safety considerations.
+
+The M&C component provider shall supply following test document: Software Verification, Software Validation, Software Unit Integration Testing.
+
+The M&C component provider shall supply administration documentation such that administrators can control any and all configurations.
+
+The M&C component administration documentation shall contain all parameters valid at delivery.
+
+The M&C component suppliers shall supply training material contributions, including administration information.
+
+The M&C component provider shall supply all component SW documentation including COTS SW documentation.
+
+The M&C component supplier shall deliver all the SW required to install and run the component.
+
+The M&C shall provide users with the ability to change the positions of M&C windows.
+
+The M&C shall provide users with the ability to display dialog windows to any position on the screen.
+
+The M&C shall provide users with the ability to save the current windows position when the application is closed.
+
+The M&C shall provide users with the ability to restore the windows position when the application is started.
+
+The M&C shall supply a MOC Operator role which shall allow monitoring, only.
+
+The M&C shall supply a MOC Operator role which shall allow monitoring and control.
+
+The M&C shall support LDAP for user authentication and authorization. 
+
+The M&C HMI will be comply with  ECSS-E-ST-10-11c where possible. 
+
+The M&C component MMI shall be compatible with the operations defined by the functional and technical requirements.
+
+The M&C components shall be implemented in a way that they can be deployed on both PMOC and BMOC.
+
+The M&C component shall provide users with the ability to verify its complete functionality without connection to other EDRS MOC components or other EDRS entities.
+
+The M&C component provided and used shall cover all EDRS MOC components interfaces served by the M&C component. 
+
+The M&C component simulator shall support static simulations. 
+
+The M&C component simulators shall be simple but sufficient to demonstrate interface compatibility.
+
+The M&C component simulators shall be used in an integrated way to support the MOC overall verification and validation. 
+
+The M&C component simulation details and the concept shall be described in the Software validation plan.
+
+The M&C component validation simulator shall integrate with the EDRS MOC test environment.
+
+The M&C component test environment shall be capable of verifying all updates/changes to the MOC before their deployment.
+
+The M&C component provider shall submit verification procedures to the customer for approval.
+
+The M&C component verification document shall provide a matrix that shall identify the verification method: test, analysis, review, inspection, demonstration
+for either a single requirement or a group of requirements and the parameters which shall be tested, demonstrated, analysed.
+
+
+M&C component design verification by review of analytical data shall consist of a review of all applicable valid documentation, typically design drawings, technical  notes
+in view of proper reflection and implementation of requirements of applicable specifications.
+
+The the M&C component, analytical techniques may be used in lieu of, or to supplement testing as appropriate to verify specification requirements which cannot be verified by other methods;
+The selected techniques  may include system engineering analysis, static, qualitative analysis and computer simulation.
+
+M&C component requirements of a general nature should be verified by demonstration.
+
+Demonstration should consist of performing typical operational procedures demonstrating the fulfilment of the requirements.
+
+The M&C shall supply test drivers for those requirements which could not verified by review, inspection, analysis, inspection or demonstration.
+

@@ -1,0 +1,201 @@
+The car shall have a maximum retail sale price of XXX.
+
+The car shall be compliant with the safety requirements defined in XXX.
+
+The laptop shall have a mass of no more than XXX grams.
+
+The laptop shall have a minimum battery life of XXX hours.
+
+When the clutch pedal is depressed, the car shall disengage the driving force.
+
+When the "turn indicator" command is received, the car shall operate the indicator lights on the front, side and rear of the vehicle, and provide audible and visual confirmation to the driver.
+
+When the laptop is off and the power button is pressed, the laptop shall boot up.
+
+When the laptop is running and the laptop is closed, the laptop shall enter "powersave" mode.
+
+While the ignition is on, the car shall display the fuel level and the oil level to the driver.
+
+While the key is in the ignition, the car alarm shall be inhibited.
+
+While the handbrake is applied, the wheels shall be locked.
+
+While the laptop is running on the battery and the battery is below XXX % charge, the laptop shall display "low battery".
+
+While an external audio output device is connected, the laptop shall mute the built-in speaker and send the audio output signal to the external audio output device.
+
+Where the car has electric windows, the electric window controls shall be on the driver's door panel.
+
+Where the car includes automatic windscreen wipers, the car shall sense moisture on the windscreen and operate the windscreen wipers without driver commands.
+
+Where a "long life" battery is fitted, the laptop shall have a minimum battery life of XXX hours.
+
+Where the laptop is a "lightweight" model, the laptop shall have a mass of no more than XXX grams.
+
+If the car detects attempted intrusion, then the car shall operate the car alarm.
+
+If the car detects low oil pressure, then the car shall display a "low oil pressure" warning.
+
+If the incorrect password is entered, then the laptop shall display XXX warning message.
+
+If the laptop is connected to a non-compatible device, then the laptop shall prevent transfer of data, prevent transfer of charge, display XXX warning message and not be damaged.
+
+Where the car includes an "owner alert" system, if the car detects attempted intrusion, then the car shall send a message to the owner and activate the car alarm.
+
+While the car is being being driven forwards above a speed of XXX, if the driver attempts to engage reverse gear, then the car shall prevent engagement of reverse gear.
+
+The software package shall include an installer.
+
+The software shall be written in Java.
+
+The software shall be available for purchase on the company web site and in retail stores.
+
+When an Unregistered Device is plugged into a USB port, the OS shall attempt to locate and load the driver for the device.
+
+When a DVD is inserted into the DVD player, the OS shall spin up the optical drive.
+
+When the water level falls below the Low Water Threshold, the software shall open the water valve to fill the tank to the High Water Threshold.
+
+If the measured and calculated speeds vary by more than 10%, then the software shall use the measured speed.
+
+If the memory checksum is invalid, then the software shall display an error message.
+
+If the ATM card inserted is reported lost or stolen, then software shall confiscate the card.
+
+While in Low Power Mode, the software shall keep the display brightness at the Minimum Level.
+
+While the heater is on, the software shall close the water intake valve.
+
+While the autopilot is engaged, the software shall display a visual indication to the pilot.
+
+Where a thesaurus is part of the software package, the installer shall prompt the user before installing the thesaurus.
+
+Where hardware encryption is installed, the software shall encrypt data using the hardware instead of using a software algorithm.
+
+Where a HDMI port is present, the software shall allow the user to select HD content for viewing.
+
+When the landing gear button is depressed once, if the software detects that the landing gear does not lock into position, then the software shall sound an alarm.
+
+Where a second optical drive is installed, when the user selects to copy disks, the software shall display an option to copy directly from one optical drive to the other optical drive.
+
+While in start up mode, when the software detects an external flash card, the software shall use the external flash card to store photos.
+
+The installer software shall be available in Greek.
+
+When the user selects the caller count from the menu, the software shall display a count of the number of participants in the audio call in the UI.
+
+If the alarm software detects that a sensor has malfunctioned, then the alarm software shall phone the Alarm Company to report the malfunction.
+
+While the mute button is depressed, the software shall mute the microphone.
+
+Where the book is available in digital format, the software shall allow the user to download the book without charge for a trial period of 3 days.
+
+While on battery power, if the battery charge falls below 10% remaining, then the system shall display a warning message to switch to AC power.
+
+The software shall include an online help file.
+
+When the software detects the J7 jumper is shorted, it shall clear all stored user names and passwords.
+
+If the software detects an invalid DRAM memory configuration, then it shall abort the test and report the error.
+
+While in Manufacturing Mode, the software shall boot without user intervention.
+
+Where both 3G and Wi-Fi radios are available, the software shall prioritize Wi-Fi connections above 3G.
+
+While on DC power, if the software detects an error, then the software shall cache the error message instead of writing the error message to disk.
+
+The control system shall prevent engine overspeed.
+
+WHEN continuous ignition is commanded by the aircraft, the control system shall switch on continuous ignition.
+
+IF the computed airspeed fault flag is set, THEN the control system shall use modelled airspeed.
+
+WHILE the aircraft is in-flight, the control system shall maintain engine fuel flow above XXlbs/sec.
+
+Where the control system includes an overspeed protection function, the control system shall test the availability of the overspeed protection function prior to aircraft dispatch.
+
+While the aircraft is on-ground, when reverse thrust is commanded, the control system shall enable deployment of the thrust reverser.
+
+While the aircraft is in-flight, if reverse thrust is commanded, then the control system shall inhibit thrust reverser deployment.
+
+When selecting idle setting, if aircraft data is unavailable, then the control system shall select Approach Idle.
+
+The Engine Control System shall not cause unacceptable thrust or power oscillations.
+
+When the Engine Control System changes operational mode, the Engine Control System shall maintain the engine within approved operational limits.
+
+If a single Failure leads to deficient Aircraft-Supplied Data, then the Engine Control System shall not cause a Hazardous Engine Effect.
+
+While in a Full-Up Configuration, the Engine Control System shall be Essentially Single Fault Tolerant with respect to LOTC/LOPC event.
+
+Where over-speed protection is provided through hydro-mechanical means, the frequency of Engine Control System inspection and maintenance periods shall be consistent with the required availability of the feature.
+
+Where a control system component acts as a firewall, the component shall be Fireproof.
+
+Where the control system includes the engine starter, the control system shall prevent starter overspeed which could result in a Hazardous Engine Effect.
+
+When considering engine starter drive failure mechanisms, the control system safety assessment shall assess the possibility of the starter remaining connected, or subsequently becoming reconnected, to the engine.
+
+When commanded by the flight crew the control system shall ignite the fuel in the engine combustion chamber.
+
+When a step counter changes, the rod control system shall provide audible feedback to the operator.
+
+The control system shall indicate the engine oil quantity to the aircraft.
+
+The applicant shall login.
+
+If applicant fails to login then the login functionality shall invoke error-handler.
+
+The applicant shall select product details.
+
+When product selected the applicant shall provide application details.
+
+The System shall authenticate for User Login.
+
+When application details have been accepted the Insurance Officer shall perform underwriting1.
+
+While underwriting1 is performed the error-handler shall handle exceptions.
+
+If age is greater than age-limit then the Checking of Underwriting1 shall invoke Error-Handler to reject the application.
+
+If profession is risky, then the Checking of Underwriting1 shall invoke Error-Handler to reject the application.
+
+If beneficiary is not related to policyholder, then the Checking of Underwriting1 shall invoke Error-Handler to reject the application.
+
+Where the beneficiary is a smoker the Checking of Underwriting1 shall invoke Error Handler to set a high value premium.
+
+After underwriting1 is complete, if necessary the Insurance Officer shall perform underwriting2.
+
+When underwriting2 is required the applicant shall provide more information.
+
+While underwriting2 is performed the invoke error-handler shall handle- exceptions.
+
+When underwriting1 and underwriting2 is completed error free the Insurance Officer shall calculate premium.
+
+When premium has been calculated the applicant shall make premium payment.
+
+If payment fails, the payment-functionality shall invoke error-handler to abort transaction and notify user.
+
+When payment is done the Insurance Officer shall create policy.
+
+When policy issued the Insurance Officer shall generate policy certificate.
+
+When a step counter changes, the rod control system shall provide audible feedback to the operator.
+
+The control system shall allow the operators to manually actuate any safety functions.
+
+The rod control system shall detect loss of function of the logic module.
+
+When loss of function of logic module is detected, the rod control system shall create an urgent alarm on the operator’s annunciator panel.
+
+When a DVD is inserted into the DVD player, the software shall illuminate the “DVD Present” LED.
+
+The software shall be available for purchase on the company web site and in retail stores.
+
+If there are not sufficient funds in the account, then the software shall reject the withdrawal request.
+
+While the AC power is off, the software shall illuminate the yellow LED.
+
+Where a HDMI port is present, the software shall allow the user to select HD content for viewing.
+
+While in startup mode, when the software detects an external flash card, the software shall store video on the flash card. 

@@ -1,0 +1,2391 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MatchesAnnots</Name>
+  <Value className="gate.corpora.ObjectWrapper"><![CDATA[<?xml version='1.0' encoding='UTF-8'?><gate.corpora.ObjectWrapper><value class="map"><entry><null/><list/></entry></value></gate.corpora.ObjectWrapper>]]></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Users/chetan.arora/Dropbox/RE13/implementationResources/Reqs.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>The M&amp;C shall provide user with the ability to remotely monitor and control via SNMPv3.<Node id="87"/>&#xd;
+<Node id="89"/>&#xd;
+<Node id="91"/>The M&amp;C remote monitoring and control function shall support following services:&#xd;
+	*starting&#xd;
+	*stopping&#xd;
+	*restarting&#xd;
+	*change of component state&#xd;
+An shutdown of the component via this interface is possible; Launching the component requires an external launcher.<Node id="355"/>&#xd;
+<Node id="357"/>&#xd;
+<Node id="359"/>The M&amp;C shall provide users with the ability to configure monitoring interface via SNMPv3.<Node id="449"/>&#xd;
+<Node id="451"/>&#xd;
+<Node id="453"/>The M&amp;C shall allow access to the configuration monitoring interface to authenticate MOC operators, only.<Node id="558"/> &#xd;
+<Node id="561"/>&#xd;
+<Node id="563"/>The M&amp;C shall provide users with the ability to configure control interface via SNMPv3.<Node id="650"/>&#xd;
+<Node id="652"/>&#xd;
+<Node id="654"/>The M&amp;C shall allow access to the configuration control interface to authenticate MOC operators, only.<Node id="756"/> &#xd;
+<Node id="759"/>&#xd;
+<Node id="761"/>The M&amp;C shall supply an SNMPv3 object used to remotely command its mode of operations to either active or standby.<Node id="875"/>&#xd;
+<Node id="877"/>&#xd;
+<Node id="879"/>The M&amp;C shall provide users with the ability to remotely monitor and control operations via SNMPv3 interface.<Node id="988"/>&#xd;
+<Node id="990"/>&#xd;
+<Node id="992"/>The M&amp;C components shall be able to support handling of up to: &#xd;
+- 2 Ka-ISL payloads  &#xd;
+- 4 OISL payloads  &#xd;
+- 3 GEO spacecraft  &#xd;
+- 20 Users  &#xd;
+- 25 LEO satellites.<Node id="1157"/>
+<Node id="1158"/>&#xd;
+<Node id="1160"/>The M&amp;C shall support the handling of up to 200 communication sessions per day for  each  type  of communication  session  (Ka-ISL,  OISL)  for  each  payload; Where  10% (TBC2) of the OISL sessions are Forward Tasking sessions with a total uplink time of 2.4h (TBC3).<Node id="1428"/> &#xd;
+<Node id="1431"/>&#xd;
+<Node id="1433"/>The M&amp;C shall use the computer time to synchronize activities and when assigning timestamps to objects.&#xd;<Node id="1537"/>
+<Node id="1538"/>&#xd;
+<Node id="1540"/>The  M&amp;C shall provide users with the ability to configure following parameters:&#xd;
+	*event timers durations&#xd;
+	*activities workflows triggers.<Node id="1680"/>
+<Node id="1681"/>&#xd;
+<Node id="1683"/>The M&amp;C shall provide users with the ability to poll configurable intervals for modules reading information from EDRS components.<Node id="1812"/>&#xd;
+<Node id="1814"/>&#xd;
+<Node id="1816"/>The M&amp;C shall support reloading of configuration parameters during runtime.<Node id="1891"/>&#xd;
+<Node id="1893"/>&#xd;
+<Node id="1895"/>The M&amp;C shall provide users with the ability to support configuration reload requests handling via SNMPv3 interface.<Node id="2011"/>&#xd;
+<Node id="2013"/>&#xd;
+<Node id="2015"/>The M&amp;C shall load new configuration from DBS and apply it as soon as it receives reloading request via SNMPv3 interface.<Node id="2136"/>&#xd;
+<Node id="2138"/>&#xd;
+<Node id="2140"/>The M&amp;C shall support the modification of any of its configuration parameters upon request.<Node id="2231"/> &#xd;
+<Node id="2234"/>&#xd;
+<Node id="2236"/>The M&amp;C shall apply new configuration  with a limited (less than 30 minutes) unavailability time or without unavailability if the parameter is only modifying &#xd;
+	*event timers durations &#xd;
+	*activities workflows triggers.<Node id="2455"/>
+<Node id="2456"/>&#xd;
+<Node id="2458"/>The M&amp;C shall read the new configuration from DBS upon request.<Node id="2521"/>&#xd;
+<Node id="2523"/>&#xd;
+<Node id="2525"/>The M&amp;C shall be connected to the MOC Local Network.<Node id="2577"/>&#xd;
+<Node id="2579"/>&#xd;
+<Node id="2581"/>During the M&amp;C component design phase, the quality control personnel shall co-ordinate with the design personnel to assure that requirements are stated in such a way that conformance of hardware and procedures can be objectively verified; Provisions shall be made to verify conformance to each stated requirement and that tools, facilities, skills, technical plans and procedures used will result in compliant hardware and software.<Node id="3013"/>&#xd;
+<Node id="3015"/>&#xd;
+<Node id="3017"/>In case of non-conformance, failures or problems, hardware or software, it shall to follow the  approved quality assurance procedures; For all non-conformances affecting equipment hardware or software the appropriate standard non-conformance forms (NCR,SPR) shall be used.<Node id="3289"/>&#xd;
+<Node id="3291"/>&#xd;
+<Node id="3293"/>The M&amp;C shall be developed under TechCom's ISO 9001 quality management system.<Node id="3371"/>&#xd;
+<Node id="3373"/>&#xd;
+<Node id="3375"/>The M&amp;C component suppliers shall be responsible for adequate and effective control over his procurement sources to ensure that software artifacts and services meet all quality requirements.<Node id="3565"/> &#xd;
+<Node id="3568"/>&#xd;
+<Node id="3570"/>The M&amp;C component provider shall maintain adequate records of inspections and tests performed at source.<Node id="3674"/>  &#xd;
+<Node id="3678"/>&#xd;
+<Node id="3680"/>The M&amp;C component provider shall control purchase orders to ensure incorporation of all pertinent technical and quality requirements, including authorised changes.<Node id="3843"/>&#xd;
+<Node id="3845"/>&#xd;
+<Node id="3847"/>All M&amp;C deliverables shall be put under quality control.<Node id="3903"/>&#xd;
+<Node id="3905"/>&#xd;
+<Node id="3907"/>The M&amp;C component progress shall be reported on regular basis once a month.<Node id="3982"/>&#xd;
+<Node id="3984"/>&#xd;
+<Node id="3986"/>The M&amp;C component provider shall report on progress of supplier activities in the Progress Report if applicable.<Node id="4098"/>&#xd;
+<Node id="4100"/>&#xd;
+<Node id="4102"/>The M&amp;C component supplier's report on supplier shall include at least that status of &#xd;
+	*activities&#xd;
+	*software documentation incl drawings&#xd;
+	*software development.<Node id="4267"/>
+<Node id="4268"/>&#xd;
+&#xd;
+<Node id="4272"/>All M&amp;C component documents and software shall be version controlled.<Node id="4341"/>&#xd;
+<Node id="4343"/>&#xd;
+<Node id="4345"/>The M&amp;C component shall utilize commercial software where possible.<Node id="4412"/> &#xd;
+<Node id="4415"/>&#xd;
+<Node id="4417"/>The M&amp;C shall utilize open source software were possible, if an commercial product is not available.<Node id="4517"/>&#xd;
+<Node id="4519"/>&#xd;
+<Node id="4521"/>The M&amp;C shall utilize tested, in-house developed components, where flexibility and scalability is required.<Node id="4628"/>&#xd;
+<Node id="4630"/>&#xd;
+<Node id="4632"/>Specific software, not available commercially, shall be developed according to ECSS-E-ST-40c or a tailored and customer approved version thereof.<Node id="4777"/>&#xd;
+<Node id="4779"/>&#xd;
+<Node id="4781"/>The M&amp;C documentation shall show the traceability of the requirements, in line with the ECSS-40C tailoring agreed and referenced in [AD05].<Node id="4920"/>&#xd;
+<Node id="4922"/>&#xd;
+<Node id="4924"/>The M&amp;C component  suppliers  shall  produce  a specification  for  the M&amp;C components.<Node id="5011"/> &#xd;
+<Node id="5014"/>&#xd;
+<Node id="5016"/>The final version of the M&amp;C SDD shall include the specification of the M&amp;C component.<Node id="5102"/>&#xd;
+<Node id="5104"/>&#xd;
+<Node id="5106"/>The M&amp;C component shall use UTC as base for all activities and functions.<Node id="5179"/>&#xd;
+<Node id="5181"/>&#xd;
+<Node id="5183"/>The M&amp;C component provider shall provide users with the ability to make 3 electronic copies of the component documents.<Node id="5302"/>&#xd;
+<Node id="5304"/>&#xd;
+<Node id="5306"/>The M&amp;C component provider shall provide users with the ability to make 3 paper copies of the component documents.<Node id="5420"/>&#xd;
+<Node id="5422"/>&#xd;
+<Node id="5424"/>The M&amp;C component provider shall propose a list of component changes and events.<Node id="5504"/> &#xd;
+<Node id="5507"/>&#xd;
+<Node id="5509"/>The M&amp;C component provider shall agreed with the prime on the proposal.<Node id="5580"/>&#xd;
+<Node id="5582"/>&#xd;
+<Node id="5584"/>The M&amp;C component shall log the approved changes and events in the DBS.<Node id="5655"/>&#xd;
+<Node id="5657"/>&#xd;
+<Node id="5659"/>The M&amp;C component shall send its log information to the centralized syslog daemon.<Node id="5741"/>&#xd;
+<Node id="5743"/>&#xd;
+<Node id="5745"/>The M&amp;C component shall poll the DBS for log information.<Node id="5802"/>&#xd;
+<Node id="5804"/>&#xd;
+<Node id="5806"/>The M&amp;C component shall provide users with the ability to read the log files from log directory.<Node id="5902"/>&#xd;
+<Node id="5904"/>&#xd;
+<Node id="5906"/>The M&amp;C Component shall provide users with the ability to search, filtering and analysis of log files by using an external tool.<Node id="6034"/>&#xd;
+<Node id="6036"/>&#xd;
+<Node id="6038"/>The M&amp;C component provider shall provide users with the ability to train RSS on the M&amp;C component.<Node id="6136"/>&#xd;
+<Node id="6138"/>&#xd;
+<Node id="6140"/>The M&amp;C component provider shall supply training material on the M&amp;C component.<Node id="6219"/>&#xd;
+<Node id="6221"/>&#xd;
+<Node id="6223"/>The M&amp;C component training shall be based on the software manuals accompanied by a presentation.<Node id="6319"/> &#xd;
+<Node id="6322"/>&#xd;
+<Node id="6324"/>The M&amp;C shall read system configuration data from the DB.<Node id="6381"/>
+<Node id="6382"/>&#xd;
+<Node id="6384"/>The M&amp;C shall save system configuration data to the DB.<Node id="6439"/>
+<Node id="6440"/>&#xd;
+<Node id="6442"/>The M&amp;C shall not use local configuration files for system operations.<Node id="6512"/>
+<Node id="6513"/>&#xd;
+<Node id="6515"/>If the M&amp;C needs a local configuration file, then it shall be created from the DB system configuration data.<Node id="6623"/>
+<Node id="6624"/>&#xd;
+<Node id="6626"/>The M&amp;C shall monitor the MOC components configuration parameters changes in the DB.<Node id="6710"/>&#xd;
+<Node id="6712"/>&#xd;
+<Node id="6714"/>The M&amp;C shall notify the MOC operator about MOC component configuration changes.<Node id="6794"/>&#xd;
+<Node id="6796"/>&#xd;
+<Node id="6798"/>The M&amp;C shall provide the MOC operator with the ability to command MOC components to load new configuration from the DB.<Node id="6918"/>&#xd;
+<Node id="6920"/>&#xd;
+<Node id="6922"/>The M&amp;C shall provide the MOC operator with the ability to schedule planned outages.<Node id="7006"/>&#xd;
+<Node id="7008"/>&#xd;
+<Node id="7010"/>When<Node id="7014"/> a planned outage is scheduled the M&amp;C shall inform the DBS.&#xd;<Node id="7075"/>
+<Node id="7076"/>&#xd;
+<Node id="7078"/>The M&amp;C shall detect an unplanned outage from EDRS Components.<Node id="7140"/>&#xd;
+<Node id="7142"/>&#xd;
+<Node id="7144"/>When<Node id="7148"/> an unplanned outage is detected the M&amp;C shall inform the DBS.<Node id="7210"/>&#xd;
+<Node id="7212"/>&#xd;
+<Node id="7214"/>When<Node id="7218"/> an unplanned outage is detected the M&amp;C shall inform the MOC operator.<Node id="7289"/>
+<Node id="7290"/>&#xd;
+<Node id="7292"/>The M&amp;C shall provide the MOC operator with the ability to acknowledge the unplanned outage.<Node id="7384"/>
+<Node id="7385"/>&#xd;
+<Node id="7387"/>The M&amp;C shall supply the status of each Ground Station and Satellite Control Center to the operator.<Node id="7487"/>&#xd;
+<Node id="7489"/>&#xd;
+<Node id="7491"/>The status can be one of the possible EDRS Component Statuses.<Node id="7553"/>&#xd;
+<Node id="7555"/>&#xd;
+<Node id="7557"/>The M&amp;C shall use different colors to present visually to the MOC Operator the EDRS MOC component status.<Node id="7662"/>&#xd;
+<Node id="7664"/>&#xd;
+<Node id="7666"/>The M&amp;C shall visually distinguish between planned unavailability or M&amp;C detected only outage.<Node id="7760"/>&#xd;
+<Node id="7762"/>&#xd;
+<Node id="7764"/>The M&amp;C shall supply a warning when an EDRS Component constraint has changed to the MOC Operator.<Node id="7861"/>&#xd;
+<Node id="7863"/>&#xd;
+<Node id="7865"/>The M&amp;C component poll the DBS for EDRS Component constraint changes.<Node id="7934"/>&#xd;
+<Node id="7936"/>&#xd;
+<Node id="7938"/>The M&amp;C shall handle following constraint attributes changes:&#xd;
+	*time&#xd;
+	*length&#xd;
+	*validity&#xd;
+(others might be added on request).<Node id="8066"/>
+<Node id="8067"/>&#xd;
+<Node id="8069"/>The M&amp;C shall povide the MOC Operator with a feature to change &#xd;
+	*EDRS Component availability status&#xd;
+	*expected time to restore service.<Node id="8207"/>
+<Node id="8208"/>&#xd;
+&#xd;
+<Node id="8212"/>The M&amp;C shall generate an XML file for EDRS Component constraints change trace ability purpose.<Node id="8307"/>&#xd;
+<Node id="8309"/>&#xd;
+<Node id="8311"/>The M&amp;C shall poll the DBS for the European Data Relay Satellite anomalies.<Node id="8386"/>&#xd;
+<Node id="8388"/>&#xd;
+<Node id="8390"/>The M&amp;C shall poll the DBS for European Data Relay Satellite payload anomalies.<Node id="8469"/>&#xd;
+<Node id="8471"/>&#xd;
+<Node id="8473"/>The M&amp;C shall present to the MOC operator the European Data Relay Satellite anomalies.<Node id="8559"/>
+<Node id="8560"/>&#xd;
+<Node id="8562"/>The M&amp;C shall present to the MOC operator European Data Relay Satellite payload anomalies.<Node id="8652"/>&#xd;
+<Node id="8654"/>&#xd;
+<Node id="8656"/>An anomaly shall be described in textual, human readable and understandable format.<Node id="8739"/>&#xd;
+<Node id="8741"/>&#xd;
+<Node id="8743"/>The M&amp;C shall allow the operator to register a foreseen due date for a European Data Relay Satellite anomaly.<Node id="8852"/>&#xd;
+<Node id="8854"/>&#xd;
+<Node id="8856"/>The M&amp;C shall allow the operator to register a foreseen due date for a European Data Relay Satellite payload anomaly.<Node id="8973"/>&#xd;
+<Node id="8975"/>&#xd;
+<Node id="8977"/>The M&amp;C component shall command the DBS to dispatch the final Configuration Files to the EDRS Stakeholders.<Node id="9084"/>&#xd;
+<Node id="9086"/>&#xd;
+<Node id="9088"/>The M&amp;C shall command the DBS to distribute the configuration files to the EDRS stakeholders.<Node id="9181"/>&#xd;
+<Node id="9183"/>&#xd;
+<Node id="9185"/>For each EDRS stakeholder a configurable parameter shall exists in the DB, which defines the distribution interval in seconds.<Node id="9311"/>&#xd;
+<Node id="9313"/>&#xd;
+<Node id="9315"/>When<Node id="9319"/> MOC operator request, the M&amp;C shall command the DBS to dispatch all autonomously dispatched Configuration Files and Data Files.<Node id="9447"/>
+<Node id="9448"/>&#xd;
+<Node id="9450"/>The M&amp;C shall provide the MOC operator with the ability to trigger dispatching of Configuration Files and Data Files.<Node id="9567"/>&#xd;
+<Node id="9569"/>&#xd;
+<Node id="9571"/>The M&amp;C shall poll the DB for status information of the dispatching.<Node id="9639"/>&#xd;
+<Node id="9641"/>&#xd;
+<Node id="9643"/>The M&amp;C shall display the status information of the dispatching to MOC Operator.<Node id="9723"/>&#xd;
+<Node id="9725"/>&#xd;
+<Node id="9727"/>The M&amp;C shall command DBS to distribute the Forward tasking data to the Satellite Control Center for the respective EDRS Satellite.<Node id="9858"/>
+<Node id="9859"/>&#xd;
+<Node id="9861"/>The M&amp;C shall report the status of the Forward tasking data dispatching to Satellite Control Centers to the MPS via DB.<Node id="9980"/>
+<Node id="9981"/>&#xd;
+<Node id="9983"/>The M&amp;C shall poll the DB for the time to upload the Forward tasking data to the Satellite Control Center.<Node id="10089"/>
+<Node id="10090"/>&#xd;
+<Node id="10092"/>The M&amp;C shall assure that Forward tasking data is available at Satellite Control Center in time before communication session.<Node id="10217"/>&#xd;
+<Node id="10219"/>&#xd;
+<Node id="10221"/>The M&amp;C shall take into account the communication limits from the system configuration in the DBS when planning the dispatching time.<Node id="10354"/>&#xd;
+<Node id="10356"/>&#xd;
+<Node id="10358"/>The M&amp;C shall consider following note:&#xd;
+The M&amp;C component shall assure the transfer of the forward data to the SCC / DPCC in time; Upload may take several hours because of low uplink data rate; Worst case: 3MBytes, 500bps uplink rate, 14 h of upload time, i.e 14h + &amp;lt;MOC_Link_Configuration_Transmit&amp;gt; to uplink the info in advance; This may be even higher if the useable data rate for the forward tasking data is less than 500 bits/sec.<Node id="10799"/>&#xd;
+<Node id="10801"/>&#xd;
+<Node id="10803"/>When<Node id="10807"/> M&amp;C component configuration change, the  M&amp;C shall  store  its configuration into  the DBS.<Node id="10899"/>&#xd;
+<Node id="10901"/>&#xd;
+<Node id="10903"/>The M&amp;C shall store  the availability of the EDRS components into  the DBS.<Node id="10978"/>&#xd;
+<Node id="10980"/>&#xd;
+<Node id="10982"/>The M&amp;C shall periodically poll the EDRS Components for their availability during operations.<Node id="11075"/>&#xd;
+<Node id="11077"/>&#xd;
+<Node id="11079"/>The SSM shall supply a selection of general EDRS Satellite parameters through the DB to MOC Operator.<Node id="11180"/>&#xd;
+<Node id="11182"/>&#xd;
+<Node id="11184"/>The M&amp;C shall aggregate the EDRS Satellite alarms into an overall status alarm.<Node id="11263"/>&#xd;
+<Node id="11265"/>&#xd;
+<Node id="11267"/>The M&amp;C shall provide the MOC Operator with the ability to receive overall status alarm for EDRS Satellite.<Node id="11374"/>&#xd;
+<Node id="11376"/>&#xd;
+<Node id="11378"/>The M&amp;C shall poll the DB for EDRS Satellite anomalies provided by the SSM having an impact on execution and link quality.<Node id="11500"/>&#xd;
+<Node id="11502"/>&#xd;
+<Node id="11504"/>The M&amp;C shall notify the MPS of the degradation of the service via DB.<Node id="11574"/>&#xd;
+<Node id="11576"/>&#xd;
+<Node id="11578"/>The M&amp;C shall provide the operator with the ability to report an anomaly as fixed and closed.<Node id="11671"/>&#xd;
+<Node id="11673"/>&#xd;
+<Node id="11675"/>The M&amp;C shall notify the DBS when a reported anomaly is fixed and closed.<Node id="11748"/>&#xd;
+<Node id="11750"/>&#xd;
+<Node id="11752"/>The M&amp;C shall notify the MPS when a reported anomaly is fixed and closed.<Node id="11825"/>&#xd;
+<Node id="11827"/>&#xd;
+<Node id="11829"/>The M&amp;C shall trigger the DBS to issue a closure form to all the involved stakeholders.<Node id="11916"/>&#xd;
+<Node id="11918"/>&#xd;
+<Node id="11920"/>The M&amp;C shall handle Forward Tasking Data Replacement requests until &amp;lt;Last_Planning_Request&amp;gt; before the communication session.<Node id="12052"/>&#xd;
+<Node id="12054"/>&#xd;
+<Node id="12056"/>The M&amp;C shall generate a Forward Tasking Data deletion command to the Satellite Control Centre and store it on DBS if a previous Forward tasking data set has been uploaded already, covering the concerned session.<Node id="12268"/>&#xd;
+<Node id="12270"/>&#xd;
+<Node id="12272"/>The M&amp;C shall process internally the Forward Tasking Data set replacement if no Forward Tasking Data set has been uploaded already.<Node id="12403"/>&#xd;
+<Node id="12405"/>&#xd;
+<Node id="12407"/>The M&amp;C shall periodically check the of the network elements by using the ping command.<Node id="12494"/> &#xd;
+<Node id="12497"/>&#xd;
+<Node id="12499"/>The M&amp;C shall periodically poll CSM data from the Ground Stations on SNMPv2c interface.<Node id="12586"/>&#xd;
+<Node id="12588"/>&#xd;
+<Node id="12590"/>The Ground Stations shall supply the CSM data in final, ready to display format.<Node id="12670"/>&#xd;
+<Node id="12672"/>&#xd;
+<Node id="12674"/>The M&amp;C shall write the polled CSM accompanied by a time-stamp and ground station ID data into the DB.<Node id="12776"/>&#xd;
+<Node id="12778"/>&#xd;
+<Node id="12780"/>The M&amp;C shall poll the DB for EDRS Satellite anomalies provided by the SSM.<Node id="12855"/>&#xd;
+<Node id="12857"/>&#xd;
+<Node id="12859"/>If the anomaly leads to an unavailability of EDRS Satellite for more than 24hrs the M&amp;C shall supply this information in the EDRS Satellite status window to MOC Operator.<Node id="13029"/>&#xd;
+<Node id="13031"/>&#xd;
+<Node id="13033"/>The M&amp;C shall poll the DB to retrieve the satellite switchover event.<Node id="13102"/>&#xd;
+<Node id="13104"/>&#xd;
+<Node id="13106"/>The M&amp;C shall command the DBS to dispatch the configuration files to the Satellite Control Center and Ground Stations in case of satellite switchover.<Node id="13256"/>&#xd;
+<Node id="13258"/>&#xd;
+<Node id="13260"/>The M&amp;C shall poll the execution and completion status of the scheduled activities from DBS.<Node id="13352"/>&#xd;
+<Node id="13354"/>&#xd;
+<Node id="13356"/>The DBS polling interval shall be configurable to allow max responsiveness.<Node id="13431"/> &#xd;
+<Node id="13434"/>&#xd;
+<Node id="13436"/>The M&amp;C shall supply the status of execution and completion of scheduled activities to MOC Operator.<Node id="13536"/>&#xd;
+<Node id="13538"/>&#xd;
+<Node id="13540"/>The M&amp;C shall periodically poll max 5 predefined, fixed Ground Stations performance parameters from the DB.<Node id="13647"/>&#xd;
+<Node id="13649"/>&#xd;
+<Node id="13651"/>The M&amp;C shall supply those performance parameters to MOC Operator.<Node id="13717"/>&#xd;
+<Node id="13719"/>&#xd;
+<Node id="13721"/>The M&amp;C shall present the CSM data to the MOC operator for a visual quality evaluation.<Node id="13808"/>&#xd;
+<Node id="13810"/>&#xd;
+<Node id="13812"/>The M&amp;C shall poll the DBS for CSM data received from the CSM Ground Station.<Node id="13889"/>&#xd;
+<Node id="13891"/>&#xd;
+<Node id="13893"/>The M&amp;C shall periodically poll the DBS for EDTS CSM information.<Node id="13958"/>&#xd;
+<Node id="13960"/>&#xd;
+<Node id="13962"/>The M&amp;C shall present the CSM information for visual link quality evaluation to MOC Operator.<Node id="14055"/>&#xd;
+<Node id="14057"/>&#xd;
+<Node id="14059"/>The M&amp;C shall receive the CSM information in textual human readable format from DBS, such that no additional post processing or calculation is required.<Node id="14211"/> &#xd;
+<Node id="14214"/>&#xd;
+<Node id="14216"/>The M&amp;C component shall command the DBS to upload the final Configuration Files to the Satellite Control Center and Ground Station.<Node id="14347"/>&#xd;
+<Node id="14349"/>&#xd;
+<Node id="14351"/>The M&amp;C shall command the DBS to upload the Configuration Files according to the schedule.<Node id="14441"/>&#xd;
+<Node id="14443"/>&#xd;
+<Node id="14445"/>The M&amp;C shall upload the Configuration Files [delay+/-margin] before execution of the link.<Node id="14536"/>&#xd;
+<Node id="14538"/>&#xd;
+<Node id="14540"/>The margin and the delay of the configuration upload shall be configurable parameters in the DBS.<Node id="14637"/>&#xd;
+<Node id="14639"/>&#xd;
+<Node id="14641"/>The M&amp;C shall obtain the time when to upload the configuration from the DBS.<Node id="14717"/>&#xd;
+<Node id="14719"/>&#xd;
+<Node id="14721"/>The M&amp;C shall configure the Anti-DPU of an EDTE using a configuration file at the time specified in the final configuration schedule.<Node id="14854"/>&#xd;
+<Node id="14856"/>&#xd;
+<Node id="14858"/>The M&amp;C shall command the DBS to upload the configuration file.<Node id="14921"/>&#xd;
+<Node id="14923"/>&#xd;
+<Node id="14925"/>The M&amp;C shall configure the Anti-DPU of an EDTE using a configuration file at the time specified in the final configuration schedule.<Node id="15058"/>&#xd;
+<Node id="15060"/>&#xd;
+<Node id="15062"/>The M&amp;C shall command the DBS to upload the configuration file.<Node id="15125"/>&#xd;
+<Node id="15127"/>&#xd;
+<Node id="15129"/>The M&amp;C shall support following configuration functions:&#xd;
+	*GEO convolutional decoding  &#xd;
+	*GEO de-framing  &#xd;
+	*GEO Reed Solomon decoding  &#xd;
+	*EDRS decryption  &#xd;
+	*Data stream combination  &#xd;
+	*Header management and evaluation &#xd;
+	*Idle data deletion  &#xd;
+	*TBD21  for  each  communication  session  according to  the  parameters  of  the  communication schedule related configuration files, It is assumed that this information is transparent to the M&amp;C since the M&amp;C is in charge of uploading the configuration file, only.<Node id="15648"/> &#xd;
+<Node id="15651"/>&#xd;
+<Node id="15653"/>The M&amp;C shall configure the Anti-DPU of an EDTE using a configuration file at the time specified in the final configuration schedule.&#xd;<Node id="15787"/>
+<Node id="15788"/>&#xd;
+<Node id="15790"/>The M&amp;C shall command the DBS to upload the configuration file.<Node id="15853"/>&#xd;
+<Node id="15855"/>&#xd;
+<Node id="15857"/>The M&amp;C shall configure the Anti-LIAU of an EDTE using a configuration file at the time specified in the final configuration schedule.<Node id="15991"/>&#xd;
+<Node id="15993"/>&#xd;
+<Node id="15995"/>The M&amp;C shall command the DBS to upload the configuration file.<Node id="16058"/>&#xd;
+<Node id="16060"/>&#xd;
+<Node id="16062"/>The M&amp;C shall keep track of the latest configuration files sent to the Satellite Control Centers and Ground Stations.<Node id="16179"/>&#xd;
+<Node id="16181"/>&#xd;
+<Node id="16183"/>The M&amp;C shall supply the time and status of the latest configuration file upload per EDRS component to MOC Operator.<Node id="16299"/>&#xd;
+<Node id="16301"/>&#xd;
+<Node id="16303"/>The M&amp;C shall monitor the Satellite Control Center components by using  SNMPV2c.<Node id="16383"/>&#xd;
+<Node id="16385"/>&#xd;
+<Node id="16387"/>The M&amp;C shall monitor and control the Ground Stations components by using SNMPv2c.<Node id="16469"/>&#xd;
+<Node id="16471"/>&#xd;
+<Node id="16473"/>The M&amp;C shall monitor and control the Mission Operations Center components by using SNMPv3.<Node id="16564"/>&#xd;
+<Node id="16566"/>&#xd;
+<Node id="16568"/>The M&amp;C shall periodically poll the status of the Ground Stations via SNMPv2c.<Node id="16646"/>&#xd;
+<Node id="16648"/>&#xd;
+<Node id="16650"/>The M&amp;C shall support configurable polling interval per ground station.<Node id="16721"/>&#xd;
+<Node id="16723"/>&#xd;
+<Node id="16725"/>The M&amp;C shall support up to five configurable status parameters.<Node id="16789"/>&#xd;
+<Node id="16791"/>&#xd;
+<Node id="16793"/>The M&amp;C shall command the DBS to upload the Configuration Files and Communication Schedule Files to EDTE and User Data Storage System.<Node id="16927"/>&#xd;
+<Node id="16929"/>&#xd;
+<Node id="16931"/>The M&amp;C shall periodically poll the Satellite Control Center component status using SNMPv2c.<Node id="17023"/>&#xd;
+<Node id="17025"/>&#xd;
+<Node id="17027"/>The M&amp;C shall write the status to the DBS.<Node id="17069"/>&#xd;
+<Node id="17071"/>&#xd;
+<Node id="17073"/>The M&amp;C shall supply this status information to MOC Operator.<Node id="17134"/>&#xd;
+<Node id="17136"/>&#xd;
+<Node id="17138"/>The M&amp;C shall be able to launch CFI local M&amp;C application as separate process.<Node id="17216"/>&#xd;
+<Node id="17218"/>&#xd;
+<Node id="17220"/>The M&amp;C shall time out if there is no connection to the Ground Station components local M&amp;C.<Node id="17312"/>&#xd;
+<Node id="17314"/>&#xd;
+<Node id="17316"/>The M&amp;C shall periodically poll the availability of the Local M&amp;C via SNMPv2c.<Node id="17394"/>&#xd;
+<Node id="17396"/>&#xd;
+<Node id="17398"/>The M&amp;C shall raise a visual and audible alarm to the MOC operator in case availability cannot be detected.<Node id="17505"/>&#xd;
+<Node id="17507"/>&#xd;
+<Node id="17509"/>The M&amp;C shall provide MOC operator with the ability to start the local M&amp;C.<Node id="17584"/>&#xd;
+<Node id="17586"/>&#xd;
+<Node id="17588"/>The M&amp;C shall raise an alarm (visual and audible) to the MOC operator in case re-connection fails after [m] retires.<Node id="17704"/>&#xd;
+<Node id="17706"/>&#xd;
+<Node id="17708"/>The M&amp;C shall always try to connect after the grace period but shall not raise new alarms if it fails.<Node id="17810"/>&#xd;
+<Node id="17812"/>&#xd;
+<Node id="17814"/>The M&amp;C shall read the system configuration for each EDRS Component from the DBS.<Node id="17895"/>&#xd;
+<Node id="17897"/>&#xd;
+<Node id="17899"/>The M&amp;C shall take the System Configuration Database parameters into account when commanding the DBS to upload configuration files to EDRS components.<Node id="18049"/> &#xd;
+<Node id="18052"/>&#xd;
+<Node id="18054"/>The M&amp;C shall provide the MOC operator with the ability to start the local M&amp;C.<Node id="18133"/> 
+
+<Node id="18136"/>Technically, the local M&amp;C cannot run as child process of the Remote M&amp;C. It runs as independent process on the operating system.<Node id="18265"/>&#xd;
+<Node id="18267"/>&#xd;
+<Node id="18269"/>The M&amp;C shall monitor Mission Operation Center components status via SNMPv3.<Node id="18345"/>&#xd;
+<Node id="18347"/>&#xd;
+<Node id="18349"/>The M&amp;C shall retrieve the control mode of the MOC Components using the SNMPv3 interface.<Node id="18438"/>&#xd;
+<Node id="18440"/>&#xd;
+<Node id="18442"/>The M&amp;C shall supply the control mode information to MOC Operator.<Node id="18508"/>&#xd;
+<Node id="18510"/>&#xd;
+<Node id="18512"/>The M&amp;C shall periodically poll the DBS for logs from MOC Components.<Node id="18581"/>&#xd;
+<Node id="18583"/>&#xd;
+<Node id="18585"/>The M&amp;C shall periodically poll the DBS for logs from MOC Components.<Node id="18654"/>&#xd;
+<Node id="18656"/>&#xd;
+<Node id="18658"/>The M&amp;C shall provide the MOC operator with the ability to query the logs from DBS.<Node id="18741"/>&#xd;
+<Node id="18743"/>&#xd;
+<Node id="18745"/>The M&amp;C shall provide the MOC operator with the ability to display the log.<Node id="18820"/>&#xd;
+<Node id="18822"/>&#xd;
+<Node id="18824"/>The M&amp;C shall provide the MOC operator with the ability to filter the logs by sender, severity and timestamp.<Node id="18933"/>&#xd;
+<Node id="18935"/>&#xd;
+<Node id="18937"/>The M&amp;C shall provide the MOC operator with the ability to search through the log entries by specifying a search string.<Node id="19057"/>&#xd;
+<Node id="19059"/>&#xd;
+<Node id="19061"/>The M&amp;C shall supply  visual indication on alarms and events to MOC Operator.<Node id="19138"/>&#xd;
+<Node id="19140"/>&#xd;
+<Node id="19142"/>The M&amp;C shall supply audible indication on alarms and events to MOC Operator.<Node id="19219"/>&#xd;
+<Node id="19221"/>&#xd;
+<Node id="19223"/>The M&amp;C shall supply visual and audible alarm in any Control Mode in case of event or alarm to MOC Operator.<Node id="19331"/>&#xd;
+<Node id="19333"/>&#xd;
+<Node id="19335"/>The control mode shall one of the possible Control Modes.<Node id="19392"/>&#xd;
+<Node id="19394"/>&#xd;
+<Node id="19396"/>The M&amp;C shall provide users with the ability to retrieve log entries from the DBS.<Node id="19478"/>&#xd;
+<Node id="19480"/>&#xd;
+<Node id="19482"/>The M&amp;C shall provide the MOC operator with the ability to view the log entries retrieved from the DBS.<Node id="19585"/>&#xd;
+<Node id="19587"/>&#xd;
+<Node id="19589"/>The M&amp;C shall provide the MOC operator with the ability to search and filter log entries in the DBS.<Node id="19689"/>&#xd;
+<Node id="19691"/>&#xd;
+<Node id="19693"/>The M&amp;C shall provide the MOC operator with the ability to export the search and filter results to a file in a CSV format enabling analysis by an external tool.<Node id="19853"/>&#xd;
+<Node id="19855"/>&#xd;
+<Node id="19857"/>The M&amp;C shall poll EDRS Components for alarms using the SNMPv2c interface.<Node id="19931"/>&#xd;
+<Node id="19933"/>&#xd;
+<Node id="19935"/>The M&amp;C shall poll EDRS Components for events using the SNMPv2c interface.<Node id="20009"/>&#xd;
+<Node id="20011"/>&#xd;
+<Node id="20013"/>The M&amp;C shall present to the MOC Operator the alarms.<Node id="20066"/>&#xd;
+<Node id="20068"/>&#xd;
+<Node id="20070"/>The M&amp;C shall present  to the MOC operator the events.<Node id="20124"/>&#xd;
+<Node id="20126"/>&#xd;
+<Node id="20128"/>The M&amp;C shall write the alarms to the DBS.<Node id="20170"/>&#xd;
+<Node id="20172"/>&#xd;
+<Node id="20174"/>The M&amp;C shall write the events to the DBS.<Node id="20216"/>&#xd;
+<Node id="20218"/>&#xd;
+<Node id="20220"/>The M&amp;C shall present the operator with visual notification in case an alarm arises in the Ground Station or the Satellite Control Center.<Node id="20358"/>&#xd;
+<Node id="20360"/>&#xd;
+<Node id="20362"/>The M&amp;C shall present the operator with audible notification in case an alarm arises in the Ground Station or the Satellite Control Center.<Node id="20501"/>&#xd;
+<Node id="20503"/>&#xd;
+<Node id="20505"/>The M&amp;C shall retrieve the control mode of the MOC Components using the SNMPv3 interface.<Node id="20594"/>&#xd;
+<Node id="20596"/>&#xd;
+<Node id="20598"/>The M&amp;C shall supply the control mode information to MOC Operator.<Node id="20664"/>&#xd;
+<Node id="20666"/>&#xd;
+<Node id="20668"/>The M&amp;C shall configure the EDTEs and data storage system installed on the Ground Stations by uploading configuration files.<Node id="20792"/>&#xd;
+<Node id="20794"/>&#xd;
+<Node id="20796"/>The M&amp;C shall command the DBS to upload the configuration files.<Node id="20860"/>&#xd;
+<Node id="20862"/>&#xd;
+<Node id="20864"/>The M&amp;C shall supply the status of each Mission Operations Center to MOC Operator.<Node id="20946"/>&#xd;
+<Node id="20948"/>&#xd;
+<Node id="20950"/>The Mission Operations Center status can be either active or standby.<Node id="21019"/>&#xd;
+<Node id="21021"/>&#xd;
+<Node id="21023"/>The M&amp;C shall provide the MOC operator with the ability to switch to standby state at active MOC.<Node id="21120"/>&#xd;
+<Node id="21122"/>&#xd;
+<Node id="21124"/>The M&amp;C shall provide the MOC operator with the ability to switch to active state at standby MOC.<Node id="21221"/>&#xd;
+<Node id="21223"/>&#xd;
+<Node id="21225"/>The M&amp;C shall support following workflow when going from active to standby state:&#xd;
+ &#xd;
+	*Synchronization of the DBS&#xd;
+	*Change of the active MOC components to standby state&#xd;
+	*Change the active MOC to standby state&#xd;
+	*Change of the standby MOC components to active state&#xd;
+	*Change the standby MOC to active MOC.<Node id="21534"/>
+<Node id="21535"/>&#xd;
+&#xd;
+<Node id="21539"/>The M&amp;C shall poll the DBS for Satellite Control Centre Forward Tasking Data deletion command acknowledgement.<Node id="21649"/>&#xd;
+<Node id="21651"/>&#xd;
+<Node id="21653"/>When<Node id="21657"/> positive acknowledgement the M&amp;C shall &#xd;
+	*store the acknowledge message in DBS&#xd;
+	*delete the Forward Tasking Data set from DBS and&#xd;
+	*command the DBS to notify the user of the acknowledgement of his request.<Node id="21866"/> &#xd;
+<Node id="21869"/>&#xd;
+&#xd;
+<Node id="21873"/>The case of negative acknowledgement the M&amp;C shall:&#xd;
+	*store the acknowledge message in DBS&#xd;
+	*command the DBS to notify the user of the rejection of his request.<Node id="22035"/> &#xd;
+<Node id="22038"/>&#xd;
+&#xd;
+<Node id="22042"/>The M&amp;C shall periodically poll the DBS for the availability of LEO orbit S/C files.<Node id="22126"/>&#xd;
+<Node id="22128"/>&#xd;
+<Node id="22130"/>The M&amp;C shall command the DBS to send the LEO orbit S/C files to the Satellite Control Centre.<Node id="22224"/>&#xd;
+<Node id="22226"/>&#xd;
+<Node id="22228"/>The M&amp;C component shall lock the component change mode feature while a component change mode request is under execution.<Node id="22348"/>&#xd;
+<Node id="22350"/>&#xd;
+<Node id="22352"/>The M&amp;C shall wait until mode change if finished or a timeout occurs.<Node id="22421"/>&#xd;
+<Node id="22423"/>&#xd;
+<Node id="22425"/>The M&amp;C shall display all the warnings or alarms to the MOC operator no later than 30 seconds (TBC26) after its reception or after its generation (internal to M&amp;C).<Node id="22589"/> &#xd;
+<Node id="22592"/>&#xd;
+<Node id="22594"/>The M&amp;C shall periodically poll the DBS for link process changes.<Node id="22659"/> &#xd;
+<Node id="22662"/>&#xd;
+<Node id="22664"/>The M&amp;C shall present to the MOC operator the link process changes latest 30s after its availability in the DBS.<Node id="22776"/>&#xd;
+<Node id="22778"/>&#xd;
+<Node id="22780"/>The M&amp;C shall periodically poll the DBS for MOC equipment and MOC component status changes.<Node id="22871"/> &#xd;
+<Node id="22874"/>&#xd;
+<Node id="22876"/>The M&amp;C shall present to the MOC operator the MOC equipment or MOC component status changes latest 30s after its availability in the DBS.<Node id="23013"/>&#xd;
+<Node id="23015"/>&#xd;
+<Node id="23017"/>The M&amp;C shall periodically poll the DBS for EDRS Satellite monitoring information.<Node id="23099"/>&#xd;
+<Node id="23101"/>&#xd;
+<Node id="23103"/>The M&amp;C shall supply the EDRS Satellite monitoring information to MOC Operator.<Node id="23182"/>&#xd;
+<Node id="23184"/>&#xd;
+<Node id="23186"/>The DBS shall facilitate the M&amp;C with human readable, textual EDRS Satellite monitoring information.<Node id="23286"/>&#xd;
+<Node id="23288"/>&#xd;
+<Node id="23290"/>The M&amp;C shall periodically poll the Satellite Control Center for EDRS satellite monitoring information using SNMPv2c.<Node id="23407"/>&#xd;
+<Node id="23409"/>&#xd;
+<Node id="23411"/>The M&amp;C shall write the alarms and events to the DBS.<Node id="23464"/>&#xd;
+<Node id="23466"/>&#xd;
+<Node id="23468"/>The severity of the events shall be configurable in the DBS.<Node id="23528"/>&#xd;
+<Node id="23530"/>&#xd;
+<Node id="23532"/>The M&amp;C shall notify the MOC visually and audibly in case of alarms and events.<Node id="23611"/>&#xd;
+<Node id="23613"/>&#xd;
+<Node id="23615"/>The M&amp;C shall provide users with the ability to request EDRS-A TeleCommand (TC) data stored in the DBS.<Node id="23718"/>&#xd;
+<Node id="23720"/>&#xd;
+<Node id="23722"/>The M&amp;C shall provide users with the ability to display the EDRS-A TC data to the MOC Operator.<Node id="23817"/>&#xd;
+<Node id="23819"/>&#xd;
+<Node id="23821"/>The EDRS-A TC data shall be available in the DBS in human readable, textual format.<Node id="23904"/> &#xd;
+<Node id="23907"/>&#xd;
+<Node id="23909"/>The M&amp;C shall periodically poll the DBS for the availability of the Forward Tasking Data.<Node id="23998"/> &#xd;
+<Node id="24001"/>&#xd;
+<Node id="24003"/>The M&amp;C shall update the session data status in the DBS with the availability of the Forward Tasking Data.<Node id="24109"/>&#xd;
+<Node id="24111"/>&#xd;
+<Node id="24113"/>The M&amp;C shall poll periodically the DBS for Satellite Control Center Forward Tasking Data Upload Confirmation.<Node id="24223"/>&#xd;
+<Node id="24225"/>&#xd;
+<Node id="24227"/>The M&amp;C shall process the Forward Tasking Data Upload Confirmation and store a confirmation to the DBS.<Node id="24330"/> &#xd;
+<Node id="24333"/>&#xd;
+&#xd;
+<Node id="24337"/>The M&amp;C shall notify the DBS to send a Forward Tasking Data Upload Confirmation to the respective user.<Node id="24440"/> &#xd;
+<Node id="24443"/>&#xd;
+<Node id="24445"/>The M&amp;C shall poll the DBS for Forward Tasking Data Confirmation.<Node id="24510"/>&#xd;
+<Node id="24512"/>&#xd;
+<Node id="24514"/>The M&amp;C shall notify the DBS to dispatch Forward Tracking Data Confirmation to the respective user.<Node id="24613"/>&#xd;
+<Node id="24615"/>&#xd;
+<Node id="24617"/>The M&amp;C shall poll periodically the DBS for Satellite Control Center Forward Tasking Data Confirmation.<Node id="24720"/>&#xd;
+<Node id="24722"/>&#xd;
+<Node id="24724"/>The M&amp;C shall process the Forward Tasking Data Confirmation and store a confirmation to the DBS. &#xd;<Node id="24822"/>
+<Node id="24823"/>&#xd;
+<Node id="24825"/>The M&amp;C shall notify the DBS to send a Forward Tasking Data Confirmation to the respective user.<Node id="24921"/> &#xd;
+<Node id="24924"/>&#xd;
+<Node id="24926"/>The M&amp;C shall support the workflow required to distribute Config Files incl D/L Keys to UGS EDTE by polling events from the DBS and writing status to DBS.<Node id="25080"/>&#xd;
+<Node id="25082"/>&#xd;
+<Node id="25084"/>The M&amp;C shall command the DBS to forward the Config Files incl D/L Keys to the UGS EDTEs.<Node id="25173"/>&#xd;
+<Node id="25175"/>&#xd;
+<Node id="25177"/>The M&amp;C shall perform validity check  before commanding the DBS to distribute the Config files incl D/L Keys.<Node id="25286"/>&#xd;
+<Node id="25288"/>&#xd;
+<Node id="25290"/>The M&amp;C shall use PMOC_UEDTE_GFMN or BMOC_UEDTE_GFMN interface.<Node id="25353"/>&#xd;
+<Node id="25355"/>&#xd;
+<Node id="25357"/>The M&amp;C component shall be designed and implemented respecting a processing capacity ("CPU usage") margin of min 50.<Node id="25473"/> &#xd;
+<Node id="25476"/>&#xd;
+<Node id="25478"/>The M&amp;C shall demonstrate that it respects the processing capacity margin ("CPU usage") during a TBC5 period.<Node id="25587"/> &#xd;
+<Node id="25590"/>&#xd;
+<Node id="25592"/>The M&amp;C component shall be designed and implemented respecting a processor memory ("Memory usage") margin of min 50%.<Node id="25709"/> &#xd;
+<Node id="25712"/>&#xd;
+<Node id="25714"/>The M&amp;C shall demonstrate that it respects the processor memory margin ("Memory usage") during a TBC4 period.<Node id="25823"/> &#xd;
+<Node id="25826"/>&#xd;
+<Node id="25828"/>The M&amp;C shall support the workflow required to distribute Forward Tasking data by polling events from the DBS and writing status to DBS.<Node id="25964"/>&#xd;
+<Node id="25966"/>&#xd;
+<Node id="25968"/>The M&amp;C shall command the DBS to forward the Forward Tasking data file to the Satellite Control Center.<Node id="26071"/>&#xd;
+<Node id="26073"/>&#xd;
+<Node id="26075"/>The M&amp;C shall poll the status of the SCC from the SNMPv2c interface.<Node id="26143"/>&#xd;
+<Node id="26145"/>&#xd;
+<Node id="26147"/>The M&amp;C shall write the status to the DB.<Node id="26188"/>&#xd;
+<Node id="26190"/>&#xd;
+<Node id="26192"/>The M&amp;C shall support the workflow required to distribute to the DPCC P/L Config Files incl D/L Keys file by polling events from the DB and writing status to DBS.<Node id="26354"/>&#xd;
+<Node id="26356"/>&#xd;
+<Node id="26358"/>The M&amp;C shall command the DBS to forward the P/L Config Files incl D/L Keys file to the DPCC.<Node id="26451"/>&#xd;
+<Node id="26453"/>&#xd;
+<Node id="26455"/>The M&amp;C shall support the workflow required to distribute Config Files or Forward Tasking Data confirmation to UGS by polling events from the DBS and writing status to DBS.<Node id="26627"/>&#xd;
+<Node id="26629"/>&#xd;
+<Node id="26631"/>The M&amp;C shall command the DBS to forward the Config Files or Forward Tasking Data confirmation to the UGS.<Node id="26737"/>&#xd;
+<Node id="26739"/>&#xd;
+<Node id="26741"/>The M&amp;C shall perform validity check before commanding the DBS to distribute the Config Files or Forward Tasking Data confirmation.<Node id="26872"/>&#xd;
+<Node id="26874"/>&#xd;
+<Node id="26876"/>The M&amp;C shall use PMOC_OptUSR_EMDN or BMOC_OptUSR_EMDN interface.<Node id="26941"/>&#xd;
+<Node id="26943"/>&#xd;
+<Node id="26945"/>The M&amp;C shall poll the status of the DPCC from the SNMPv2c interface.<Node id="27014"/>&#xd;
+<Node id="27016"/>&#xd;
+<Node id="27018"/>The M&amp;C shall write the status to the DBS.<Node id="27060"/>&#xd;
+<Node id="27062"/>&#xd;
+<Node id="27064"/>The M&amp;C shall poll FLGS status data using SNMPv2c interface.<Node id="27124"/>&#xd;
+<Node id="27126"/>&#xd;
+<Node id="27128"/>The M&amp;C shall write the status to the DBS.<Node id="27170"/>&#xd;
+<Node id="27172"/>&#xd;
+<Node id="27174"/>The M&amp;C shall poll BFLGS status data using SNMPv2c interface.<Node id="27235"/>&#xd;
+<Node id="27237"/>&#xd;
+<Node id="27239"/>The M&amp;C shall write the status to the DBS.<Node id="27281"/>&#xd;
+<Node id="27283"/>&#xd;
+<Node id="27285"/>The M&amp;C shall poll RDGS status data using SNMPv2c interface.<Node id="27345"/>&#xd;
+<Node id="27347"/>&#xd;
+<Node id="27349"/>The M&amp;C shall write the status to the DBS.<Node id="27391"/>&#xd;
+<Node id="27393"/>&#xd;
+<Node id="27395"/>The M&amp;C shall poll HDGS status data using SNMPv2c interface.<Node id="27455"/>&#xd;
+<Node id="27457"/>&#xd;
+<Node id="27459"/>The M&amp;C shall write the status to the DBS.<Node id="27501"/>&#xd;
+<Node id="27503"/>&#xd;
+<Node id="27505"/>The M&amp;C shall poll UGS status data using SNMPv2c interface.<Node id="27564"/>&#xd;
+<Node id="27566"/>&#xd;
+<Node id="27568"/>The M&amp;C shall write the status to the DBS.<Node id="27610"/>&#xd;
+<Node id="27612"/>&#xd;
+<Node id="27614"/>The M&amp;C shall monitor and control activities of  active MOC and standby MOC.<Node id="27690"/>&#xd;
+<Node id="27692"/>&#xd;
+<Node id="27694"/>The M&amp;C shall always be aware which MOC is active and which one standby.<Node id="27766"/>&#xd;
+<Node id="27768"/>&#xd;
+<Node id="27770"/>The M&amp;C component shall be connected to the Ground Facility Management Network (GFMN).<Node id="27856"/>&#xd;
+<Node id="27858"/>&#xd;
+<Node id="27860"/>The M&amp;C component shall be connected to the External Management Data Network (EMDN).<Node id="27944"/>&#xd;
+<Node id="27946"/>&#xd;
+<Node id="27948"/>The M&amp;C shall transmit and receive Ground Station and Satellite Control Center data over the Ground Facility Management Network (GFMN).<Node id="28083"/>&#xd;
+<Node id="28085"/>&#xd;
+<Node id="28087"/>The M&amp;C shall transmit and receive PMOC/BMOC coordination data over the Ground Facility Management Network (GFMN).<Node id="28201"/>&#xd;
+<Node id="28203"/>&#xd;
+<Node id="28205"/>The M&amp;C shall monitor EDTEs installed in the Ground Stations and the Ground Stations itself using the SNMPv2c interface.<Node id="28325"/>&#xd;
+<Node id="28327"/>&#xd;
+<Node id="28329"/>The M&amp;C shall control EDTEs installed on the Ground Stations and the Ground Stations itself using the SNMPv2c interface.<Node id="28449"/>&#xd;
+<Node id="28451"/>&#xd;
+<Node id="28453"/>The M&amp;C shall utilize only the Ground Facility Management Network (GFMN).<Node id="28526"/>&#xd;
+<Node id="28528"/>&#xd;
+<Node id="28530"/>The M&amp;C shall support the workflow required to distribute a Config File to UGS by polling events from the DBS and writing status to DBS.<Node id="28666"/>&#xd;
+<Node id="28668"/>&#xd;
+<Node id="28670"/>The M&amp;C shall command the DBS to forward the Config File to the UGS.<Node id="28738"/>&#xd;
+<Node id="28740"/>&#xd;
+<Node id="28742"/>The M&amp;C shall perform validity check  before commanding the DBS to distribute the Config File.<Node id="28836"/>&#xd;
+<Node id="28838"/>&#xd;
+<Node id="28840"/>The M&amp;C shall use  PMOC_KaUSR_EMDN or BMOC_KaUSR_EMDN interface.<Node id="28904"/>&#xd;
+<Node id="28906"/>&#xd;
+<Node id="28908"/>The M&amp;C shall support the workflow required to distribute a Config File to HDGS by polling events from the DBS and writing status to DBS.<Node id="29045"/>&#xd;
+<Node id="29047"/>&#xd;
+<Node id="29049"/>The M&amp;C shall command the DBS to forward the Config File to the HDGS.<Node id="29118"/>&#xd;
+<Node id="29120"/>&#xd;
+<Node id="29122"/>The M&amp;C shall perform validity check  before commanding the DBS to distribute the Config File.<Node id="29216"/>&#xd;
+<Node id="29218"/>&#xd;
+<Node id="29220"/>The M&amp;C shall use PMOC_HDGS_GFMN or BMOC_HDGS_GFMN interface.<Node id="29281"/>&#xd;
+<Node id="29283"/>&#xd;
+<Node id="29285"/>The M&amp;C shall support the workflow required to distribute a Config File to RDGS by polling events from the DBS and writing status to DBS.<Node id="29422"/>&#xd;
+<Node id="29424"/>&#xd;
+<Node id="29426"/>The M&amp;C shall command the DBS to forward the Config File to the RDGS.<Node id="29495"/>&#xd;
+<Node id="29497"/>&#xd;
+<Node id="29499"/>The M&amp;C shall perform validity check before commanding the DBS to distribute the Config File.<Node id="29592"/>&#xd;
+<Node id="29594"/>&#xd;
+<Node id="29596"/>The M&amp;C shall use PMOC_RDGS_GFMN or BMOC_RDGS_GFMN  interfaces.<Node id="29659"/>&#xd;
+<Node id="29661"/>&#xd;
+<Node id="29663"/>The M&amp;C shall support the workflow required to distribute a Config File to BLGS by polling events from the DBS and writing status to DBS.<Node id="29800"/>&#xd;
+<Node id="29802"/>&#xd;
+<Node id="29804"/>The M&amp;C shall command the DBS to forward the Config File to the BFLGS.<Node id="29874"/>&#xd;
+<Node id="29876"/>&#xd;
+<Node id="29878"/>The M&amp;C shall perform validity check before commanding the DBS to distribute the Config File.<Node id="29971"/>&#xd;
+<Node id="29973"/>&#xd;
+<Node id="29975"/>The M&amp;C shall use the PMOC_BFLGS_GFMN or BMOC_BFLGS_GFMN interface.<Node id="30042"/>&#xd;
+<Node id="30044"/>&#xd;
+<Node id="30046"/>The M&amp;C shall support the workflow required to distribute a Config File to FLGS by polling events from the DBS and writing status to DBS.<Node id="30183"/>&#xd;
+<Node id="30185"/>&#xd;
+<Node id="30187"/>The M&amp;C shall command the DBS to forward the Config File to the FLGS.<Node id="30256"/>&#xd;
+<Node id="30258"/>&#xd;
+<Node id="30260"/>The M&amp;C shall perform validity check before commanding the DBS to distribute the Config File.<Node id="30353"/>&#xd;
+<Node id="30355"/>&#xd;
+<Node id="30357"/>The M&amp;C shall use the PMOC_FLGS_GFMN/BMOC_FLGS_GFMN interface.<Node id="30419"/>&#xd;
+<Node id="30421"/>&#xd;
+<Node id="30423"/>The M&amp;C shall support the workflow required to distribute P/L Config Files incl D/L Keys and Forward Tasking DataConfig File to SCC by polling events from the DBS and writing status to DBS.<Node id="30612"/>&#xd;
+<Node id="30614"/>&#xd;
+<Node id="30616"/>The M&amp;C shall command the DBS to forward the P/L Config Files incl D/L Keys and Forward Tasking Data File to the SCC.<Node id="30733"/>&#xd;
+<Node id="30735"/>&#xd;
+<Node id="30737"/>The M&amp;C shall perform validity check  before commanding the DBS to distribute the P/L Config Files incl D/L Keys&#xd; and Forward Tasking Data.<Node id="30876"/>&#xd;
+<Node id="30878"/>&#xd;
+<Node id="30880"/>The M&amp;C shall use PMOC_DPCC_GFMN or BMOC_DPCC_GFMN interface.<Node id="30941"/>&#xd;
+<Node id="30943"/>&#xd;
+<Node id="30945"/>The M&amp;C shall be installed in the Mission Operations Centers.<Node id="31006"/>&#xd;
+<Node id="31008"/>&#xd;
+<Node id="31010"/>The M&amp;C server application shall run on a server installed in a server room.<Node id="31086"/>&#xd;
+<Node id="31088"/>&#xd;
+<Node id="31090"/>The M&amp;C client application shall run on a workstation installed in a MOC operator room.<Node id="31177"/>&#xd;
+<Node id="31179"/>&#xd;
+<Node id="31181"/>SPACEBEL shall install the M&amp;C component on the M&amp;C server.<Node id="31240"/>&#xd;
+<Node id="31242"/>&#xd;
+<Node id="31244"/>TECHCOM shall supply a installation guideline for the M&amp;C component and additional artifacts required to run the M&amp;C component.<Node id="31371"/>&#xd;
+<Node id="31373"/>&#xd;
+<Node id="31375"/>The M&amp;C shall have access to the MOC Components via TCP/P protocol family and applications.<Node id="31466"/>&#xd;
+<Node id="31468"/>&#xd;
+<Node id="31470"/>The M&amp;C shall have access to the MOC Components via SNMPv3.<Node id="31529"/>&#xd;
+<Node id="31531"/>&#xd;
+<Node id="31533"/>The M&amp;C component shall have access to the MOC Components via FTP.<Node id="31599"/>&#xd;
+<Node id="31601"/>&#xd;
+<Node id="31603"/>The M&amp;C server and client application shall run at PMOC site.<Node id="31664"/>&#xd;
+<Node id="31666"/>&#xd;
+<Node id="31668"/>The M&amp;C server and client application shall run at BMOC site.<Node id="31729"/>&#xd;
+<Node id="31731"/>&#xd;
+<Node id="31733"/>The M&amp;C shall locally use only that GFMN address range allocated to the local components.<Node id="31822"/>&#xd;
+<Node id="31824"/>&#xd;
+<Node id="31826"/>The network equipment shall control network access.<Node id="31877"/> &#xd;
+<Node id="31880"/>&#xd;
+<Node id="31882"/>The M&amp;C access shall access only local parts of the GFMN.<Node id="31939"/>&#xd;
+<Node id="31941"/>&#xd;
+<Node id="31943"/>The network equipment shall control network access.<Node id="31994"/> &#xd;
+<Node id="31997"/>&#xd;
+<Node id="31999"/>The design lifetime of the M&amp;C components shall be at least 18 years for the purpose specified in this project.<Node id="32110"/>&#xd;
+<Node id="32112"/>&#xd;
+<Node id="32114"/>The M&amp;C component provider shall supply a list of applications to be installed by RSS.<Node id="32200"/>&#xd;
+<Node id="32202"/>&#xd;
+<Node id="32204"/>The M&amp;C component provider shall inform the hardware providers in due time about new versions of applications and security patches.<Node id="32335"/>&#xd;
+<Node id="32337"/>&#xd;
+<Node id="32339"/>The M&amp;C shall connect only to those networks for which the IP addresses have been specified.<Node id="32431"/>&#xd;
+<Node id="32433"/>&#xd;
+<Node id="32435"/>The M&amp;C shall make the IP addresses it uses available for router configuration.<Node id="32514"/> &#xd;
+<Node id="32517"/>&#xd;
+<Node id="32519"/>The M&amp;C shall use only those IP addresses specified by the customer.<Node id="32587"/> &#xd;
+<Node id="32590"/>&#xd;
+<Node id="32592"/>The M&amp;C shall maintain license key locally where applicable.<Node id="32652"/>&#xd;
+<Node id="32654"/>&#xd;
+<Node id="32656"/>The M&amp;C shall allow install software upgrades without need to access the internet.<Node id="32738"/> &#xd;
+<Node id="32741"/>&#xd;
+<Node id="32743"/>The M&amp;C shall avoid any connection to the internet except if required and authorized for operation purposes.<Node id="32851"/> &#xd;
+<Node id="32854"/>&#xd;
+<Node id="32856"/>The M&amp;C shall monitor MOC Components via SNMPv3 only after authentication.<Node id="32930"/>&#xd;
+<Node id="32932"/>&#xd;
+<Node id="32934"/>The M&amp;C shall poll the component periodically.<Node id="32980"/> &#xd;
+<Node id="32983"/>&#xd;
+<Node id="32985"/>The M&amp;C shall control MOC Components via SNMPv3 only after authentication.<Node id="33059"/>&#xd;
+<Node id="33061"/>&#xd;
+<Node id="33063"/>The M&amp;C shall receive the control credentials from the DB.<Node id="33121"/>&#xd;
+<Node id="33123"/>&#xd;
+<Node id="33125"/>The M&amp;C shall control Ground Stations only after authentication.<Node id="33189"/>&#xd;
+<Node id="33191"/>&#xd;
+<Node id="33193"/>The M&amp;C shall retrieve the monitoring credentials from the DB.<Node id="33255"/>&#xd;
+<Node id="33257"/>&#xd;
+<Node id="33259"/>The M&amp;C shall poll the Satellite Control Centers and Ground Stations only after authentication.<Node id="33354"/>&#xd;
+<Node id="33356"/>&#xd;
+<Node id="33358"/>The M&amp;C shall control the EDTE and DSU via SNMPv3 only after authentication.<Node id="33434"/>&#xd;
+<Node id="33436"/>&#xd;
+<Node id="33438"/>The M&amp;C shall upload files to the defined upload directory using SFTP after authentication.<Node id="33529"/>&#xd;
+<Node id="33531"/>&#xd;
+<Node id="33533"/>The M&amp;C shall download files from the defined download directory using SFTP after authentication.<Node id="33630"/>&#xd;
+<Node id="33632"/>&#xd;
+<Node id="33634"/>The M&amp;C shall retrieve the control credentials from the DB.<Node id="33693"/>&#xd;
+<Node id="33695"/>&#xd;
+<Node id="33697"/>The M&amp;C shall design the component such that it can be installed at prime and backup sites.<Node id="33788"/> &#xd;
+<Node id="33791"/>&#xd;
+<Node id="33793"/>The M&amp;C shall support the general concepts defined by RSS for data backup.<Node id="33867"/> &#xd;
+<Node id="33870"/>&#xd;
+<Node id="33872"/>The M&amp;C shall be designed to have no planned or predictable outages.<Node id="33940"/>&#xd;
+<Node id="33942"/>&#xd;
+<Node id="33944"/>The M&amp;C components shall be designed to allow a 24/7 without interruption during routine operations with changing operator personnel.<Node id="34077"/>&#xd;
+<Node id="34079"/>&#xd;
+<Node id="34081"/>The M&amp;C component provider shall deliver the source code of those artifacts developed in the frame of EDRS MOC project.<Node id="34200"/>&#xd;
+<Node id="34202"/>&#xd;
+<Node id="34204"/>The M&amp;C component provider shall deliver the software development environment used for developing the software artifacts in the frame of the EDRS MOC project.<Node id="34362"/> &#xd;
+<Node id="34365"/>&#xd;
+<Node id="34367"/>The M&amp;C component supplier shall deliver all licenses required to operator the M&amp;C component.<Node id="34460"/>&#xd;
+<Node id="34462"/>&#xd;
+<Node id="34464"/>The M&amp;C component supplier shall deliver the software development environment.<Node id="34542"/> &#xd;
+<Node id="34545"/>&#xd;
+<Node id="34547"/>The M&amp;C component supplier shall deliver the simulators used for component validation.<Node id="34633"/> &#xd;
+<Node id="34636"/>&#xd;
+<Node id="34638"/>The M&amp;C component provider shall ensure a license validity of 20 years.<Node id="34709"/> &#xd;
+<Node id="34712"/>&#xd;
+<Node id="34714"/>The M&amp;C component supplier shall freeze the software development environment at each delivery and maintain it until MSCR.<Node id="34835"/>&#xd;
+<Node id="34837"/>&#xd;
+<Node id="34839"/>The M&amp;C component supplier shall freeze the validation Simulator at MSCR.&#xd;<Node id="34913"/>
+<Node id="34914"/>&#xd;
+<Node id="34916"/>The M&amp;C shall provide users with the ability to test it under maintenance.<Node id="34990"/>&#xd;
+<Node id="34992"/>&#xd;
+<Node id="34994"/>The M&amp;C component shall supply a set of executable built-in tests.<Node id="35060"/>&#xd;
+<Node id="35062"/>&#xd;
+<Node id="35064"/>The M&amp;C shall provide users with the ability to trigger the execution of the build-in tests thru SNMPv3 interface.<Node id="35178"/>&#xd;
+<Node id="35180"/>&#xd;
+<Node id="35182"/>The M&amp;C component shall implement self-tests used during maintenance.<Node id="35251"/> &#xd;
+<Node id="35254"/>&#xd;
+<Node id="35256"/>The M&amp;C component shall supply an interface simulator to support interface simulation during upgrade or validation tests.<Node id="35377"/>&#xd;
+<Node id="35379"/>&#xd;
+<Node id="35381"/>The M&amp;C component design shall be such that the need for maintenance tools shall either be eliminated or shall be limited to standard COTS software.<Node id="35529"/>&#xd;
+<Node id="35531"/>&#xd;
+<Node id="35533"/>The M&amp;C components shall supply all the necessary information to support the establishment of an obsolescence management.<Node id="35654"/>&#xd;
+<Node id="35656"/>&#xd;
+<Node id="35658"/>The M&amp;C component provider shall supply following necessary information for used COTS SW and SW components&#xd;
+	*procurement source&#xd;
+	*life-span forecast&#xd;
+	*warranty conditions&#xd;
+	*maintenance conditions&#xd;
+	*supplier support conditions&#xd;
+	*lower level dependencies&#xd;
+	*alternative suppliers&#xd;
+	*preliminary risk identification.<Node id="35977"/>&#xd;
+<Node id="35979"/>&#xd;
+<Node id="35981"/>The M&amp;C component shall supply an analysis regarding human error impacts.<Node id="36054"/>&#xd;
+<Node id="36056"/>&#xd;
+<Node id="36058"/>The M&amp;C component shall implement any recommendation/requirements as identified as part of the Reliability and Availability analysis.<Node id="36191"/>&#xd;
+<Node id="36193"/>&#xd;
+<Node id="36195"/>The  design  of the M&amp;C component shall  consider  that,  in any  case  where  safety  and maintainability requirements are  in conflict,  safety considerations  shall  have  absolute priority.<Node id="36388"/> &#xd;
+<Node id="36391"/>&#xd;
+<Node id="36393"/>The M&amp;C component shall contribute to the maintainability analysis, giving absolute priority to safety considerations.<Node id="36511"/>&#xd;
+<Node id="36513"/>&#xd;
+<Node id="36515"/>The M&amp;C component provider shall supply following test document:&#xd;
+	*Software Verification&#xd;
+	*Software Validation&#xd;
+	*Software Unit Integration Testing.<Node id="36665"/>
+<Node id="36666"/>&#xd;
+<Node id="36668"/>The M&amp;C component provider shall supply administration documentation such that administrators can control any and all configurations.<Node id="36801"/>&#xd;
+<Node id="36803"/>&#xd;
+<Node id="36805"/>The M&amp;C component administration documentation shall contain all parameters valid at delivery.&#xd;<Node id="36900"/>
+<Node id="36901"/>&#xd;
+<Node id="36903"/>The M&amp;C component suppliers shall supply training material contributions, including administration information.<Node id="37014"/>&#xd;
+<Node id="37016"/>&#xd;
+<Node id="37018"/>The M&amp;C component provider shall supply all component SW documentation including COTS SW documentation.<Node id="37121"/>&#xd;
+<Node id="37123"/>&#xd;
+<Node id="37125"/>The M&amp;C component supplier shall deliver all the SW required to install and run the component.<Node id="37219"/>&#xd;
+<Node id="37221"/>&#xd;
+<Node id="37223"/>The M&amp;C shall provide users with the ability to change the positions of M&amp;C windows.<Node id="37307"/>&#xd;
+<Node id="37309"/>&#xd;
+<Node id="37311"/>The M&amp;C shall provide users with the ability to display dialog windows to any position on the screen.<Node id="37412"/>&#xd;
+<Node id="37414"/>&#xd;
+<Node id="37416"/>The M&amp;C shall provide users with the ability to save the current windows position when the application is closed.<Node id="37529"/>&#xd;
+<Node id="37531"/>&#xd;
+<Node id="37533"/>The M&amp;C shall provide users with the ability to restore the windows position when the application is started.<Node id="37642"/>&#xd;
+<Node id="37644"/>&#xd;
+<Node id="37646"/>The M&amp;C shall supply a MOC Operator role which shall allow monitoring, only.<Node id="37722"/>&#xd;
+<Node id="37724"/>&#xd;
+<Node id="37726"/>The M&amp;C shall supply a MOC Operator role which shall allow monitoring and control.<Node id="37808"/>&#xd;
+<Node id="37810"/>&#xd;
+<Node id="37812"/>The M&amp;C shall support LDAP for user authentication and authorization.<Node id="37881"/> &#xd;
+<Node id="37884"/>&#xd;
+<Node id="37886"/>The M&amp;C HMI will be comply with  ECSS-E-ST-10-11c where possible. <Node id="37952"/>
+<Node id="37953"/>&#xd;
+<Node id="37955"/>The M&amp;C component MMI shall be compatible with the operations defined by the functional and technical requirements.<Node id="38070"/>&#xd;
+<Node id="38072"/>&#xd;
+<Node id="38074"/>The M&amp;C components shall be implemented in a way that they can be deployed on both PMOC and BMOC.<Node id="38171"/>&#xd;
+<Node id="38173"/>&#xd;
+<Node id="38175"/>The M&amp;C component shall provide users with the ability to verify its complete functionality without connection to other EDRS MOC components or other EDRS entities.<Node id="38338"/>&#xd;
+<Node id="38340"/>&#xd;
+<Node id="38342"/>The M&amp;C component provided and used shall cover all ERDS MOC components interfaces served by the M&amp;C component.<Node id="38453"/> &#xd;
+<Node id="38456"/>&#xd;
+<Node id="38458"/>The M&amp;C component simulator shall support static simulations.<Node id="38519"/> &#xd;
+<Node id="38522"/>&#xd;
+<Node id="38524"/>The M&amp;C component simulators shall be simple but sufficient to demonstrate interface compatibility.<Node id="38623"/>&#xd;
+<Node id="38625"/>&#xd;
+<Node id="38627"/>The M&amp;C component simulators shall be used in an integrated way to support the MOC overall verification and validation.<Node id="38746"/> &#xd;
+<Node id="38749"/>&#xd;
+<Node id="38751"/>The M&amp;C component simulation details and the concept shall be described in the Software validation plan.<Node id="38855"/>&#xd;
+<Node id="38857"/>&#xd;
+<Node id="38859"/>The M&amp;C component validation simulator shall integrate with the EDRS MOC test environment.<Node id="38949"/>&#xd;
+<Node id="38951"/>&#xd;
+<Node id="38953"/>The M&amp;C component test environment shall be capable of verifying all updates/changes to the MOC before their deployment.<Node id="39073"/>&#xd;
+<Node id="39075"/>&#xd;
+<Node id="39077"/>The M&amp;C component provider shall submit verification procedures to the customer for approval.<Node id="39170"/>&#xd;
+<Node id="39172"/>&#xd;
+<Node id="39174"/>The M&amp;C component verification document shall provide a matrix the shall identify the verification method:&#xd;
+	*test&#xd;
+	*analysis&#xd;
+	*review&#xd;
+	*inspection&#xd;
+	*demonstration&#xd;
+for either a single requirement or a group of requirements and the parameters which shall be &#xd;
+	*tested&#xd;
+	*demonstrated&#xd;
+	*analysed.<Node id="39475"/>
+<Node id="39476"/>&#xd;
+&#xd;
+<Node id="39480"/>M&amp;C component design verification by review of analytical data shall consist of a review of all applicable valid documentation, typically&#xd; design drawings&#xd;, technical  notes&#xd; in view of proper reflection and implementation of requirements of applicable specifications.<Node id="39748"/>&#xd;
+<Node id="39750"/>&#xd;
+<Node id="39752"/>The M&amp;C component, analytical techniques may be used in lieu of, or to supplement testing as appropriate to verify specification requirements which cannot be verified by other methods; The selected techniques  may include system engineering analysis, static, qualitative analysis and computer simulation.<Node id="40056"/>&#xd;
+<Node id="40058"/>&#xd;
+<Node id="40060"/>M&amp;C component requirements of a general nature should be verified by demonstration; <Node id="40144"/>Demonstration should consist of performing typical operational procedures demonstrating the fulfillment of the requirements.<Node id="40268"/>&#xd;
+<Node id="40270"/>&#xd;
+<Node id="40272"/>The M&amp;C shall supply test drivers for those requirements which could not verified by review, inspection, analysis, inspection or demonstration.<Node id="40415"/>&#xd;
+<Node id="40417"/>&#xd;
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="19545" Type="Boilerplate_Conformant" StartNode="16931" EndNode="17023">
+</Annotation>
+<Annotation Id="19544" Type="Boilerplate_Conformant" StartNode="16793" EndNode="16927">
+</Annotation>
+<Annotation Id="19547" Type="Boilerplate_Conformant" StartNode="17073" EndNode="17134">
+</Annotation>
+<Annotation Id="19546" Type="Boilerplate_Conformant" StartNode="17027" EndNode="17069">
+</Annotation>
+<Annotation Id="19549" Type="Boilerplate_Non_Conformant" StartNode="17220" EndNode="17312">
+</Annotation>
+<Annotation Id="19548" Type="Boilerplate_Conformant" StartNode="17138" EndNode="17216">
+</Annotation>
+<Annotation Id="19551" Type="Boilerplate_Non_Conformant" StartNode="17398" EndNode="17505">
+</Annotation>
+<Annotation Id="19550" Type="Boilerplate_Conformant" StartNode="17316" EndNode="17394">
+</Annotation>
+<Annotation Id="19537" Type="Boilerplate_Conformant" StartNode="16183" EndNode="16299">
+</Annotation>
+<Annotation Id="19536" Type="Boilerplate_Conformant" StartNode="16062" EndNode="16179">
+</Annotation>
+<Annotation Id="19539" Type="Boilerplate_Non_Conformant" StartNode="16387" EndNode="16469">
+</Annotation>
+<Annotation Id="19538" Type="Boilerplate_Conformant" StartNode="16303" EndNode="16383">
+</Annotation>
+<Annotation Id="19541" Type="Boilerplate_Conformant" StartNode="16568" EndNode="16646">
+</Annotation>
+<Annotation Id="19540" Type="Boilerplate_Non_Conformant" StartNode="16473" EndNode="16564">
+</Annotation>
+<Annotation Id="19543" Type="Boilerplate_Conformant" StartNode="16725" EndNode="16789">
+</Annotation>
+<Annotation Id="19542" Type="Boilerplate_Conformant" StartNode="16650" EndNode="16721">
+</Annotation>
+<Annotation Id="19533" Type="Boilerplate_Conformant" StartNode="15790" EndNode="15853">
+</Annotation>
+<Annotation Id="19534" Type="Boilerplate_Conformant" StartNode="15857" EndNode="15991">
+</Annotation>
+<Annotation Id="19535" Type="Boilerplate_Conformant" StartNode="15995" EndNode="16058">
+</Annotation>
+<Annotation Id="19520" Type="Boilerplate_Conformant" StartNode="14925" EndNode="15058">
+</Annotation>
+<Annotation Id="19521" Type="Boilerplate_Conformant" StartNode="15062" EndNode="15125">
+</Annotation>
+<Annotation Id="19579" Type="Boilerplate_Conformant" StartNode="20070" EndNode="20124">
+</Annotation>
+<Annotation Id="19578" Type="Boilerplate_Conformant" StartNode="20013" EndNode="20066">
+</Annotation>
+<Annotation Id="19577" Type="Boilerplate_Conformant" StartNode="19935" EndNode="20009">
+</Annotation>
+<Annotation Id="19576" Type="Boilerplate_Conformant" StartNode="19857" EndNode="19931">
+</Annotation>
+<Annotation Id="19583" Type="Boilerplate_Non_Conformant" StartNode="20362" EndNode="20501">
+</Annotation>
+<Annotation Id="19582" Type="Boilerplate_Non_Conformant" StartNode="20220" EndNode="20358">
+</Annotation>
+<Annotation Id="19581" Type="Boilerplate_Conformant" StartNode="20174" EndNode="20216">
+</Annotation>
+<Annotation Id="19580" Type="Boilerplate_Conformant" StartNode="20128" EndNode="20170">
+</Annotation>
+<Annotation Id="19571" Type="Boilerplate_Non_Conformant" StartNode="19335" EndNode="19392">
+</Annotation>
+<Annotation Id="19570" Type="Boilerplate_Non_Conformant" StartNode="19223" EndNode="19331">
+</Annotation>
+<Annotation Id="19569" Type="Boilerplate_Conformant" StartNode="19142" EndNode="19219">
+</Annotation>
+<Annotation Id="19568" Type="Boilerplate_Conformant" StartNode="19061" EndNode="19138">
+</Annotation>
+<Annotation Id="19575" Type="Boilerplate_Conformant" StartNode="19693" EndNode="19853">
+</Annotation>
+<Annotation Id="19574" Type="Boilerplate_Conformant" StartNode="19589" EndNode="19689">
+</Annotation>
+<Annotation Id="19573" Type="Boilerplate_Conformant" StartNode="19482" EndNode="19585">
+</Annotation>
+<Annotation Id="19572" Type="Boilerplate_Conformant" StartNode="19396" EndNode="19478">
+</Annotation>
+<Annotation Id="19562" Type="Boilerplate_Conformant" StartNode="18512" EndNode="18581">
+</Annotation>
+<Annotation Id="19563" Type="Boilerplate_Conformant" StartNode="18585" EndNode="18654">
+</Annotation>
+<Annotation Id="19560" Type="Boilerplate_Conformant" StartNode="18349" EndNode="18438">
+</Annotation>
+<Annotation Id="19561" Type="Boilerplate_Conformant" StartNode="18442" EndNode="18508">
+</Annotation>
+<Annotation Id="19566" Type="Boilerplate_Conformant" StartNode="18824" EndNode="18933">
+</Annotation>
+<Annotation Id="19567" Type="Boilerplate_Conformant" StartNode="18937" EndNode="19057">
+</Annotation>
+<Annotation Id="19564" Type="Boilerplate_Conformant" StartNode="18658" EndNode="18741">
+</Annotation>
+<Annotation Id="19565" Type="Boilerplate_Conformant" StartNode="18745" EndNode="18820">
+</Annotation>
+<Annotation Id="19554" Type="Boilerplate_Non_Conformant" StartNode="17708" EndNode="17810">
+</Annotation>
+<Annotation Id="19555" Type="Boilerplate_Conformant" StartNode="17814" EndNode="17895">
+</Annotation>
+<Annotation Id="19552" Type="Boilerplate_Conformant" StartNode="17509" EndNode="17584">
+</Annotation>
+<Annotation Id="19553" Type="Boilerplate_Non_Conformant" StartNode="17588" EndNode="17704">
+</Annotation>
+<Annotation Id="19559" Type="Boilerplate_Conformant" StartNode="18269" EndNode="18345">
+</Annotation>
+<Annotation Id="19556" Type="Boilerplate_Non_Conformant" StartNode="17899" EndNode="18049">
+</Annotation>
+<Annotation Id="19485" Type="Boilerplate_Conformant" StartNode="11378" EndNode="11500">
+</Annotation>
+<Annotation Id="19484" Type="Boilerplate_Conformant" StartNode="11267" EndNode="11374">
+</Annotation>
+<Annotation Id="19487" Type="Boilerplate_Conformant" StartNode="11578" EndNode="11671">
+</Annotation>
+<Annotation Id="19486" Type="Boilerplate_Conformant" StartNode="11504" EndNode="11574">
+</Annotation>
+<Annotation Id="19481" Type="Boilerplate_Conformant" StartNode="10982" EndNode="11075">
+</Annotation>
+<Annotation Id="19480" Type="Boilerplate_Conformant" StartNode="10903" EndNode="10978">
+</Annotation>
+<Annotation Id="19483" Type="Boilerplate_Conformant" StartNode="11184" EndNode="11263">
+</Annotation>
+<Annotation Id="19482" Type="Boilerplate_Conformant" StartNode="11079" EndNode="11180">
+</Annotation>
+<Annotation Id="19479" Type="Boilerplate_Conformant" StartNode="10803" EndNode="10899">
+</Annotation>
+<Annotation Id="19473" Type="Boilerplate_Non_Conformant" StartNode="10221" EndNode="10354">
+</Annotation>
+<Annotation Id="19472" Type="Boilerplate_Non_Conformant" StartNode="10092" EndNode="10217">
+</Annotation>
+<Annotation Id="19468" Type="Boilerplate_Conformant" StartNode="9643" EndNode="9723">
+</Annotation>
+<Annotation Id="19469" Type="Boilerplate_Conformant" StartNode="9727" EndNode="9858">
+</Annotation>
+<Annotation Id="19470" Type="Boilerplate_Conformant" StartNode="9861" EndNode="9980">
+</Annotation>
+<Annotation Id="19471" Type="Boilerplate_Conformant" StartNode="9983" EndNode="10089">
+</Annotation>
+<Annotation Id="19464" Type="Boilerplate_Non_Conformant" StartNode="9185" EndNode="9311">
+</Annotation>
+<Annotation Id="19465" Type="Boilerplate_Conformant" StartNode="9315" EndNode="9447">
+</Annotation>
+<Annotation Id="19466" Type="Boilerplate_Conformant" StartNode="9450" EndNode="9567">
+</Annotation>
+<Annotation Id="19467" Type="Boilerplate_Conformant" StartNode="9571" EndNode="9639">
+</Annotation>
+<Annotation Id="19460" Type="Boilerplate_Conformant" StartNode="8743" EndNode="8852">
+</Annotation>
+<Annotation Id="19461" Type="Boilerplate_Conformant" StartNode="8856" EndNode="8973">
+</Annotation>
+<Annotation Id="19462" Type="Boilerplate_Conformant" StartNode="8977" EndNode="9084">
+</Annotation>
+<Annotation Id="19463" Type="Boilerplate_Conformant" StartNode="9088" EndNode="9181">
+</Annotation>
+<Annotation Id="19456" Type="Boilerplate_Conformant" StartNode="8390" EndNode="8469">
+</Annotation>
+<Annotation Id="19457" Type="Boilerplate_Conformant" StartNode="8473" EndNode="8559">
+</Annotation>
+<Annotation Id="19458" Type="Boilerplate_Conformant" StartNode="8562" EndNode="8652">
+</Annotation>
+<Annotation Id="19459" Type="Boilerplate_Conformant" StartNode="8656" EndNode="8739">
+</Annotation>
+<Annotation Id="19519" Type="Boilerplate_Conformant" StartNode="14858" EndNode="14921">
+</Annotation>
+<Annotation Id="19518" Type="Boilerplate_Conformant" StartNode="14721" EndNode="14854">
+</Annotation>
+<Annotation Id="19517" Type="Boilerplate_Non_Conformant" StartNode="14641" EndNode="14717">
+</Annotation>
+<Annotation Id="19516" Type="Boilerplate_Conformant" StartNode="14540" EndNode="14637">
+</Annotation>
+<Annotation Id="19515" Type="Boilerplate_Non_Conformant" StartNode="14445" EndNode="14536">
+</Annotation>
+<Annotation Id="19514" Type="Boilerplate_Conformant" StartNode="14351" EndNode="14441">
+</Annotation>
+<Annotation Id="19513" Type="Boilerplate_Conformant" StartNode="14216" EndNode="14347">
+</Annotation>
+<Annotation Id="19512" Type="Boilerplate_Conformant" StartNode="14059" EndNode="14211">
+</Annotation>
+<Annotation Id="19511" Type="Boilerplate_Conformant" StartNode="13962" EndNode="14055">
+</Annotation>
+<Annotation Id="19510" Type="Boilerplate_Conformant" StartNode="13893" EndNode="13958">
+</Annotation>
+<Annotation Id="19509" Type="Boilerplate_Conformant" StartNode="13812" EndNode="13889">
+</Annotation>
+<Annotation Id="19508" Type="Boilerplate_Conformant" StartNode="13721" EndNode="13808">
+</Annotation>
+<Annotation Id="19507" Type="Boilerplate_Conformant" StartNode="13651" EndNode="13717">
+</Annotation>
+<Annotation Id="19506" Type="Boilerplate_Conformant" StartNode="13540" EndNode="13647">
+</Annotation>
+<Annotation Id="19505" Type="Boilerplate_Conformant" StartNode="13436" EndNode="13536">
+</Annotation>
+<Annotation Id="19502" Type="Boilerplate_Conformant" StartNode="13260" EndNode="13352">
+</Annotation>
+<Annotation Id="19500" Type="Boilerplate_Conformant" StartNode="13033" EndNode="13102">
+</Annotation>
+<Annotation Id="19501" Type="Boilerplate_Non_Conformant" StartNode="13106" EndNode="13256">
+</Annotation>
+<Annotation Id="19498" Type="Boilerplate_Conformant" StartNode="12780" EndNode="12855">
+</Annotation>
+<Annotation Id="19499" Type="Boilerplate_Conformant" StartNode="12859" EndNode="13029">
+</Annotation>
+<Annotation Id="19496" Type="Boilerplate_Conformant" StartNode="12590" EndNode="12670">
+</Annotation>
+<Annotation Id="19497" Type="Boilerplate_Conformant" StartNode="12674" EndNode="12776">
+</Annotation>
+<Annotation Id="19494" Type="Boilerplate_Non_Conformant" StartNode="12407" EndNode="12494">
+</Annotation>
+<Annotation Id="19495" Type="Boilerplate_Conformant" StartNode="12499" EndNode="12586">
+</Annotation>
+<Annotation Id="19492" Type="Boilerplate_Non_Conformant" StartNode="12056" EndNode="12268">
+</Annotation>
+<Annotation Id="19493" Type="Boilerplate_Non_Conformant" StartNode="12272" EndNode="12403">
+</Annotation>
+<Annotation Id="19490" Type="Boilerplate_Conformant" StartNode="11829" EndNode="11916">
+</Annotation>
+<Annotation Id="19491" Type="Boilerplate_Non_Conformant" StartNode="11920" EndNode="12052">
+</Annotation>
+<Annotation Id="19488" Type="Boilerplate_Non_Conformant" StartNode="11675" EndNode="11748">
+</Annotation>
+<Annotation Id="19489" Type="Boilerplate_Non_Conformant" StartNode="11752" EndNode="11825">
+</Annotation>
+<Annotation Id="19664" Type="Boilerplate_Conformant" StartNode="27174" EndNode="27235">
+</Annotation>
+<Annotation Id="19665" Type="Boilerplate_Conformant" StartNode="27239" EndNode="27281">
+</Annotation>
+<Annotation Id="19666" Type="Boilerplate_Conformant" StartNode="27285" EndNode="27345">
+</Annotation>
+<Annotation Id="19667" Type="Boilerplate_Conformant" StartNode="27349" EndNode="27391">
+</Annotation>
+<Annotation Id="19668" Type="Boilerplate_Conformant" StartNode="27395" EndNode="27455">
+</Annotation>
+<Annotation Id="19669" Type="Boilerplate_Conformant" StartNode="27459" EndNode="27501">
+</Annotation>
+<Annotation Id="19670" Type="Boilerplate_Conformant" StartNode="27505" EndNode="27564">
+</Annotation>
+<Annotation Id="19671" Type="Boilerplate_Conformant" StartNode="27568" EndNode="27610">
+</Annotation>
+<Annotation Id="19672" Type="Boilerplate_Non_Conformant" StartNode="27614" EndNode="27690">
+</Annotation>
+<Annotation Id="19673" Type="Boilerplate_Non_Conformant" StartNode="27694" EndNode="27766">
+</Annotation>
+<Annotation Id="19674" Type="Boilerplate_Conformant" StartNode="27770" EndNode="27856">
+</Annotation>
+<Annotation Id="19675" Type="Boilerplate_Conformant" StartNode="27860" EndNode="27944">
+</Annotation>
+<Annotation Id="19676" Type="Boilerplate_Non_Conformant" StartNode="27948" EndNode="28083">
+</Annotation>
+<Annotation Id="19677" Type="Boilerplate_Non_Conformant" StartNode="28087" EndNode="28201">
+</Annotation>
+<Annotation Id="19678" Type="Boilerplate_Conformant" StartNode="28205" EndNode="28325">
+</Annotation>
+<Annotation Id="19679" Type="Boilerplate_Conformant" StartNode="28329" EndNode="28449">
+</Annotation>
+<Annotation Id="19649" Type="Boilerplate_Conformant" StartNode="25968" EndNode="26071">
+</Annotation>
+<Annotation Id="19648" Type="Boilerplate_Conformant" StartNode="25828" EndNode="25964">
+</Annotation>
+<Annotation Id="19651" Type="Boilerplate_Conformant" StartNode="26147" EndNode="26188">
+</Annotation>
+<Annotation Id="19650" Type="Boilerplate_Conformant" StartNode="26075" EndNode="26143">
+</Annotation>
+<Annotation Id="19657" Type="Boilerplate_Conformant" StartNode="26631" EndNode="26737">
+</Annotation>
+<Annotation Id="19656" Type="Boilerplate_Conformant" StartNode="26455" EndNode="26627">
+</Annotation>
+<Annotation Id="19659" Type="Boilerplate_Conformant" StartNode="26876" EndNode="26941">
+</Annotation>
+<Annotation Id="19658" Type="Boilerplate_Non_Conformant" StartNode="26741" EndNode="26872">
+</Annotation>
+<Annotation Id="19661" Type="Boilerplate_Conformant" StartNode="27018" EndNode="27060">
+</Annotation>
+<Annotation Id="19660" Type="Boilerplate_Conformant" StartNode="26945" EndNode="27014">
+</Annotation>
+<Annotation Id="19663" Type="Boilerplate_Conformant" StartNode="27128" EndNode="27170">
+</Annotation>
+<Annotation Id="19662" Type="Boilerplate_Conformant" StartNode="27064" EndNode="27124">
+</Annotation>
+<Annotation Id="19698" Type="Boilerplate_Conformant" StartNode="30187" EndNode="30256">
+</Annotation>
+<Annotation Id="19699" Type="Boilerplate_Non_Conformant" StartNode="30260" EndNode="30353">
+</Annotation>
+<Annotation Id="19696" Type="Boilerplate_Conformant" StartNode="29975" EndNode="30042">
+</Annotation>
+<Annotation Id="19697" Type="Boilerplate_Conformant" StartNode="30046" EndNode="30183">
+</Annotation>
+<Annotation Id="19700" Type="Boilerplate_Conformant" StartNode="30357" EndNode="30419">
+</Annotation>
+<Annotation Id="19710" Type="Boilerplate_Conformant" StartNode="31010" EndNode="31086">
+</Annotation>
+<Annotation Id="19711" Type="Boilerplate_Conformant" StartNode="31090" EndNode="31177">
+</Annotation>
+<Annotation Id="19708" Type="Boilerplate_Conformant" StartNode="30880" EndNode="30941">
+</Annotation>
+<Annotation Id="19709" Type="Boilerplate_Conformant" StartNode="30945" EndNode="31006">
+</Annotation>
+<Annotation Id="19683" Type="Boilerplate_Non_Conformant" StartNode="28742" EndNode="28836">
+</Annotation>
+<Annotation Id="19682" Type="Boilerplate_Conformant" StartNode="28670" EndNode="28738">
+</Annotation>
+<Annotation Id="19681" Type="Boilerplate_Conformant" StartNode="28530" EndNode="28666">
+</Annotation>
+<Annotation Id="19680" Type="Boilerplate_Conformant" StartNode="28453" EndNode="28526">
+</Annotation>
+<Annotation Id="19687" Type="Boilerplate_Non_Conformant" StartNode="29122" EndNode="29216">
+</Annotation>
+<Annotation Id="19686" Type="Boilerplate_Conformant" StartNode="29049" EndNode="29118">
+</Annotation>
+<Annotation Id="19685" Type="Boilerplate_Conformant" StartNode="28908" EndNode="29045">
+</Annotation>
+<Annotation Id="19684" Type="Boilerplate_Conformant" StartNode="28840" EndNode="28904">
+</Annotation>
+<Annotation Id="19691" Type="Boilerplate_Non_Conformant" StartNode="29499" EndNode="29592">
+</Annotation>
+<Annotation Id="19690" Type="Boilerplate_Conformant" StartNode="29426" EndNode="29495">
+</Annotation>
+<Annotation Id="19689" Type="Boilerplate_Conformant" StartNode="29285" EndNode="29422">
+</Annotation>
+<Annotation Id="19688" Type="Boilerplate_Conformant" StartNode="29220" EndNode="29281">
+</Annotation>
+<Annotation Id="19695" Type="Boilerplate_Non_Conformant" StartNode="29878" EndNode="29971">
+</Annotation>
+<Annotation Id="19694" Type="Boilerplate_Conformant" StartNode="29804" EndNode="29874">
+</Annotation>
+<Annotation Id="19693" Type="Boilerplate_Conformant" StartNode="29663" EndNode="29800">
+</Annotation>
+<Annotation Id="19692" Type="Boilerplate_Conformant" StartNode="29596" EndNode="29659">
+</Annotation>
+<Annotation Id="19606" Type="Boilerplate_Conformant" StartNode="22042" EndNode="22126">
+</Annotation>
+<Annotation Id="19607" Type="Boilerplate_Conformant" StartNode="22130" EndNode="22224">
+</Annotation>
+<Annotation Id="19612" Type="Boilerplate_Non_Conformant" StartNode="22664" EndNode="22776">
+</Annotation>
+<Annotation Id="19613" Type="Boilerplate_Conformant" StartNode="22780" EndNode="22871">
+</Annotation>
+<Annotation Id="19614" Type="Boilerplate_Non_Conformant" StartNode="22876" EndNode="23013">
+</Annotation>
+<Annotation Id="19615" Type="Boilerplate_Conformant" StartNode="23017" EndNode="23099">
+</Annotation>
+<Annotation Id="19608" Type="Boilerplate_Non_Conformant" StartNode="22228" EndNode="22348">
+</Annotation>
+<Annotation Id="19609" Type="Boilerplate_Non_Conformant" StartNode="22352" EndNode="22421">
+</Annotation>
+<Annotation Id="19610" Type="Boilerplate_Non_Conformant" StartNode="22425" EndNode="22589">
+</Annotation>
+<Annotation Id="19611" Type="Boilerplate_Conformant" StartNode="22594" EndNode="22659">
+</Annotation>
+<Annotation Id="19589" Type="Boilerplate_Non_Conformant" StartNode="20950" EndNode="21019">
+</Annotation>
+<Annotation Id="19588" Type="Boilerplate_Conformant" StartNode="20864" EndNode="20946">
+</Annotation>
+<Annotation Id="19591" Type="Boilerplate_Conformant" StartNode="21124" EndNode="21221">
+</Annotation>
+<Annotation Id="19590" Type="Boilerplate_Conformant" StartNode="21023" EndNode="21120">
+</Annotation>
+<Annotation Id="19585" Type="Boilerplate_Conformant" StartNode="20598" EndNode="20664">
+</Annotation>
+<Annotation Id="19584" Type="Boilerplate_Conformant" StartNode="20505" EndNode="20594">
+</Annotation>
+<Annotation Id="19587" Type="Boilerplate_Conformant" StartNode="20796" EndNode="20860">
+</Annotation>
+<Annotation Id="19586" Type="Boilerplate_Conformant" StartNode="20668" EndNode="20792">
+</Annotation>
+<Annotation Id="19598" Type="Boilerplate_Conformant" StartNode="21539" EndNode="21649">
+</Annotation>
+<Annotation Id="19636" Type="Boilerplate_Conformant" StartNode="24926" EndNode="25080">
+</Annotation>
+<Annotation Id="19635" Type="Boilerplate_Conformant" StartNode="24825" EndNode="24921">
+</Annotation>
+<Annotation Id="19632" Type="Boilerplate_Conformant" StartNode="24617" EndNode="24720">
+</Annotation>
+<Annotation Id="19647" Type="Boilerplate_Conformant" StartNode="25714" EndNode="25823">
+</Annotation>
+<Annotation Id="19644" Type="Boilerplate_Conformant" StartNode="25478" EndNode="25587">
+</Annotation>
+<Annotation Id="20125" Type="Boilerplate_Conformant" StartNode="15653" EndNode="15787">
+</Annotation>
+<Annotation Id="19641" Type="Boilerplate_Conformant" StartNode="25290" EndNode="25353">
+</Annotation>
+<Annotation Id="19623" Type="Boilerplate_Conformant" StartNode="23722" EndNode="23817">
+</Annotation>
+<Annotation Id="19622" Type="Boilerplate_Conformant" StartNode="23615" EndNode="23718">
+</Annotation>
+<Annotation Id="19621" Type="Boilerplate_Non_Conformant" StartNode="23532" EndNode="23611">
+</Annotation>
+<Annotation Id="19620" Type="Boilerplate_Conformant" StartNode="23468" EndNode="23528">
+</Annotation>
+<Annotation Id="19619" Type="Boilerplate_Conformant" StartNode="23411" EndNode="23464">
+</Annotation>
+<Annotation Id="19618" Type="Boilerplate_Conformant" StartNode="23290" EndNode="23407">
+</Annotation>
+<Annotation Id="19617" Type="Boilerplate_Conformant" StartNode="23186" EndNode="23286">
+</Annotation>
+<Annotation Id="19616" Type="Boilerplate_Conformant" StartNode="23103" EndNode="23182">
+</Annotation>
+<Annotation Id="19631" Type="Boilerplate_Conformant" StartNode="24514" EndNode="24613">
+</Annotation>
+<Annotation Id="19630" Type="Boilerplate_Conformant" StartNode="24445" EndNode="24510">
+</Annotation>
+<Annotation Id="19629" Type="Boilerplate_Conformant" StartNode="24337" EndNode="24440">
+</Annotation>
+<Annotation Id="19628" Type="Boilerplate_Conformant" StartNode="24227" EndNode="24330">
+</Annotation>
+<Annotation Id="19627" Type="Boilerplate_Conformant" StartNode="24113" EndNode="24223">
+</Annotation>
+<Annotation Id="19626" Type="Boilerplate_Conformant" StartNode="24003" EndNode="24109">
+</Annotation>
+<Annotation Id="19625" Type="Boilerplate_Conformant" StartNode="23909" EndNode="23998">
+</Annotation>
+<Annotation Id="19624" Type="Boilerplate_Conformant" StartNode="23821" EndNode="23904">
+</Annotation>
+<Annotation Id="19786" Type="Boilerplate_Conformant" StartNode="37125" EndNode="37219">
+</Annotation>
+<Annotation Id="19787" Type="Boilerplate_Conformant" StartNode="37223" EndNode="37307">
+</Annotation>
+<Annotation Id="19784" Type="Boilerplate_Conformant" StartNode="36903" EndNode="37014">
+</Annotation>
+<Annotation Id="19785" Type="Boilerplate_Conformant" StartNode="37018" EndNode="37121">
+</Annotation>
+<Annotation Id="19790" Type="Boilerplate_Non_Conformant" StartNode="37533" EndNode="37642">
+</Annotation>
+<Annotation Id="19791" Type="Boilerplate_Non_Conformant" StartNode="37646" EndNode="37722">
+</Annotation>
+<Annotation Id="19788" Type="Boilerplate_Conformant" StartNode="37311" EndNode="37412">
+</Annotation>
+<Annotation Id="19789" Type="Boilerplate_Non_Conformant" StartNode="37416" EndNode="37529">
+</Annotation>
+<Annotation Id="19776" Type="Boilerplate_Conformant" StartNode="36393" EndNode="36511">
+</Annotation>
+<Annotation Id="19781" Type="Boilerplate_Conformant" StartNode="36668" EndNode="36801">
+</Annotation>
+<Annotation Id="19803" Type="Boilerplate_Conformant" StartNode="38627" EndNode="38746">
+</Annotation>
+<Annotation Id="19802" Type="Boilerplate_Non_Conformant" StartNode="38524" EndNode="38623">
+</Annotation>
+<Annotation Id="19801" Type="Boilerplate_Conformant" StartNode="38458" EndNode="38519">
+</Annotation>
+<Annotation Id="19800" Type="Boilerplate_Non_Conformant" StartNode="38342" EndNode="38453">
+</Annotation>
+<Annotation Id="19807" Type="Boilerplate_Conformant" StartNode="39077" EndNode="39170">
+</Annotation>
+<Annotation Id="19806" Type="Boilerplate_Non_Conformant" StartNode="38953" EndNode="39073">
+</Annotation>
+<Annotation Id="19805" Type="Boilerplate_Conformant" StartNode="38859" EndNode="38949">
+</Annotation>
+<Annotation Id="19804" Type="Boilerplate_Non_Conformant" StartNode="38751" EndNode="38855">
+</Annotation>
+<Annotation Id="19793" Type="Boilerplate_Conformant" StartNode="37812" EndNode="37881">
+</Annotation>
+<Annotation Id="19792" Type="Boilerplate_Non_Conformant" StartNode="37726" EndNode="37808">
+</Annotation>
+<Annotation Id="19799" Type="Boilerplate_Conformant" StartNode="38175" EndNode="38338">
+</Annotation>
+<Annotation Id="19798" Type="Boilerplate_Conformant" StartNode="38074" EndNode="38171">
+</Annotation>
+<Annotation Id="19797" Type="Boilerplate_Conformant" StartNode="37955" EndNode="38070">
+</Annotation>
+<Annotation Id="19836" Type="Boilerplate_Conformant" StartNode="25084" EndNode="25173">
+</Annotation>
+<Annotation Id="19824" Type="Boilerplate_Non_Conformant" StartNode="40060" EndNode="40268">
+</Annotation>
+<Annotation Id="19827" Type="Boilerplate_Conformant" StartNode="992" EndNode="1157">
+</Annotation>
+<Annotation Id="19826" Type="Boilerplate_Non_Conformant" StartNode="40272" EndNode="40415">
+</Annotation>
+<Annotation Id="19830" Type="Boilerplate_Conformant" StartNode="7938" EndNode="8066">
+</Annotation>
+<Annotation Id="19726" Type="Boilerplate_Conformant" StartNode="32339" EndNode="32431">
+</Annotation>
+<Annotation Id="19727" Type="Boilerplate_Conformant" StartNode="32435" EndNode="32514">
+</Annotation>
+<Annotation Id="19724" Type="Boilerplate_Conformant" StartNode="32114" EndNode="32200">
+</Annotation>
+<Annotation Id="19725" Type="Boilerplate_Conformant" StartNode="32204" EndNode="32335">
+</Annotation>
+<Annotation Id="19722" Type="Boilerplate_Conformant" StartNode="31943" EndNode="31994">
+</Annotation>
+<Annotation Id="19723" Type="Boilerplate_Conformant" StartNode="31999" EndNode="32110">
+</Annotation>
+<Annotation Id="19720" Type="Boilerplate_Conformant" StartNode="31826" EndNode="31877">
+</Annotation>
+<Annotation Id="19721" Type="Boilerplate_Conformant" StartNode="31882" EndNode="31939">
+</Annotation>
+<Annotation Id="19718" Type="Boilerplate_Conformant" StartNode="31668" EndNode="31729">
+</Annotation>
+<Annotation Id="19719" Type="Boilerplate_Conformant" StartNode="31733" EndNode="31822">
+</Annotation>
+<Annotation Id="19716" Type="Boilerplate_Conformant" StartNode="31533" EndNode="31599">
+</Annotation>
+<Annotation Id="19717" Type="Boilerplate_Conformant" StartNode="31603" EndNode="31664">
+</Annotation>
+<Annotation Id="19714" Type="Boilerplate_Conformant" StartNode="31375" EndNode="31466">
+</Annotation>
+<Annotation Id="19715" Type="Boilerplate_Conformant" StartNode="31470" EndNode="31529">
+</Annotation>
+<Annotation Id="19712" Type="Boilerplate_Conformant" StartNode="31181" EndNode="31240">
+</Annotation>
+<Annotation Id="19713" Type="Boilerplate_Conformant" StartNode="31244" EndNode="31371">
+</Annotation>
+<Annotation Id="19743" Type="Boilerplate_Conformant" StartNode="33697" EndNode="33788">
+</Annotation>
+<Annotation Id="19742" Type="Boilerplate_Conformant" StartNode="33634" EndNode="33693">
+</Annotation>
+<Annotation Id="19741" Type="Boilerplate_Non_Conformant" StartNode="33533" EndNode="33630">
+</Annotation>
+<Annotation Id="19740" Type="Boilerplate_Non_Conformant" StartNode="33438" EndNode="33529">
+</Annotation>
+<Annotation Id="19739" Type="Boilerplate_Non_Conformant" StartNode="33358" EndNode="33434">
+</Annotation>
+<Annotation Id="19738" Type="Boilerplate_Non_Conformant" StartNode="33259" EndNode="33354">
+</Annotation>
+<Annotation Id="19737" Type="Boilerplate_Conformant" StartNode="33193" EndNode="33255">
+</Annotation>
+<Annotation Id="19736" Type="Boilerplate_Non_Conformant" StartNode="33125" EndNode="33189">
+</Annotation>
+<Annotation Id="19735" Type="Boilerplate_Conformant" StartNode="33063" EndNode="33121">
+</Annotation>
+<Annotation Id="19734" Type="Boilerplate_Non_Conformant" StartNode="32985" EndNode="33059">
+</Annotation>
+<Annotation Id="19733" Type="Boilerplate_Conformant" StartNode="32934" EndNode="32980">
+</Annotation>
+<Annotation Id="19732" Type="Boilerplate_Non_Conformant" StartNode="32856" EndNode="32930">
+</Annotation>
+<Annotation Id="19731" Type="Boilerplate_Non_Conformant" StartNode="32743" EndNode="32851">
+</Annotation>
+<Annotation Id="19730" Type="Boilerplate_Non_Conformant" StartNode="32656" EndNode="32738">
+</Annotation>
+<Annotation Id="19729" Type="Boilerplate_Non_Conformant" StartNode="32592" EndNode="32652">
+</Annotation>
+<Annotation Id="19728" Type="Boilerplate_Conformant" StartNode="32519" EndNode="32587">
+</Annotation>
+<Annotation Id="19757" Type="Boilerplate_Conformant" StartNode="34916" EndNode="34990">
+</Annotation>
+<Annotation Id="19758" Type="Boilerplate_Conformant" StartNode="34994" EndNode="35060">
+</Annotation>
+<Annotation Id="19759" Type="Boilerplate_Conformant" StartNode="35064" EndNode="35178">
+</Annotation>
+<Annotation Id="19752" Type="Boilerplate_Conformant" StartNode="34638" EndNode="34709">
+</Annotation>
+<Annotation Id="19753" Type="Boilerplate_Conformant" StartNode="34714" EndNode="34835">
+</Annotation>
+<Annotation Id="19748" Type="Boilerplate_Conformant" StartNode="34204" EndNode="34362">
+</Annotation>
+<Annotation Id="19749" Type="Boilerplate_Conformant" StartNode="34367" EndNode="34460">
+</Annotation>
+<Annotation Id="19750" Type="Boilerplate_Conformant" StartNode="34464" EndNode="34542">
+</Annotation>
+<Annotation Id="19751" Type="Boilerplate_Conformant" StartNode="34547" EndNode="34633">
+</Annotation>
+<Annotation Id="19744" Type="Boilerplate_Conformant" StartNode="33793" EndNode="33867">
+</Annotation>
+<Annotation Id="19745" Type="Boilerplate_Conformant" StartNode="33872" EndNode="33940">
+</Annotation>
+<Annotation Id="19746" Type="Boilerplate_Conformant" StartNode="33944" EndNode="34077">
+</Annotation>
+<Annotation Id="19747" Type="Boilerplate_Conformant" StartNode="34081" EndNode="34200">
+</Annotation>
+<Annotation Id="19773" Type="Boilerplate_Conformant" StartNode="35981" EndNode="36054">
+</Annotation>
+<Annotation Id="19775" Type="Boilerplate_Non_Conformant" StartNode="36195" EndNode="36388">
+</Annotation>
+<Annotation Id="19774" Type="Boilerplate_Conformant" StartNode="36058" EndNode="36191">
+</Annotation>
+<Annotation Id="19761" Type="Boilerplate_Conformant" StartNode="35256" EndNode="35377">
+</Annotation>
+<Annotation Id="19760" Type="Boilerplate_Conformant" StartNode="35182" EndNode="35251">
+</Annotation>
+<Annotation Id="19763" Type="Boilerplate_Conformant" StartNode="35533" EndNode="35654">
+</Annotation>
+<Annotation Id="19762" Type="Boilerplate_Non_Conformant" StartNode="35381" EndNode="35529">
+</Annotation>
+<Annotation Id="19361" Type="Boilerplate_Conformant" StartNode="654" EndNode="756">
+</Annotation>
+<Annotation Id="19360" Type="Boilerplate_Conformant" StartNode="563" EndNode="650">
+</Annotation>
+<Annotation Id="19363" Type="Boilerplate_Conformant" StartNode="879" EndNode="988">
+</Annotation>
+<Annotation Id="19362" Type="Boilerplate_Conformant" StartNode="761" EndNode="875">
+</Annotation>
+<Annotation Id="19388" Type="Boilerplate_Conformant" StartNode="2458" EndNode="2521">
+</Annotation>
+<Annotation Id="19389" Type="Boilerplate_Conformant" StartNode="2525" EndNode="2577">
+</Annotation>
+<Annotation Id="19379" Type="Boilerplate_Conformant" StartNode="1683" EndNode="1812">
+</Annotation>
+<Annotation Id="19380" Type="Boilerplate_Conformant" StartNode="1816" EndNode="1891">
+</Annotation>
+<Annotation Id="19381" Type="Boilerplate_Conformant" StartNode="1895" EndNode="2011">
+</Annotation>
+<Annotation Id="19382" Type="Boilerplate_Non_Conformant" StartNode="2015" EndNode="2136">
+</Annotation>
+<Annotation Id="19383" Type="Boilerplate_Conformant" StartNode="2140" EndNode="2231">
+</Annotation>
+<Annotation Id="19358" Type="Boilerplate_Conformant" StartNode="359" EndNode="449">
+</Annotation>
+<Annotation Id="19359" Type="Boilerplate_Conformant" StartNode="453" EndNode="558">
+</Annotation>
+<Annotation Id="19350" Type="Boilerplate_Conformant" StartNode="0" EndNode="87">
+</Annotation>
+<Annotation Id="19351" Type="Boilerplate_Conformant" StartNode="91" EndNode="355">
+</Annotation>
+<Annotation Id="19847" Type="Boilerplate_Non_Conformant" StartNode="1433" EndNode="1537">
+</Annotation>
+<Annotation Id="19437" Type="Boilerplate_Conformant" StartNode="7144" EndNode="7210">
+</Annotation>
+<Annotation Id="19846" Type="Boilerplate_Conformant" StartNode="1160" EndNode="1428">
+</Annotation>
+<Annotation Id="19436" Type="Boilerplate_Conformant" StartNode="7078" EndNode="7140">
+</Annotation>
+<Annotation Id="19439" Type="Boilerplate_Conformant" StartNode="7292" EndNode="7384">
+</Annotation>
+<Annotation Id="19438" Type="Boilerplate_Conformant" StartNode="7214" EndNode="7289">
+</Annotation>
+<Annotation Id="19433" Type="Boilerplate_Conformant" StartNode="6798" EndNode="6918">
+</Annotation>
+<Annotation Id="19432" Type="Boilerplate_Conformant" StartNode="6714" EndNode="6794">
+</Annotation>
+<Annotation Id="19434" Type="Boilerplate_Conformant" StartNode="6922" EndNode="7006">
+</Annotation>
+<Annotation Id="19855" Type="Boilerplate_Conformant" StartNode="10358" EndNode="10799">
+</Annotation>
+<Annotation Id="19429" Type="Boilerplate_Conformant" StartNode="6442" EndNode="6512">
+</Annotation>
+<Annotation Id="19854" Type="Boilerplate_Conformant" StartNode="8069" EndNode="8207">
+</Annotation>
+<Annotation Id="19428" Type="Boilerplate_Conformant" StartNode="6384" EndNode="6439">
+</Annotation>
+<Annotation Id="19431" Type="Boilerplate_Conformant" StartNode="6626" EndNode="6710">
+</Annotation>
+<Annotation Id="19430" Type="Boilerplate_Conformant" StartNode="6515" EndNode="6623">
+</Annotation>
+<Annotation Id="19852" Type="Boilerplate_Non_Conformant" StartNode="4102" EndNode="4267">
+</Annotation>
+<Annotation Id="19851" Type="Boilerplate_Non_Conformant" StartNode="3017" EndNode="3289">
+</Annotation>
+<Annotation Id="19425" Type="Boilerplate_Conformant" StartNode="6140" EndNode="6219">
+</Annotation>
+<Annotation Id="19850" Type="Boilerplate_Non_Conformant" StartNode="2581" EndNode="3013">
+</Annotation>
+<Annotation Id="19424" Type="Boilerplate_Conformant" StartNode="6038" EndNode="6136">
+</Annotation>
+<Annotation Id="19849" Type="Boilerplate_Non_Conformant" StartNode="2236" EndNode="2455">
+</Annotation>
+<Annotation Id="19427" Type="Boilerplate_Conformant" StartNode="6324" EndNode="6381">
+</Annotation>
+<Annotation Id="19426" Type="Boilerplate_Conformant" StartNode="6223" EndNode="6319">
+</Annotation>
+<Annotation Id="19848" Type="Boilerplate_Conformant" StartNode="1540" EndNode="1680">
+</Annotation>
+<Annotation Id="19862" Type="Boilerplate_Conformant" StartNode="24724" EndNode="24822">
+</Annotation>
+<Annotation Id="19454" Type="Boilerplate_Conformant" StartNode="8212" EndNode="8307">
+</Annotation>
+<Annotation Id="19861" Type="Boilerplate_Non_Conformant" StartNode="21873" EndNode="22035">
+</Annotation>
+<Annotation Id="19455" Type="Boilerplate_Conformant" StartNode="8311" EndNode="8386">
+</Annotation>
+<Annotation Id="19859" Type="Boilerplate_Non_Conformant" StartNode="21225" EndNode="21534">
+</Annotation>
+<Annotation Id="19856" Type="Boilerplate_Conformant" StartNode="13356" EndNode="13431">
+</Annotation>
+<Annotation Id="19857" Type="Boilerplate_Conformant" StartNode="15129" EndNode="15648">
+</Annotation>
+<Annotation Id="19870" Type="Boilerplate_Conformant" StartNode="30616" EndNode="30733">
+</Annotation>
+<Annotation Id="19444" Type="Boilerplate_Non_Conformant" StartNode="7764" EndNode="7861">
+</Annotation>
+<Annotation Id="229612" Type="Boilerplate_Conformant" StartNode="7010" EndNode="7075">
+</Annotation>
+<Annotation Id="19871" Type="Boilerplate_Non_Conformant" StartNode="30737" EndNode="30876">
+</Annotation>
+<Annotation Id="19445" Type="Boilerplate_Non_Conformant" StartNode="7865" EndNode="7934">
+</Annotation>
+<Annotation Id="229614" Type="Boilerplate_Conformant" StartNode="21653" EndNode="21866">
+</Annotation>
+<Annotation Id="19868" Type="Boilerplate_Conformant" StartNode="26358" EndNode="26451">
+</Annotation>
+<Annotation Id="19869" Type="Boilerplate_Conformant" StartNode="30423" EndNode="30612">
+</Annotation>
+<Annotation Id="19440" Type="Boilerplate_Conformant" StartNode="7387" EndNode="7487">
+</Annotation>
+<Annotation Id="19866" Type="Boilerplate_Conformant" StartNode="25592" EndNode="25709">
+</Annotation>
+<Annotation Id="229609" Type="Boilerplate_Conformant" StartNode="18054" EndNode="18133">
+</Annotation>
+<Annotation Id="19867" Type="Boilerplate_Conformant" StartNode="26192" EndNode="26354">
+</Annotation>
+<Annotation Id="19441" Type="Boilerplate_Non_Conformant" StartNode="7491" EndNode="7553">
+</Annotation>
+<Annotation Id="229610" Type="Boilerplate_Non_Conformant" StartNode="18136" EndNode="18265">
+</Annotation>
+<Annotation Id="19864" Type="Boilerplate_Non_Conformant" StartNode="25177" EndNode="25286">
+</Annotation>
+<Annotation Id="19442" Type="Boilerplate_Conformant" StartNode="7557" EndNode="7662">
+</Annotation>
+<Annotation Id="19865" Type="Boilerplate_Conformant" StartNode="25357" EndNode="25473">
+</Annotation>
+<Annotation Id="19443" Type="Boilerplate_Conformant" StartNode="7666" EndNode="7760">
+</Annotation>
+<Annotation Id="19877" Type="Boilerplate_Non_Conformant" StartNode="37886" EndNode="37952">
+</Annotation>
+<Annotation Id="19407" Type="Boilerplate_Non_Conformant" StartNode="4345" EndNode="4412">
+</Annotation>
+<Annotation Id="19406" Type="Boilerplate_Conformant" StartNode="4272" EndNode="4341">
+</Annotation>
+<Annotation Id="19876" Type="Boilerplate_Conformant" StartNode="36805" EndNode="36900">
+</Annotation>
+<Annotation Id="19879" Type="Boilerplate_Non_Conformant" StartNode="39480" EndNode="39748">
+</Annotation>
+<Annotation Id="19878" Type="Boilerplate_Non_Conformant" StartNode="39174" EndNode="39475">
+</Annotation>
+<Annotation Id="19873" Type="Boilerplate_Conformant" StartNode="34839" EndNode="34913">
+</Annotation>
+<Annotation Id="19875" Type="Boilerplate_Conformant" StartNode="36515" EndNode="36665">
+</Annotation>
+<Annotation Id="19874" Type="Boilerplate_Conformant" StartNode="35658" EndNode="35977">
+</Annotation>
+<Annotation Id="19400" Type="Boilerplate_Non_Conformant" StartNode="3986" EndNode="4098">
+</Annotation>
+<Annotation Id="19399" Type="Boilerplate_Conformant" StartNode="3907" EndNode="3982">
+</Annotation>
+<Annotation Id="19398" Type="Boilerplate_Conformant" StartNode="3847" EndNode="3903">
+</Annotation>
+<Annotation Id="19397" Type="Boilerplate_Conformant" StartNode="3680" EndNode="3843">
+</Annotation>
+<Annotation Id="19396" Type="Boilerplate_Conformant" StartNode="3570" EndNode="3674">
+</Annotation>
+<Annotation Id="19395" Type="Boilerplate_Conformant" StartNode="3375" EndNode="3565">
+</Annotation>
+<Annotation Id="19880" Type="Boilerplate_Non_Conformant" StartNode="39752" EndNode="40056">
+</Annotation>
+<Annotation Id="19394" Type="Boilerplate_Conformant" StartNode="3293" EndNode="3371">
+</Annotation>
+<Annotation Id="19422" Type="Boilerplate_Conformant" StartNode="5806" EndNode="5902">
+</Annotation>
+<Annotation Id="19423" Type="Boilerplate_Conformant" StartNode="5906" EndNode="6034">
+</Annotation>
+<Annotation Id="19420" Type="Boilerplate_Conformant" StartNode="5659" EndNode="5741">
+</Annotation>
+<Annotation Id="19421" Type="Boilerplate_Conformant" StartNode="5745" EndNode="5802">
+</Annotation>
+<Annotation Id="19418" Type="Boilerplate_Conformant" StartNode="5509" EndNode="5580">
+</Annotation>
+<Annotation Id="19419" Type="Boilerplate_Conformant" StartNode="5584" EndNode="5655">
+</Annotation>
+<Annotation Id="19416" Type="Boilerplate_Conformant" StartNode="5306" EndNode="5420">
+</Annotation>
+<Annotation Id="19417" Type="Boilerplate_Conformant" StartNode="5424" EndNode="5504">
+</Annotation>
+<Annotation Id="19414" Type="Boilerplate_Conformant" StartNode="5106" EndNode="5179">
+</Annotation>
+<Annotation Id="19415" Type="Boilerplate_Conformant" StartNode="5183" EndNode="5302">
+</Annotation>
+<Annotation Id="19412" Type="Boilerplate_Conformant" StartNode="4924" EndNode="5011">
+</Annotation>
+<Annotation Id="19413" Type="Boilerplate_Conformant" StartNode="5016" EndNode="5102">
+</Annotation>
+<Annotation Id="19410" Type="Boilerplate_Non_Conformant" StartNode="4632" EndNode="4777">
+</Annotation>
+<Annotation Id="19411" Type="Boilerplate_Conformant" StartNode="4781" EndNode="4920">
+</Annotation>
+<Annotation Id="19408" Type="Boilerplate_Non_Conformant" StartNode="4417" EndNode="4517">
+</Annotation>
+<Annotation Id="19409" Type="Boilerplate_Non_Conformant" StartNode="4521" EndNode="4628">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="89">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="91" EndNode="357">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="359" EndNode="451">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="453" EndNode="561">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="563" EndNode="652">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="654" EndNode="759">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="761" EndNode="877">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="879" EndNode="990">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="992" EndNode="1158">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="1160" EndNode="1431">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="1433" EndNode="1538">
+</Annotation>
+<Annotation Id="11" Type="paragraph" StartNode="1540" EndNode="1681">
+</Annotation>
+<Annotation Id="12" Type="paragraph" StartNode="1683" EndNode="1814">
+</Annotation>
+<Annotation Id="13" Type="paragraph" StartNode="1816" EndNode="1893">
+</Annotation>
+<Annotation Id="14" Type="paragraph" StartNode="1895" EndNode="2013">
+</Annotation>
+<Annotation Id="15" Type="paragraph" StartNode="2015" EndNode="2138">
+</Annotation>
+<Annotation Id="17" Type="paragraph" StartNode="2236" EndNode="2456">
+</Annotation>
+<Annotation Id="16" Type="paragraph" StartNode="2140" EndNode="2234">
+</Annotation>
+<Annotation Id="19" Type="paragraph" StartNode="2525" EndNode="2579">
+</Annotation>
+<Annotation Id="18" Type="paragraph" StartNode="2458" EndNode="2523">
+</Annotation>
+<Annotation Id="21" Type="paragraph" StartNode="3017" EndNode="3291">
+</Annotation>
+<Annotation Id="20" Type="paragraph" StartNode="2581" EndNode="3015">
+</Annotation>
+<Annotation Id="23" Type="paragraph" StartNode="3375" EndNode="3568">
+</Annotation>
+<Annotation Id="22" Type="paragraph" StartNode="3293" EndNode="3373">
+</Annotation>
+<Annotation Id="25" Type="paragraph" StartNode="3680" EndNode="3845">
+</Annotation>
+<Annotation Id="24" Type="paragraph" StartNode="3570" EndNode="3678">
+</Annotation>
+<Annotation Id="27" Type="paragraph" StartNode="3907" EndNode="3984">
+</Annotation>
+<Annotation Id="26" Type="paragraph" StartNode="3847" EndNode="3905">
+</Annotation>
+<Annotation Id="29" Type="paragraph" StartNode="4102" EndNode="4268">
+</Annotation>
+<Annotation Id="28" Type="paragraph" StartNode="3986" EndNode="4100">
+</Annotation>
+<Annotation Id="31" Type="paragraph" StartNode="4345" EndNode="4415">
+</Annotation>
+<Annotation Id="30" Type="paragraph" StartNode="4272" EndNode="4343">
+</Annotation>
+<Annotation Id="34" Type="paragraph" StartNode="4632" EndNode="4779">
+</Annotation>
+<Annotation Id="35" Type="paragraph" StartNode="4781" EndNode="4922">
+</Annotation>
+<Annotation Id="32" Type="paragraph" StartNode="4417" EndNode="4519">
+</Annotation>
+<Annotation Id="33" Type="paragraph" StartNode="4521" EndNode="4630">
+</Annotation>
+<Annotation Id="38" Type="paragraph" StartNode="5106" EndNode="5181">
+</Annotation>
+<Annotation Id="39" Type="paragraph" StartNode="5183" EndNode="5304">
+</Annotation>
+<Annotation Id="36" Type="paragraph" StartNode="4924" EndNode="5014">
+</Annotation>
+<Annotation Id="37" Type="paragraph" StartNode="5016" EndNode="5104">
+</Annotation>
+<Annotation Id="42" Type="paragraph" StartNode="5509" EndNode="5582">
+</Annotation>
+<Annotation Id="43" Type="paragraph" StartNode="5584" EndNode="5657">
+</Annotation>
+<Annotation Id="40" Type="paragraph" StartNode="5306" EndNode="5422">
+</Annotation>
+<Annotation Id="41" Type="paragraph" StartNode="5424" EndNode="5507">
+</Annotation>
+<Annotation Id="46" Type="paragraph" StartNode="5806" EndNode="5904">
+</Annotation>
+<Annotation Id="47" Type="paragraph" StartNode="5906" EndNode="6036">
+</Annotation>
+<Annotation Id="44" Type="paragraph" StartNode="5659" EndNode="5743">
+</Annotation>
+<Annotation Id="45" Type="paragraph" StartNode="5745" EndNode="5804">
+</Annotation>
+<Annotation Id="51" Type="paragraph" StartNode="6324" EndNode="6382">
+</Annotation>
+<Annotation Id="50" Type="paragraph" StartNode="6223" EndNode="6322">
+</Annotation>
+<Annotation Id="49" Type="paragraph" StartNode="6140" EndNode="6221">
+</Annotation>
+<Annotation Id="48" Type="paragraph" StartNode="6038" EndNode="6138">
+</Annotation>
+<Annotation Id="55" Type="paragraph" StartNode="6626" EndNode="6712">
+</Annotation>
+<Annotation Id="54" Type="paragraph" StartNode="6515" EndNode="6624">
+</Annotation>
+<Annotation Id="53" Type="paragraph" StartNode="6442" EndNode="6513">
+</Annotation>
+<Annotation Id="52" Type="paragraph" StartNode="6384" EndNode="6440">
+</Annotation>
+<Annotation Id="59" Type="paragraph" StartNode="7014" EndNode="7076">
+</Annotation>
+<Annotation Id="58" Type="paragraph" StartNode="6922" EndNode="7008">
+</Annotation>
+<Annotation Id="57" Type="paragraph" StartNode="6798" EndNode="6920">
+</Annotation>
+<Annotation Id="56" Type="paragraph" StartNode="6714" EndNode="6796">
+</Annotation>
+<Annotation Id="63" Type="paragraph" StartNode="7292" EndNode="7385">
+</Annotation>
+<Annotation Id="62" Type="paragraph" StartNode="7218" EndNode="7290">
+</Annotation>
+<Annotation Id="61" Type="paragraph" StartNode="7148" EndNode="7212">
+</Annotation>
+<Annotation Id="60" Type="paragraph" StartNode="7078" EndNode="7142">
+</Annotation>
+<Annotation Id="68" Type="paragraph" StartNode="7764" EndNode="7863">
+</Annotation>
+<Annotation Id="69" Type="paragraph" StartNode="7865" EndNode="7936">
+</Annotation>
+<Annotation Id="70" Type="paragraph" StartNode="7938" EndNode="8067">
+</Annotation>
+<Annotation Id="71" Type="paragraph" StartNode="8069" EndNode="8208">
+</Annotation>
+<Annotation Id="64" Type="paragraph" StartNode="7387" EndNode="7489">
+</Annotation>
+<Annotation Id="65" Type="paragraph" StartNode="7491" EndNode="7555">
+</Annotation>
+<Annotation Id="66" Type="paragraph" StartNode="7557" EndNode="7664">
+</Annotation>
+<Annotation Id="67" Type="paragraph" StartNode="7666" EndNode="7762">
+</Annotation>
+<Annotation Id="76" Type="paragraph" StartNode="8562" EndNode="8654">
+</Annotation>
+<Annotation Id="77" Type="paragraph" StartNode="8656" EndNode="8741">
+</Annotation>
+<Annotation Id="78" Type="paragraph" StartNode="8743" EndNode="8854">
+</Annotation>
+<Annotation Id="79" Type="paragraph" StartNode="8856" EndNode="8975">
+</Annotation>
+<Annotation Id="72" Type="paragraph" StartNode="8212" EndNode="8309">
+</Annotation>
+<Annotation Id="73" Type="paragraph" StartNode="8311" EndNode="8388">
+</Annotation>
+<Annotation Id="74" Type="paragraph" StartNode="8390" EndNode="8471">
+</Annotation>
+<Annotation Id="75" Type="paragraph" StartNode="8473" EndNode="8560">
+</Annotation>
+<Annotation Id="85" Type="paragraph" StartNode="9571" EndNode="9641">
+</Annotation>
+<Annotation Id="84" Type="paragraph" StartNode="9450" EndNode="9569">
+</Annotation>
+<Annotation Id="87" Type="paragraph" StartNode="9727" EndNode="9859">
+</Annotation>
+<Annotation Id="86" Type="paragraph" StartNode="9643" EndNode="9725">
+</Annotation>
+<Annotation Id="81" Type="paragraph" StartNode="9088" EndNode="9183">
+</Annotation>
+<Annotation Id="80" Type="paragraph" StartNode="8977" EndNode="9086">
+</Annotation>
+<Annotation Id="83" Type="paragraph" StartNode="9319" EndNode="9448">
+</Annotation>
+<Annotation Id="82" Type="paragraph" StartNode="9185" EndNode="9313">
+</Annotation>
+<Annotation Id="93" Type="paragraph" StartNode="10807" EndNode="10901">
+</Annotation>
+<Annotation Id="92" Type="paragraph" StartNode="10358" EndNode="10801">
+</Annotation>
+<Annotation Id="95" Type="paragraph" StartNode="10982" EndNode="11077">
+</Annotation>
+<Annotation Id="94" Type="paragraph" StartNode="10903" EndNode="10980">
+</Annotation>
+<Annotation Id="89" Type="paragraph" StartNode="9983" EndNode="10090">
+</Annotation>
+<Annotation Id="88" Type="paragraph" StartNode="9861" EndNode="9981">
+</Annotation>
+<Annotation Id="91" Type="paragraph" StartNode="10221" EndNode="10356">
+</Annotation>
+<Annotation Id="90" Type="paragraph" StartNode="10092" EndNode="10219">
+</Annotation>
+<Annotation Id="102" Type="paragraph" StartNode="11675" EndNode="11750">
+</Annotation>
+<Annotation Id="103" Type="paragraph" StartNode="11752" EndNode="11827">
+</Annotation>
+<Annotation Id="100" Type="paragraph" StartNode="11504" EndNode="11576">
+</Annotation>
+<Annotation Id="101" Type="paragraph" StartNode="11578" EndNode="11673">
+</Annotation>
+<Annotation Id="98" Type="paragraph" StartNode="11267" EndNode="11376">
+</Annotation>
+<Annotation Id="99" Type="paragraph" StartNode="11378" EndNode="11502">
+</Annotation>
+<Annotation Id="96" Type="paragraph" StartNode="11079" EndNode="11182">
+</Annotation>
+<Annotation Id="97" Type="paragraph" StartNode="11184" EndNode="11265">
+</Annotation>
+<Annotation Id="110" Type="paragraph" StartNode="12590" EndNode="12672">
+</Annotation>
+<Annotation Id="111" Type="paragraph" StartNode="12674" EndNode="12778">
+</Annotation>
+<Annotation Id="108" Type="paragraph" StartNode="12407" EndNode="12497">
+</Annotation>
+<Annotation Id="109" Type="paragraph" StartNode="12499" EndNode="12588">
+</Annotation>
+<Annotation Id="106" Type="paragraph" StartNode="12056" EndNode="12270">
+</Annotation>
+<Annotation Id="107" Type="paragraph" StartNode="12272" EndNode="12405">
+</Annotation>
+<Annotation Id="104" Type="paragraph" StartNode="11829" EndNode="11918">
+</Annotation>
+<Annotation Id="105" Type="paragraph" StartNode="11920" EndNode="12054">
+</Annotation>
+<Annotation Id="119" Type="paragraph" StartNode="13540" EndNode="13649">
+</Annotation>
+<Annotation Id="118" Type="paragraph" StartNode="13436" EndNode="13538">
+</Annotation>
+<Annotation Id="117" Type="paragraph" StartNode="13356" EndNode="13434">
+</Annotation>
+<Annotation Id="116" Type="paragraph" StartNode="13260" EndNode="13354">
+</Annotation>
+<Annotation Id="115" Type="paragraph" StartNode="13106" EndNode="13258">
+</Annotation>
+<Annotation Id="114" Type="paragraph" StartNode="13033" EndNode="13104">
+</Annotation>
+<Annotation Id="113" Type="paragraph" StartNode="12859" EndNode="13031">
+</Annotation>
+<Annotation Id="112" Type="paragraph" StartNode="12780" EndNode="12857">
+</Annotation>
+<Annotation Id="127" Type="paragraph" StartNode="14351" EndNode="14443">
+</Annotation>
+<Annotation Id="126" Type="paragraph" StartNode="14216" EndNode="14349">
+</Annotation>
+<Annotation Id="125" Type="paragraph" StartNode="14059" EndNode="14214">
+</Annotation>
+<Annotation Id="124" Type="paragraph" StartNode="13962" EndNode="14057">
+</Annotation>
+<Annotation Id="123" Type="paragraph" StartNode="13893" EndNode="13960">
+</Annotation>
+<Annotation Id="122" Type="paragraph" StartNode="13812" EndNode="13891">
+</Annotation>
+<Annotation Id="121" Type="paragraph" StartNode="13721" EndNode="13810">
+</Annotation>
+<Annotation Id="120" Type="paragraph" StartNode="13651" EndNode="13719">
+</Annotation>
+<Annotation Id="137" Type="paragraph" StartNode="15790" EndNode="15855">
+</Annotation>
+<Annotation Id="136" Type="paragraph" StartNode="15653" EndNode="15788">
+</Annotation>
+<Annotation Id="139" Type="paragraph" StartNode="15995" EndNode="16060">
+</Annotation>
+<Annotation Id="138" Type="paragraph" StartNode="15857" EndNode="15993">
+</Annotation>
+<Annotation Id="141" Type="paragraph" StartNode="16183" EndNode="16301">
+</Annotation>
+<Annotation Id="140" Type="paragraph" StartNode="16062" EndNode="16181">
+</Annotation>
+<Annotation Id="143" Type="paragraph" StartNode="16387" EndNode="16471">
+</Annotation>
+<Annotation Id="142" Type="paragraph" StartNode="16303" EndNode="16385">
+</Annotation>
+<Annotation Id="129" Type="paragraph" StartNode="14540" EndNode="14639">
+</Annotation>
+<Annotation Id="128" Type="paragraph" StartNode="14445" EndNode="14538">
+</Annotation>
+<Annotation Id="131" Type="paragraph" StartNode="14721" EndNode="14856">
+</Annotation>
+<Annotation Id="130" Type="paragraph" StartNode="14641" EndNode="14719">
+</Annotation>
+<Annotation Id="133" Type="paragraph" StartNode="14925" EndNode="15060">
+</Annotation>
+<Annotation Id="132" Type="paragraph" StartNode="14858" EndNode="14923">
+</Annotation>
+<Annotation Id="135" Type="paragraph" StartNode="15129" EndNode="15651">
+</Annotation>
+<Annotation Id="134" Type="paragraph" StartNode="15062" EndNode="15127">
+</Annotation>
+<Annotation Id="152" Type="paragraph" StartNode="17138" EndNode="17218">
+</Annotation>
+<Annotation Id="153" Type="paragraph" StartNode="17220" EndNode="17314">
+</Annotation>
+<Annotation Id="154" Type="paragraph" StartNode="17316" EndNode="17396">
+</Annotation>
+<Annotation Id="155" Type="paragraph" StartNode="17398" EndNode="17507">
+</Annotation>
+<Annotation Id="156" Type="paragraph" StartNode="17509" EndNode="17586">
+</Annotation>
+<Annotation Id="157" Type="paragraph" StartNode="17588" EndNode="17706">
+</Annotation>
+<Annotation Id="158" Type="paragraph" StartNode="17708" EndNode="17812">
+</Annotation>
+<Annotation Id="159" Type="paragraph" StartNode="17814" EndNode="17897">
+</Annotation>
+<Annotation Id="144" Type="paragraph" StartNode="16473" EndNode="16566">
+</Annotation>
+<Annotation Id="145" Type="paragraph" StartNode="16568" EndNode="16648">
+</Annotation>
+<Annotation Id="146" Type="paragraph" StartNode="16650" EndNode="16723">
+</Annotation>
+<Annotation Id="147" Type="paragraph" StartNode="16725" EndNode="16791">
+</Annotation>
+<Annotation Id="148" Type="paragraph" StartNode="16793" EndNode="16929">
+</Annotation>
+<Annotation Id="149" Type="paragraph" StartNode="16931" EndNode="17025">
+</Annotation>
+<Annotation Id="150" Type="paragraph" StartNode="17027" EndNode="17071">
+</Annotation>
+<Annotation Id="151" Type="paragraph" StartNode="17073" EndNode="17136">
+</Annotation>
+<Annotation Id="171" Type="paragraph" StartNode="19061" EndNode="19140">
+</Annotation>
+<Annotation Id="170" Type="paragraph" StartNode="18937" EndNode="19059">
+</Annotation>
+<Annotation Id="169" Type="paragraph" StartNode="18824" EndNode="18935">
+</Annotation>
+<Annotation Id="168" Type="paragraph" StartNode="18745" EndNode="18822">
+</Annotation>
+<Annotation Id="175" Type="paragraph" StartNode="19396" EndNode="19480">
+</Annotation>
+<Annotation Id="174" Type="paragraph" StartNode="19335" EndNode="19394">
+</Annotation>
+<Annotation Id="173" Type="paragraph" StartNode="19223" EndNode="19333">
+</Annotation>
+<Annotation Id="172" Type="paragraph" StartNode="19142" EndNode="19221">
+</Annotation>
+<Annotation Id="163" Type="paragraph" StartNode="18349" EndNode="18440">
+</Annotation>
+<Annotation Id="162" Type="paragraph" StartNode="18269" EndNode="18347">
+</Annotation>
+<Annotation Id="161" Type="paragraph" StartNode="18054" EndNode="18267">
+</Annotation>
+<Annotation Id="160" Type="paragraph" StartNode="17899" EndNode="18052">
+</Annotation>
+<Annotation Id="167" Type="paragraph" StartNode="18658" EndNode="18743">
+</Annotation>
+<Annotation Id="166" Type="paragraph" StartNode="18585" EndNode="18656">
+</Annotation>
+<Annotation Id="165" Type="paragraph" StartNode="18512" EndNode="18583">
+</Annotation>
+<Annotation Id="164" Type="paragraph" StartNode="18442" EndNode="18510">
+</Annotation>
+<Annotation Id="186" Type="paragraph" StartNode="20362" EndNode="20503">
+</Annotation>
+<Annotation Id="187" Type="paragraph" StartNode="20505" EndNode="20596">
+</Annotation>
+<Annotation Id="184" Type="paragraph" StartNode="20174" EndNode="20218">
+</Annotation>
+<Annotation Id="185" Type="paragraph" StartNode="20220" EndNode="20360">
+</Annotation>
+<Annotation Id="190" Type="paragraph" StartNode="20796" EndNode="20862">
+</Annotation>
+<Annotation Id="191" Type="paragraph" StartNode="20864" EndNode="20948">
+</Annotation>
+<Annotation Id="188" Type="paragraph" StartNode="20598" EndNode="20666">
+</Annotation>
+<Annotation Id="189" Type="paragraph" StartNode="20668" EndNode="20794">
+</Annotation>
+<Annotation Id="178" Type="paragraph" StartNode="19693" EndNode="19855">
+</Annotation>
+<Annotation Id="179" Type="paragraph" StartNode="19857" EndNode="19933">
+</Annotation>
+<Annotation Id="176" Type="paragraph" StartNode="19482" EndNode="19587">
+</Annotation>
+<Annotation Id="177" Type="paragraph" StartNode="19589" EndNode="19691">
+</Annotation>
+<Annotation Id="182" Type="paragraph" StartNode="20070" EndNode="20126">
+</Annotation>
+<Annotation Id="183" Type="paragraph" StartNode="20128" EndNode="20172">
+</Annotation>
+<Annotation Id="180" Type="paragraph" StartNode="19935" EndNode="20011">
+</Annotation>
+<Annotation Id="181" Type="paragraph" StartNode="20013" EndNode="20068">
+</Annotation>
+<Annotation Id="205" Type="paragraph" StartNode="22664" EndNode="22778">
+</Annotation>
+<Annotation Id="204" Type="paragraph" StartNode="22594" EndNode="22662">
+</Annotation>
+<Annotation Id="207" Type="paragraph" StartNode="22876" EndNode="23015">
+</Annotation>
+<Annotation Id="206" Type="paragraph" StartNode="22780" EndNode="22874">
+</Annotation>
+<Annotation Id="201" Type="paragraph" StartNode="22228" EndNode="22350">
+</Annotation>
+<Annotation Id="200" Type="paragraph" StartNode="22130" EndNode="22226">
+</Annotation>
+<Annotation Id="203" Type="paragraph" StartNode="22425" EndNode="22592">
+</Annotation>
+<Annotation Id="202" Type="paragraph" StartNode="22352" EndNode="22423">
+</Annotation>
+<Annotation Id="197" Type="paragraph" StartNode="21657" EndNode="21869">
+</Annotation>
+<Annotation Id="196" Type="paragraph" StartNode="21539" EndNode="21651">
+</Annotation>
+<Annotation Id="199" Type="paragraph" StartNode="22042" EndNode="22128">
+</Annotation>
+<Annotation Id="198" Type="paragraph" StartNode="21873" EndNode="22038">
+</Annotation>
+<Annotation Id="193" Type="paragraph" StartNode="21023" EndNode="21122">
+</Annotation>
+<Annotation Id="192" Type="paragraph" StartNode="20950" EndNode="21021">
+</Annotation>
+<Annotation Id="195" Type="paragraph" StartNode="21225" EndNode="21535">
+</Annotation>
+<Annotation Id="194" Type="paragraph" StartNode="21124" EndNode="21223">
+</Annotation>
+<Annotation Id="220" Type="paragraph" StartNode="24113" EndNode="24225">
+</Annotation>
+<Annotation Id="221" Type="paragraph" StartNode="24227" EndNode="24333">
+</Annotation>
+<Annotation Id="222" Type="paragraph" StartNode="24337" EndNode="24443">
+</Annotation>
+<Annotation Id="223" Type="paragraph" StartNode="24445" EndNode="24512">
+</Annotation>
+<Annotation Id="216" Type="paragraph" StartNode="23722" EndNode="23819">
+</Annotation>
+<Annotation Id="217" Type="paragraph" StartNode="23821" EndNode="23907">
+</Annotation>
+<Annotation Id="218" Type="paragraph" StartNode="23909" EndNode="24001">
+</Annotation>
+<Annotation Id="219" Type="paragraph" StartNode="24003" EndNode="24111">
+</Annotation>
+<Annotation Id="212" Type="paragraph" StartNode="23411" EndNode="23466">
+</Annotation>
+<Annotation Id="213" Type="paragraph" StartNode="23468" EndNode="23530">
+</Annotation>
+<Annotation Id="214" Type="paragraph" StartNode="23532" EndNode="23613">
+</Annotation>
+<Annotation Id="215" Type="paragraph" StartNode="23615" EndNode="23720">
+</Annotation>
+<Annotation Id="208" Type="paragraph" StartNode="23017" EndNode="23101">
+</Annotation>
+<Annotation Id="209" Type="paragraph" StartNode="23103" EndNode="23184">
+</Annotation>
+<Annotation Id="210" Type="paragraph" StartNode="23186" EndNode="23288">
+</Annotation>
+<Annotation Id="211" Type="paragraph" StartNode="23290" EndNode="23409">
+</Annotation>
+<Annotation Id="239" Type="paragraph" StartNode="26147" EndNode="26190">
+</Annotation>
+<Annotation Id="238" Type="paragraph" StartNode="26075" EndNode="26145">
+</Annotation>
+<Annotation Id="237" Type="paragraph" StartNode="25968" EndNode="26073">
+</Annotation>
+<Annotation Id="236" Type="paragraph" StartNode="25828" EndNode="25966">
+</Annotation>
+<Annotation Id="235" Type="paragraph" StartNode="25714" EndNode="25826">
+</Annotation>
+<Annotation Id="234" Type="paragraph" StartNode="25592" EndNode="25712">
+</Annotation>
+<Annotation Id="233" Type="paragraph" StartNode="25478" EndNode="25590">
+</Annotation>
+<Annotation Id="232" Type="paragraph" StartNode="25357" EndNode="25476">
+</Annotation>
+<Annotation Id="231" Type="paragraph" StartNode="25290" EndNode="25355">
+</Annotation>
+<Annotation Id="230" Type="paragraph" StartNode="25177" EndNode="25288">
+</Annotation>
+<Annotation Id="229" Type="paragraph" StartNode="25084" EndNode="25175">
+</Annotation>
+<Annotation Id="228" Type="paragraph" StartNode="24926" EndNode="25082">
+</Annotation>
+<Annotation Id="227" Type="paragraph" StartNode="24825" EndNode="24924">
+</Annotation>
+<Annotation Id="226" Type="paragraph" StartNode="24724" EndNode="24823">
+</Annotation>
+<Annotation Id="225" Type="paragraph" StartNode="24617" EndNode="24722">
+</Annotation>
+<Annotation Id="224" Type="paragraph" StartNode="24514" EndNode="24615">
+</Annotation>
+<Annotation Id="254" Type="paragraph" StartNode="27395" EndNode="27457">
+</Annotation>
+<Annotation Id="255" Type="paragraph" StartNode="27459" EndNode="27503">
+</Annotation>
+<Annotation Id="252" Type="paragraph" StartNode="27285" EndNode="27347">
+</Annotation>
+<Annotation Id="253" Type="paragraph" StartNode="27349" EndNode="27393">
+</Annotation>
+<Annotation Id="250" Type="paragraph" StartNode="27174" EndNode="27237">
+</Annotation>
+<Annotation Id="251" Type="paragraph" StartNode="27239" EndNode="27283">
+</Annotation>
+<Annotation Id="248" Type="paragraph" StartNode="27064" EndNode="27126">
+</Annotation>
+<Annotation Id="249" Type="paragraph" StartNode="27128" EndNode="27172">
+</Annotation>
+<Annotation Id="246" Type="paragraph" StartNode="26945" EndNode="27016">
+</Annotation>
+<Annotation Id="247" Type="paragraph" StartNode="27018" EndNode="27062">
+</Annotation>
+<Annotation Id="244" Type="paragraph" StartNode="26741" EndNode="26874">
+</Annotation>
+<Annotation Id="245" Type="paragraph" StartNode="26876" EndNode="26943">
+</Annotation>
+<Annotation Id="242" Type="paragraph" StartNode="26455" EndNode="26629">
+</Annotation>
+<Annotation Id="243" Type="paragraph" StartNode="26631" EndNode="26739">
+</Annotation>
+<Annotation Id="240" Type="paragraph" StartNode="26192" EndNode="26356">
+</Annotation>
+<Annotation Id="241" Type="paragraph" StartNode="26358" EndNode="26453">
+</Annotation>
+<Annotation Id="275" Type="paragraph" StartNode="29285" EndNode="29424">
+</Annotation>
+<Annotation Id="274" Type="paragraph" StartNode="29220" EndNode="29283">
+</Annotation>
+<Annotation Id="273" Type="paragraph" StartNode="29122" EndNode="29218">
+</Annotation>
+<Annotation Id="272" Type="paragraph" StartNode="29049" EndNode="29120">
+</Annotation>
+<Annotation Id="279" Type="paragraph" StartNode="29663" EndNode="29802">
+</Annotation>
+<Annotation Id="278" Type="paragraph" StartNode="29596" EndNode="29661">
+</Annotation>
+<Annotation Id="277" Type="paragraph" StartNode="29499" EndNode="29594">
+</Annotation>
+<Annotation Id="276" Type="paragraph" StartNode="29426" EndNode="29497">
+</Annotation>
+<Annotation Id="283" Type="paragraph" StartNode="30046" EndNode="30185">
+</Annotation>
+<Annotation Id="282" Type="paragraph" StartNode="29975" EndNode="30044">
+</Annotation>
+<Annotation Id="281" Type="paragraph" StartNode="29878" EndNode="29973">
+</Annotation>
+<Annotation Id="280" Type="paragraph" StartNode="29804" EndNode="29876">
+</Annotation>
+<Annotation Id="287" Type="paragraph" StartNode="30423" EndNode="30614">
+</Annotation>
+<Annotation Id="286" Type="paragraph" StartNode="30357" EndNode="30421">
+</Annotation>
+<Annotation Id="285" Type="paragraph" StartNode="30260" EndNode="30355">
+</Annotation>
+<Annotation Id="284" Type="paragraph" StartNode="30187" EndNode="30258">
+</Annotation>
+<Annotation Id="258" Type="paragraph" StartNode="27614" EndNode="27692">
+</Annotation>
+<Annotation Id="259" Type="paragraph" StartNode="27694" EndNode="27768">
+</Annotation>
+<Annotation Id="256" Type="paragraph" StartNode="27505" EndNode="27566">
+</Annotation>
+<Annotation Id="257" Type="paragraph" StartNode="27568" EndNode="27612">
+</Annotation>
+<Annotation Id="262" Type="paragraph" StartNode="27948" EndNode="28085">
+</Annotation>
+<Annotation Id="263" Type="paragraph" StartNode="28087" EndNode="28203">
+</Annotation>
+<Annotation Id="260" Type="paragraph" StartNode="27770" EndNode="27858">
+</Annotation>
+<Annotation Id="261" Type="paragraph" StartNode="27860" EndNode="27946">
+</Annotation>
+<Annotation Id="266" Type="paragraph" StartNode="28453" EndNode="28528">
+</Annotation>
+<Annotation Id="267" Type="paragraph" StartNode="28530" EndNode="28668">
+</Annotation>
+<Annotation Id="264" Type="paragraph" StartNode="28205" EndNode="28327">
+</Annotation>
+<Annotation Id="265" Type="paragraph" StartNode="28329" EndNode="28451">
+</Annotation>
+<Annotation Id="270" Type="paragraph" StartNode="28840" EndNode="28906">
+</Annotation>
+<Annotation Id="271" Type="paragraph" StartNode="28908" EndNode="29047">
+</Annotation>
+<Annotation Id="268" Type="paragraph" StartNode="28670" EndNode="28740">
+</Annotation>
+<Annotation Id="269" Type="paragraph" StartNode="28742" EndNode="28838">
+</Annotation>
+<Annotation Id="305" Type="paragraph" StartNode="31999" EndNode="32112">
+</Annotation>
+<Annotation Id="304" Type="paragraph" StartNode="31943" EndNode="31997">
+</Annotation>
+<Annotation Id="307" Type="paragraph" StartNode="32204" EndNode="32337">
+</Annotation>
+<Annotation Id="306" Type="paragraph" StartNode="32114" EndNode="32202">
+</Annotation>
+<Annotation Id="309" Type="paragraph" StartNode="32435" EndNode="32517">
+</Annotation>
+<Annotation Id="308" Type="paragraph" StartNode="32339" EndNode="32433">
+</Annotation>
+<Annotation Id="311" Type="paragraph" StartNode="32592" EndNode="32654">
+</Annotation>
+<Annotation Id="310" Type="paragraph" StartNode="32519" EndNode="32590">
+</Annotation>
+<Annotation Id="313" Type="paragraph" StartNode="32743" EndNode="32854">
+</Annotation>
+<Annotation Id="312" Type="paragraph" StartNode="32656" EndNode="32741">
+</Annotation>
+<Annotation Id="315" Type="paragraph" StartNode="32934" EndNode="32983">
+</Annotation>
+<Annotation Id="314" Type="paragraph" StartNode="32856" EndNode="32932">
+</Annotation>
+<Annotation Id="317" Type="paragraph" StartNode="33063" EndNode="33123">
+</Annotation>
+<Annotation Id="316" Type="paragraph" StartNode="32985" EndNode="33061">
+</Annotation>
+<Annotation Id="319" Type="paragraph" StartNode="33193" EndNode="33257">
+</Annotation>
+<Annotation Id="318" Type="paragraph" StartNode="33125" EndNode="33191">
+</Annotation>
+<Annotation Id="288" Type="paragraph" StartNode="30616" EndNode="30735">
+</Annotation>
+<Annotation Id="289" Type="paragraph" StartNode="30737" EndNode="30878">
+</Annotation>
+<Annotation Id="290" Type="paragraph" StartNode="30880" EndNode="30943">
+</Annotation>
+<Annotation Id="291" Type="paragraph" StartNode="30945" EndNode="31008">
+</Annotation>
+<Annotation Id="292" Type="paragraph" StartNode="31010" EndNode="31088">
+</Annotation>
+<Annotation Id="293" Type="paragraph" StartNode="31090" EndNode="31179">
+</Annotation>
+<Annotation Id="294" Type="paragraph" StartNode="31181" EndNode="31242">
+</Annotation>
+<Annotation Id="295" Type="paragraph" StartNode="31244" EndNode="31373">
+</Annotation>
+<Annotation Id="296" Type="paragraph" StartNode="31375" EndNode="31468">
+</Annotation>
+<Annotation Id="297" Type="paragraph" StartNode="31470" EndNode="31531">
+</Annotation>
+<Annotation Id="298" Type="paragraph" StartNode="31533" EndNode="31601">
+</Annotation>
+<Annotation Id="299" Type="paragraph" StartNode="31603" EndNode="31666">
+</Annotation>
+<Annotation Id="300" Type="paragraph" StartNode="31668" EndNode="31731">
+</Annotation>
+<Annotation Id="301" Type="paragraph" StartNode="31733" EndNode="31824">
+</Annotation>
+<Annotation Id="302" Type="paragraph" StartNode="31826" EndNode="31880">
+</Annotation>
+<Annotation Id="303" Type="paragraph" StartNode="31882" EndNode="31941">
+</Annotation>
+<Annotation Id="343" Type="paragraph" StartNode="35533" EndNode="35656">
+</Annotation>
+<Annotation Id="342" Type="paragraph" StartNode="35381" EndNode="35531">
+</Annotation>
+<Annotation Id="341" Type="paragraph" StartNode="35256" EndNode="35379">
+</Annotation>
+<Annotation Id="340" Type="paragraph" StartNode="35182" EndNode="35254">
+</Annotation>
+<Annotation Id="339" Type="paragraph" StartNode="35064" EndNode="35180">
+</Annotation>
+<Annotation Id="338" Type="paragraph" StartNode="34994" EndNode="35062">
+</Annotation>
+<Annotation Id="337" Type="paragraph" StartNode="34916" EndNode="34992">
+</Annotation>
+<Annotation Id="336" Type="paragraph" StartNode="34839" EndNode="34914">
+</Annotation>
+<Annotation Id="351" Type="paragraph" StartNode="36805" EndNode="36901">
+</Annotation>
+<Annotation Id="350" Type="paragraph" StartNode="36668" EndNode="36803">
+</Annotation>
+<Annotation Id="349" Type="paragraph" StartNode="36515" EndNode="36666">
+</Annotation>
+<Annotation Id="348" Type="paragraph" StartNode="36393" EndNode="36513">
+</Annotation>
+<Annotation Id="347" Type="paragraph" StartNode="36195" EndNode="36391">
+</Annotation>
+<Annotation Id="346" Type="paragraph" StartNode="36058" EndNode="36193">
+</Annotation>
+<Annotation Id="345" Type="paragraph" StartNode="35981" EndNode="36056">
+</Annotation>
+<Annotation Id="344" Type="paragraph" StartNode="35658" EndNode="35979">
+</Annotation>
+<Annotation Id="326" Type="paragraph" StartNode="33793" EndNode="33870">
+</Annotation>
+<Annotation Id="327" Type="paragraph" StartNode="33872" EndNode="33942">
+</Annotation>
+<Annotation Id="324" Type="paragraph" StartNode="33634" EndNode="33695">
+</Annotation>
+<Annotation Id="325" Type="paragraph" StartNode="33697" EndNode="33791">
+</Annotation>
+<Annotation Id="322" Type="paragraph" StartNode="33438" EndNode="33531">
+</Annotation>
+<Annotation Id="323" Type="paragraph" StartNode="33533" EndNode="33632">
+</Annotation>
+<Annotation Id="320" Type="paragraph" StartNode="33259" EndNode="33356">
+</Annotation>
+<Annotation Id="321" Type="paragraph" StartNode="33358" EndNode="33436">
+</Annotation>
+<Annotation Id="334" Type="paragraph" StartNode="34638" EndNode="34712">
+</Annotation>
+<Annotation Id="335" Type="paragraph" StartNode="34714" EndNode="34837">
+</Annotation>
+<Annotation Id="332" Type="paragraph" StartNode="34464" EndNode="34545">
+</Annotation>
+<Annotation Id="333" Type="paragraph" StartNode="34547" EndNode="34636">
+</Annotation>
+<Annotation Id="330" Type="paragraph" StartNode="34204" EndNode="34365">
+</Annotation>
+<Annotation Id="331" Type="paragraph" StartNode="34367" EndNode="34462">
+</Annotation>
+<Annotation Id="328" Type="paragraph" StartNode="33944" EndNode="34079">
+</Annotation>
+<Annotation Id="329" Type="paragraph" StartNode="34081" EndNode="34202">
+</Annotation>
+<Annotation Id="373" Type="paragraph" StartNode="39077" EndNode="39172">
+</Annotation>
+<Annotation Id="372" Type="paragraph" StartNode="38953" EndNode="39075">
+</Annotation>
+<Annotation Id="375" Type="paragraph" StartNode="39480" EndNode="39750">
+</Annotation>
+<Annotation Id="374" Type="paragraph" StartNode="39174" EndNode="39476">
+</Annotation>
+<Annotation Id="369" Type="paragraph" StartNode="38627" EndNode="38749">
+</Annotation>
+<Annotation Id="368" Type="paragraph" StartNode="38524" EndNode="38625">
+</Annotation>
+<Annotation Id="371" Type="paragraph" StartNode="38859" EndNode="38951">
+</Annotation>
+<Annotation Id="370" Type="paragraph" StartNode="38751" EndNode="38857">
+</Annotation>
+<Annotation Id="377" Type="paragraph" StartNode="40060" EndNode="40144">
+</Annotation>
+<Annotation Id="376" Type="paragraph" StartNode="39752" EndNode="40058">
+</Annotation>
+<Annotation Id="379" Type="paragraph" StartNode="40272" EndNode="40417">
+</Annotation>
+<Annotation Id="378" Type="paragraph" StartNode="40144" EndNode="40270">
+</Annotation>
+<Annotation Id="356" Type="paragraph" StartNode="37311" EndNode="37414">
+</Annotation>
+<Annotation Id="357" Type="paragraph" StartNode="37416" EndNode="37531">
+</Annotation>
+<Annotation Id="358" Type="paragraph" StartNode="37533" EndNode="37644">
+</Annotation>
+<Annotation Id="359" Type="paragraph" StartNode="37646" EndNode="37724">
+</Annotation>
+<Annotation Id="352" Type="paragraph" StartNode="36903" EndNode="37016">
+</Annotation>
+<Annotation Id="353" Type="paragraph" StartNode="37018" EndNode="37123">
+</Annotation>
+<Annotation Id="354" Type="paragraph" StartNode="37125" EndNode="37221">
+</Annotation>
+<Annotation Id="355" Type="paragraph" StartNode="37223" EndNode="37309">
+</Annotation>
+<Annotation Id="364" Type="paragraph" StartNode="38074" EndNode="38173">
+</Annotation>
+<Annotation Id="365" Type="paragraph" StartNode="38175" EndNode="38340">
+</Annotation>
+<Annotation Id="366" Type="paragraph" StartNode="38342" EndNode="38456">
+</Annotation>
+<Annotation Id="367" Type="paragraph" StartNode="38458" EndNode="38522">
+</Annotation>
+<Annotation Id="360" Type="paragraph" StartNode="37726" EndNode="37810">
+</Annotation>
+<Annotation Id="361" Type="paragraph" StartNode="37812" EndNode="37884">
+</Annotation>
+<Annotation Id="362" Type="paragraph" StartNode="37886" EndNode="37953">
+</Annotation>
+<Annotation Id="363" Type="paragraph" StartNode="37955" EndNode="38072">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,7 @@
+R1: When the "turn indicator" command is received, the car shall operate the indicator lights on the front, side and rear of the vehicle, and provide audible and visual confirmation to the driver. The driver is not allowed to do anything stupid on his way back home.
+
+R3: If the incorrect password is entered more than three times, then the laptop shall display YYY warning message.
+
+R4: Where the car has electric windows, the electric window controls shall be on the driver's door panel and steering panel.
+
+R5: When the laptop is running and the laptop is closed, the laptop shall enter "powersave" mode.

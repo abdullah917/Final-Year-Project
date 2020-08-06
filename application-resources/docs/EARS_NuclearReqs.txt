@@ -1,0 +1,1789 @@
+The licence applicant/holder shall have a set of plans describing the prospective nuclear power plant and its safety-classified systems.
+
+The licence applicant/holder shall prepare a comprehensive safety assessment of the plans mentioned in 302.1 prior to submitting the plans to STUK.
+
+The licence applicant/holder shall submit plans mentioned in 302.1 to STUK for review.
+
+Where an operating licence has been granted to a nuclear power plant, when modifications to safety-classified systems are planned, the licence holder shall prepare a safety assessment pertaining to the modifications.
+
+The safety assessment of 302.5 shall be prepared prior to commencing detailed systems design.
+
+STUK shall issue adequate instructions for the completion of safety assessments.
+
+The licence applicant/holder shall duly document instructions mentioned in 302.7.
+
+If the licence applicant/holder’s organization does not possess sufficient expertise to prepare the safety assessment, the safety assessment shall be completed by independent assessors.
+
+Where the safety assessment is completed by independent assessors, the licence applicant/holder shall define the qualifications required of the independent assessors.
+
+Where the safety assessment is completed by independent assessors, the licence applicant/holder shall ensure the assessors duly meet required qualifications.
+
+The licence applicant/holder shall ensure each design organization satisfies requirements of section 3.2 (3.3.2 in this document).
+
+The licence applicant/holder shall ensure each design organization complies with quality plans referred to in section 3.2 (3.3.2 in this document).
+
+The license applicant/holder shall define the qualifications required of the individuals performing design reviews within the design organization.
+
+The licence applicant/holder shall oversee the implementation and efficiency of design reviews performed by the design organization.
+
+The procurement contract shall require the licence holder be informed of any design reviews.
+
+The procurement contract shall require the licence holder will be provided the opportunity to participate in any design review.
+
+The design organization shall consist of the licence applicant / holder, or an organization that enters into contract with the licence applicant / holder.
+
+Where the design organization is a contractor, the licence applicant/holder shall define responsibilities of the design organization in the contract.
+
+The contract in 306.2 shall state that responsibility for safety issues shall remain with the design organization and may not be assigned to subcontractors.
+
+Where several design organizations are involved in the design process, the compound design organization shall ensure the division of duties and interfaces between organizations are unambiguous.
+
+Where several design organizations are involved in the design process, the compound design organization shall ensure sufficient interaction between all parties.
+
+The design organization shall have adequate systems and procedures in place for the management of requirements, configurations and modifications.
+
+The design organization shall ensure requirements, configurations and modifications information are transferred between organizations and processes in unadulterated form.
+
+Where a design task involves several fields of technology, the design organization shall arrange cross-technical reviews and safety assessments. 
+
+The design organization shall ensure its subcontractors are competent to perform required design work.
+
+The design organization shall ensure its subcontractors have a suitable quality management system with regards to scope and complexity of the duties involved.
+
+A nuclear power plant and its safety-classified systems shall be designed using tested and proven design methods.
+
+A nuclear power plant and its safety-classified systems shall be designed in compliance with the applicable safety regulations, guidelines and standards.
+
+The design organization shall substantiate the relevance of standards used in the design of safety-classified systems.
+
+If the design organization departs from specified standards and guidelines in design work, the design organization shall identify and justify the departure.
+
+If the design organization departs from specified standards and guidelines, the design organization shall assess the effect of the departure.
+
+The design organization shall define the requirements of safety-classified systems as part of the overall plant design.
+
+The design organization shall specify the requirements of the structures and components of safety-classified systems as part of the overall systems design.
+
+The design organization shall prepare a system-specific quality plan for each system.
+
+The system-specific quality plan shall comply with the applicable standard.
+
+The system-specific quality plan shall specify the requirements and standards to be used in the design.
+
+The system-specific quality plan shall specify the organization conducting the design.
+
+The system-specific quality plan shall specify applicable responsibilities and interfaces of the design organization.
+
+The system-specific quality plan shall specify phasing, management and applicable decision-making procedures of the design process.
+
+The system-specific quality plan shall specify input documents of each design stage.
+
+The system-specific quality plan shall specify outcome documents and records of each design stage.
+
+The system-specific quality plan shall specify checkpoints, applicable decision-making procedures and roles between stages.
+
+The system-specific quality plan shall specify the timing, content, performer and used decision-making procedures of design reviews.
+
+The system-specific quality plan shall specify the procedures used in the oversight of contractors.
+
+The system-specific quality plan shall specify the management of design changes.
+
+The design of safety-classified systems shall be based on a life-cycle model.
+
+The first stage of the life-cycle model in 315.1 shall be requirements specification.
+
+The life-cycle model of 315.1 shall comprise all stages from design to implementation as well as operation stage and decommissioning.
+
+The life-cycle model of 315.1 shall consist of requirements specification, design, implementation, operation and decommissioning stages.
+
+The quality plan shall encompass all the duties associated with the design of a nuclear power plant and its systems.
+
+The quality plan shall break down the duties in stages according to the life-cycle model.
+
+The design organization shall perform design reviews at each stage important to quality.
+
+The quality plan shall define the design reviews.
+
+The licence holder shall approve the quality plan before design is commenced.
+
+The design reviews shall be attended by at least experts in fields of nuclear safety, radiation protection, operation and maintenance.
+
+Where the design process involves several fields of technology, the design reviews shall be attended by representatives of all involved fields.
+
+Where the result of design review pertains to several fields of technology, the design organization shall document and report the results to the supervisor in charge of the design work and to the licence holder.
+
+The design organization shall ascertain due fulfillment of the safety requirements by means of independent assessments.
+
+The independent assessments shall be made on transition from one design stage to another.
+
+The independent assessments shall be made before commencement of the next design stage.
+
+The design process of safety-classified systems shall be transparent, traceable and verifiable in its entirety.
+
+The work stages and outcomes of the design process shall be documented to ensure they can be assessed by an outside expert.
+
+The work stages and outcomes of the design process shall be documented to allow verification in all design stages that the specified requirements are duly incorporated in the final system to be commissioned.
+
+The system shall be qualified for its intended use.
+
+A safety-critical system shall be qualified for its intended use.
+
+The qualification process shall demonstrate the system is suitable for its intended use.
+
+The qualification process shall demonstrate the system satisfies the applicable safety requirements.
+
+The qualification process shall assure the correctness of the design basis of the system.
+
+The qualification process shall assure the sufficiency of the quality control of design and implementation.
+
+The qualification process shall include structural and environmental qualification.
+
+The design organization shall prepare a qualification plan to guide the system qualification process.
+
+The qualification plan shall specify the data produced in verification and validation of the system design and implementation, intended to be used in the qualification.
+
+The qualification plan shall specify the external assessments, tests and analyses planned for the qualification.
+
+The qualification plan shall specify the methods, relevance and performer of external assessments, tests and analyses.
+
+The qualification plan shall specify a qualification roadmap.
+
+The qualification roadmap shall include schedule estimates and dependencies relative to the progress of the project.
+
+The qualification plan shall specify the documentation produced by the qualification process.
+
+The qualification plan shall specify the submission of qualification documentation to regulatory review.
+
+The qualification plan shall specify the risks related to the qualification and their management.
+
+The system qualification shall include the qualification of system components.
+
+The system qualification plan shall incorporate the qualification of components.
+
+When the design and component selection process progresses, the qualification plan shall be updated to reflect the progress of the selection process.
+
+The design organization shall define the documentation requirements at the beginning of the design process of a nuclear power plant or its safety-classified system.
+
+The design organization shall define the document management procedures at the beginning of the design process of a nuclear power plant or its safety-classified system.
+
+All stakeholders shall comply with documentation requirements from the outset of the project.
+
+All stakeholders shall comply with document management procedures from the outset of the project.
+
+The functional specification of each individual stage shall be presented in a clear and precise method, understandable to experts in different fields.
+
+The documentation describing the nuclear power plant, its systems and their design requirements shall be clearly structured and comprehensive.
+
+The documentation describing the nuclear power plant, its systems and their design requirements shall be capable of accommodating any updates made during design, implementation and operating stages.
+
+The design of a nuclear power plant shall ensure no single failure of a component or structure taking place during normal operation will result in a significant operational occurrence.
+
+A significant operational occurrence shall involve a reactor scram, actuation of the reactor emergency cooling system, isolation of the reactor containment, the opening of the reactor coolant system safety valve, or the cooldown of the reactor coolant systemat a rate faster than designed.
+
+All the systems, structures and components of a nuclear power plant shall be so designed as to ensure that they perform reliably under design-basis environmental conditions.
+
+The design of the systems, structures and components of a nuclear power plant shall consider vibration, temperateure, pressure, jet and impact loads, electromagnetic effects, radiation, humidity, and combinations of these conditions, as deemed appropriate.
+
+The structures, materials, placement and installation of systems performing safety functions shall be planned and designed in accordance with the As Low As Reasonable Achievable (ALARA) principle.
+
+The structures, materials, placement and installation of systems performing safety functions shall make due provisions for maintenance and inspection.
+
+Where a system performs safety functions, the system shall satisfy the requirements specified for safety functions.
+
+Where a system performs safety functions, the auxiliary systems associated with the system shall satisfy the requirements specified for safety functions.
+
+The design of systems performing safety functions shall ensure the operability of the systems can be tested or otherwise verified during the operation of the plant under operational states and operating conditions as close as possible to the actual operational states and operating conditions for which they were designed.
+
+Where a component is important to the operability of a safety function, the component shall be accessible for inspection.
+
+The design of a nuclear power plant shall give due consideration to data security issues.
+
+Safety-critical software shall have adequate physical, technical and administrative security arrangements to prevent unauthorized access.
+
+The plant design shall reliably prevent installation of unauthorised software components.
+
+The plant shall have a system that traces any modifications made to the software.
+
+Where a system controls plant operations, the system shall have no connections outside the plant.
+
+The design of the nuclear power plant shall make provisions for the installation of the safeguards equipment required for non-proliferation.
+
+The safeguards shall pertain to requirements provided in Guide YVL D.1.
+
+The design of the nuclear power plant shall make provisions for events originating from a rupture in pressure equipment or piping, a component failure, or a fault in plant operation or automatic control.
+
+The provisions in 411.1 shall be subject to deterministic safety analysis that substantiates the adequacy of the provisions.
+
+The design of the nuclear power plant shall consider any internal and external threats to the plant.
+
+The internal and external threats shall be assessed for their potential consequential effects by means of probabilistic risk assessments and deterministic analysis.
+
+The internal threats considered in the design of the nuclear power plant shall include at least fires, floods resulting from component or pipe failures, impact and jet forces, explosions, overvoltages and the potential for deliberate acts of malice.
+
+The external threats considered in the design shall include at least abnormal weather conditions, high and low sea levels, seismic phenomena, clogging of the heat sink for a reason other than freezing or seismic phenomena, aircraft crash, electromagnetic phenomena, explosion or the presence of toxic gases within the plant site, oil leaks in the surrounding sea area, unauthorised entry to the plant site and unauthorised access to information systems.
+
+The design of the nuclear power plant shall give due consideration to the failure criteria provided in this section for the systems intended for controlling the event or threat.
+
+The design process of a nuclear power plant shall ensure that safety functions can be reliably performed by means of the systems being designed.
+
+The design process of a nuclear power plant shall ensure the safety targets set for the plant are met.
+
+The design process of a nuclear power plant shall use deterministic analyses for assessing the behavior of the plant and its systems in design basis events.
+
+The design process of a nuclear power plant shall use probabilistic risk assessment (PRA) for assessing the probability of severe reactor core damage, the probability of a major release of radioactive materials, the balance of the design, and the risk significance of systems, components and structures.
+
+The deterministic safety analyses shall address the initiating events after which the safety function performed by the system being assessed is needed.
+
+The systems performing safety functions shall have functional requirements specified according to the consequences of initiating events in 414.1 and the need to mitigate them.
+
+The solutions and methods chosen in the course of the design shall be based on proven technology.
+
+Where new, innovative solutions are proposed in the design, the feasibility of the solutions shall be verified by extensive research and testing prior to adoption.
+
+The design process shall make every effort to ensure maximum independence of the design solutions from any single technology.
+
+The design process shall give due consideration for the replacement of components and potential technological breakthroughs to ensure that any modifications required at the plant can be planned and designed in a controlled and timely manner.
+
+The information technology tools used in the design of systems performing safety functions shall be assessed for safety significance in terms of the end product being designed.
+
+The testing methods used in the quality assurance of systems performing safety functions shall be assessed for safety significance in terms of the end product being tested.
+
+The information technology tools used in the implementation of systems performing safety functions shall be assessed for safety significance in terms of the end product being implemented.
+
+The tools and methods in 417.1-417.3 shall include computational software, software compilers and testing tools.
+
+Where the quality of a tool or testing method is of direct significance to the proper functioning of the end product, the tool or method shall be qualified for its intended use.
+
+Where the quality of a tool or testing method is of direct significance to the failure rate of the end product, the tool or method shall be qualified for its intended use.
+
+The nuclear power plant shall have five successive levels of protection for safety functions in accordance with the defence-in-depth concept.
+
+The lowest two levels of protection shall be designed to prevent accidents.
+
+The remaining levels of protection shall be designed to protect the plant, its operators and the environment from the adverse effects of an accident.
+
+The first level of protection shall prevent deviations from the normal operation of the plant.
+
+The first level of protection shall be achieved through compliance with high standards of quality and reliability, with adequate safety margins, in design, manufacture, installation and maintenance of systems, structures and components.
+
+The second level of protection shall be achieved through making provisions for anticipated operational occurrences.
+
+The plant shall be equipped with systems that detect and contain any anticipated operational occurrences.
+
+If there is an anticipated operational occurrence, then the systems in 421.2.2. shall automatically place the plant in a controlled state.
+
+The third level of protection shall be achieved by means of systems that are automatically actuated in the event of an accident.
+
+If an accident takes place, then the systems in 421.3.1 shall protect the barriers for confinement of radioactive materials and prevent the accident from escalating into a severe accident.
+
+The third level of protection shall be divided into level 3a and level 3b.
+
+The level 3a shall control the postulated accidents arising from single initiating events and their consequential effects in order to limit the releases of radioactive materials.
+
+The level 3b shall control design extension conditions.
+
+The level 3b shall control anticipated operational occurrences and Class 1 postulated accidents that involve a common-cause failure in the system designed for coping with the event concerned.
+
+The level 3b shall control combinations of failures selected on the basis of a probabilistic risk assessment.
+
+The level 3b shall control rare events that are unlikely to occur but considered possible, such as extreme weather phenomena or the impact of a large passenger airliner.
+
+The fourth level of protection shall mitigate the consequences of a severe accident.
+
+The fourth level of protection shall ensure the integrity and leaktightness of the containment.
+
+The fourth level of protection shall mitigate potential accidents occurring in the spent fuel storage that potentially involve a major radioactive release.
+
+The fifth level of protection shall mitigate the consequences of any major release of radioactive materials.
+
+The fifth level of protection shall be implemented by means of emergency preparedness arrangements.
+
+The design objective of each level of the defence-in-depth concept shall be to ensure that any release of radioactive materials will not subject the local population to a radiation dose in excess of the limit specified in sections 8 to 10 of the Government Decree (733/2008).
+
+The levels of defence required under the defence-in-depth concept shall be independent of one another.
+
+The performance of any level of defence shall be essentially unaffected  by the loss of any single or several levels of defence.
+
+The levels of defence shall be adequately physically separated.
+
+The levels of defence shall be functionally isolated.
+
+The levels of defence shall be subject to the application of the diversity principle between the lines of defence.
+
+The auxiliary systems supporting safety functions at different defence-in-depth levels shall be independent of one another to ensure that the reliability of the defence-in-depth concept will not be compromised by their potential failure.
+
+The sufficient mutual independence between the levels of defence shall be demonstrated by means of deterministic analyses and probabilistic risk assessments.
+
+The defence levels shall practically eliminate events that may result in an early or a major release.
+
+An early release shall mean a release starting earlier than provided for in the planning of the rescue measures (i.e., four hours after the decision-makers have become aware of the need for rescue measures).
+
+A major release shall mean a release necessitating long term (several months) evacuation from the protection zone, or at least short term evacuation outside the protection zone.
+
+The events to be eliminated shall be identified by means of probabilistic risk assessments (PRA).
+
+The events identified in 428.1 shall be eliminated using reliable methods specifically designed for such events.
+
+The events to be eliminated shall include rapid uncontrolled increase of reactivity.
+
+The events to be eliminated shall include loss of coolant during shutdown leading to reactor core uncovery.
+
+The events to be eliminated shall include load jeopardising the integrity of the containment during a severe accident (e.g. reactor pressure vessel breakdown at high pressure, hydrogen explosion, steam explosion, direct impact of molten reactor core on containment bottom or wall, uncontrolled containment pressure increase).
+
+The events to be eliminated shall include containment bypass in the event of a severe accident.
+
+The events to be eliminated shall include loss of cooling in the fuel storage resulting in severe damage to the spent fuel.
+
+Systems performing a safety function shall be subject to the redundancy principle.
+
+Systems performing a safety function shall be provisioned for the case of failures.
+
+Systems performing safety functions shall consist of more than one subsystem.
+
+Any auxiliary functions necessary for performing a safety function shall be subject to the redundancy principle.
+
+The auxiliary functions in 430.4 shall include equipment cooling and power supply.
+
+Systems controlling safety functions for their entire functional chain shall be subject to the redundancy principle.
+
+The failure criterion for systems subject to the redundancy principle shall use the (N+2) or (N+1) failure criterion as their failure criterion as specified in this document.
+
+Where a safety function is subject to the (N+2) failure criterion, the safety function shall be possible to be performed even if any single component designed to secure the function fails and any other component of a parallel system or subsystem – or a component of an auxiliary system necessary for its operation – is simultaneously out of operation due to repair or maintenance.
+
+Where a safety function is subject to the (N+2) failure criterion, while any single component designed to secure the function has failed, while any other component of a parallel system, subsystem or auxiliary system necessary for the operation of the safety function is out of operation due to repair or maintenance, the safety function shall be possible to be performed regardless.
+
+Where a safety function is subject to the (N+1) failure criterion, the safety function shall be possible to be performed despite the potential failure of any single component designed to secure the function.
+
+Where a safety function is subject to the (N+2) failure criterion, while any single component designed to secure the function has failed, the safety function shall be possible to be performed regardless.
+
+Where a safety system is needed to accomplish safety functions in the event of anticipated operational occurrences, the system shall be subject to the diversity principle.
+
+Where a safety system is needed to accomplish safety functions in the event of Class 1 postulated accidents (i.e. the likelihood of the occurrence of the initiating event is more than once over a span of one thousand years), the system shall be subject to the diversity principle.
+
+The design of the plant shall include two systems that accomplish the cooling of the nuclear fuel present in the reactor and control of containment pressure and temperature in the event of anticipated operational occurrences and Class 1 postulated accidents.
+
+The systems in 433.1 shall satisfy the diversity principle.
+
+The systems in 433.1 shall individually meet the (N+1) failure criterion.
+
+The systems in 433.1 shall be capable of maintaining the reactor in a controlled state for a minimum of 72 hours without material replenishment (e.g. filling the water or fuel tanks of the system).
+
+The design of the plant shall include one or several systems that accomplish reactor decay heat removal in the event of Class 2 postulated accidents.
+
+While there is a Class 2 postulated accident, the systems in 434.1 shall accomplish the cooling of the nuclear fuel present in the reactor.
+
+While there is a Class 2 postulated accident, the systems in 434.1 shall control the containment pressure and temperature.
+
+The system or systems in 434.1 shall jointly meet the (N+2) failure criterion.
+
+When there is a postulated accident or design extension condition, if the reactor is not directly brought into a safe state, then the reactor shall be maintainable in a controlled state long enough to ensure that the systems required for achieving a safe state are operable.
+
+When any anticipated operational occurrence, postulated accident, or design extension condition has taken place, the reactor shall be able to be cooled from a controlled into a safe state and maintain it in a safe state for a prolonged period of time.
+
+The system responsible for satisfying 436.1 shall meet the (N+1) failure criterion.
+
+While in a state described in 436.1, all components that are essential for the operation of the operation of the system in 436.2 shall be able to be repaired and serviced.
+
+When any anticipated operational occurrence or postulated accident has taken place, the reactor shall be able to be shut down into a controlled state.
+
+The plant design shall have two systems responsible for satisfying 437.1.
+
+The systems in 437.2 shall satisfy the diversity principle.
+
+The systems in 437.2 shall individually meet the (N+1) failure criterion.
+
+When any anticipated operational occurrence, design extension condition or postulated accident has taken place, while the reactor is being cooled from a controlled to a safe state, the reactor shall be able to be kept in a subcritical condition.
+
+The system responsible for fulfilling 438.1 shall satisfy the (N+1) failure criterion.
+
+While in conditions described in 438.1, the components that are essential for the operation of the system in 438.2 shall be able to be repaired and serviced.
+
+Where a system is connected to the primary coolant, the system’s containment penetrations shall be equipped with isolation devices that satisfy the (N+1) failure criterion and the diversity principle.
+
+Where a system is connected to the gas space of the reactor containment, the system’s containment penetrations shall be equipped with isolation devices that satisfy the (N+1) failure criterion and the diversity principle.
+
+Where a system is related to normal plant operation, where the system must meet the objective specified in requirement 404, the system shall satisfy the (N+1) failure criterion.
+
+Where a system is used for fuel handling, if the system failure might cause fuel damage, the system shall satisfy the (N+1) failure criterion.
+
+Stationary online radiation measuring systems shall satisfy the (N+1) failure criterion.
+
+Any equipment designed to measure the external radiation rate of the reactor building shall satisfy the (N+1) failure criterion.
+
+Any equipment designed to limit the radiation doses of employees by means of an automatic control function shall satisfy the (N+1) failure criterion.
+
+Any equipment designed to monitor the activity of releases shall satisfy the (N+1) failure criterion.
+
+Any equipment designed to perform accident monitoring and management shall satisfy the (N+1) failure criterion.
+
+The systems designed to ensure the cooling of spent fuel shall satisfy the (N+1) failure criterion.
+
+Measuring and control systems necessary for controlling anticipated operational occurrences and accidents shall satisfy the (N+1) failure criterion.
+
+Systems designed for controlling severe accidents shall satisfy the (N+1) failure criterion.
+
+Systems located outside the reactor containment, intended for prevention of the dispersal of radioactive materials due to the breakdown of equipment or structures containing radioactive material shall satisfy the (N+1) failure criterion.
+
+Systems necessary for maintaining safe working conditions in the control room shall satisfy the (N+1) failure criterion.
+
+Systems necessary for the cooling or heating of room to maintain the required operating conditions for electrical and I&C system components affecting safety functions shall satisfy the (N+1) failure criterion.
+
+Where operating conditions for reliable operation of I&C components differ, each building compartment shall separately satisfy requirement 440.2.5.
+
+Systems necessary in the event of the loss of the main control room to shut down the plant into a safe state from the emergency control room shall satisfy the (N+1) failure criterion.
+
+Where a system is required to satisfy the (N+1) failure criterion, where the system is a pipeline, where the use of two separate pipelines instead of a single line would not reduce the overall risk, the system shall be exempt from the failure criterion.
+
+Where a system is exempt from the (N+1) failure criterion in accordance with 441.1, the design of the active process equipment for the concerned system must comply with the (N+1) failure criterion.
+
+Where a system is exempt from the (N+1) failure criterion in accordance with 441.1, the electrical and I&C equipment that operates and controls the system is subject to the (N+1) failure criteria.
+
+The systems required for placing the plant in a controlled state in the event of an earthquake shall satisfy the (N+1) failure criterion.
+
+The systems used for controlling severe accidents (level 4 of the defence-in-depth concept) shall be subject to the diversity principle. 
+
+The systems used for controlling severe accidents   shall comply with the diversity principle by having different equipment and devices from those used at other levels of the defence-in-depth concept.
+
+The design of the plant shall comply with the detailed regulation provided in the annexes to this guide and in Guides YVL B.4 (Nuclear fuel and the reactor), and YVL B.6 (Containment of a nuclear power plant).
+
+The subsystems of a system performing safety functions shall apply physical separation according to the redundancy principle.
+
+The levels of the defence-in-depth concept specified in 448.1-448.4 shall apply physical separation according to the redundancy principle.
+
+The subsystems of a system performing safety functions shall be assigned to different safety divisions.
+
+The safety divisions shall be separated from the other safety divisions so as to prevent faults from spreading from one subsystem to another as a result of internal (e.g. fire, flood or dynamic effects) or external events.
+
+The separation of the safety divisions shall primarily be accomplished by locating them in different buildings or housing them in dedicated compartments.
+
+Where deemed appropriate, the separation between the safety divisions shall be based on sufficient distance and protective structures in the containment and in the (annular) space between the primary and secondary containment buildings
+
+Where deemed appropriate, the separation between safety divisions may be based on sufficient distance and protective structures in the main and emergency control room in the space below their floor level.
+
+All auxiliary systems necessary for performing a safety function shall be subject to the separation requirement.
+
+All I&C systems controlling a safety function shall be subject to the separation requirement.
+
+All parts of I&C systems controlling a safety function, from the measurement indicating the need for actuating the function up to the equipment performing the safety function, shall be subject to the separation requirement.
+
+Where the same safety division provides several levels of defence-in-depth, the levels of defence shall be separated from one another.
+
+The separation in 448.1.1 shall be achieved by distance or protective structures.
+
+The design of the separation in 448.1.1 shall give due regard to consequential failure of a system or component placed in the same safety division.
+
+The safety  significance of physical separation within a safety division between normal operating systems (level 1) and systems designed for controlling anticipated operational occurrences (level 2) shall be assessed.
+
+Where the assessment in 448.1.4 shows essential safety improvement, the systems shall be separated within the safety division.
+
+Process systems necessary for normal operation (level 1) shall be separated from process systems necessary for coping with accidents (levels 3 and 4) within the same safety division.
+
+Process systems necessary for controlling anticipated operational occurrences (level 2) shall be separated from process systems necessary for coping with accidents (levels 3 and 4) within the same safety division.
+
+The separation in 448.2.1 and 448.2.2 shall be achieved by means of distance and protective structures where applicable.
+
+The main components of systems designed for management of severe accidents (level 4) shall be placed in dedicated spaces physically separated from the components of other levels.
+
+The main components in 448.3.1 shall include power supply equipment, control equipment and process equipment located outside the containment.
+
+The main components in 448.3.1 shall exclude pipings and valves.
+
+If external power sources and other internal power sources (level 3b) are lost, then the internal power sources intended for management of severe accidents shall be allowed to supply power to the systems used for ensuring that the reactor is maintained in a controlled state.
+
+The power supply connection between levels in 448.3.4 shall be a physically well protected route.
+
+The cables of electrical and I&C systems supplying normal operating systems (level 1) shall be physically separated from the cables of the systems necessary for controlling anticipated operational occurrences and accidents (levels 2, 3 and 4).
+
+If a subsystem of a system performing safety functions has a failure, then the other subsystems of the same system shall be unaffected by the failure.
+
+If a subsystem of a system performing safety functions has a failure, then any other systems contributing to the same safety function shall be unaffected by the failure.
+
+If any safety division and the components therein are lost due to e.g. fire or flood, then all safety functions shall be available regardless.
+
+High-voltage and high-current cables shall be placed at a sufficient distance from I&C system cables to prevent electromagnetic interference.
+
+Systems and components shall comply with more detailed regulations of physical separation within a single safety division as given in Guides YVL B.7 and YVL B.8.
+
+While the nuclear power plant is in normal operation, the structures between safety divisions shall remain leaktight.
+
+Penetrations between safety divisions shall be avoided.
+
+Where penetrations between safety divisions are necessary, the penetrations shall withstand the ambient conditions that may arise within a single safety division as a result of an internal or external event.
+
+The penetrations in 455.1 shall withstand conditions of described events in such a way that simultaneous loss of subsystems in different safety divisions will not occur.
+
+The penetrations in structures between safety divisions shall comply with detailed requirements given in Guides YVL B.7 and YVL B.8.
+
+Functional isolation of interconnected subsystems shall be implemented by means of a reliable separation device.
+
+Systems assigned to different levels of defence shall be functionally isolated from one another.
+
+The functional isolation in 458.1 shall be accomplished in such a way that a failure in any one level does not affect other levels.
+
+Systems and components assigned to different safety classes shall be functionally isolated from one another.
+
+The functional isolation in 459.1 shall ensure that a failure of a system, structure or component of a lower safety class does not result in the failure of a system, structure or component of a higher safety class, or the loss of any safety function.
+
+The separation device between the safety classes shall serve as a boundary between safety classes.
+
+The separation device between the safety classes shall be classified to the same safety class as the system of a higher safety class.
+
+Functional isolation in respect of I&C systems shall be effected by making the flow of information from a system of a higher safety class towards a system of lower safety class unidirectional.
+
+Where there is a less critical point of separation between I&C systems, the separation of systems by restricting information flow shall be considered as appropriate.
+
+Where transfer of information from a I&C system of a lower safety class to a I&C system of a higher safety class is necessary, the necessity of the transfer shall be justified.
+
+Where transfer of information from a I&C system of a lower safety class to a I&C system of a higher safety class is necessary, the transfer shall be implemented using individual signals and analogue technology.
+
+The design of safety-critical control measures, testing, inspections and maintenance shall be based on a task and reliability analysis.
+
+The design of systems shall ensure that sound preconditions for reliable operation are created.
+
+The design of systems shall ensure errors can be avoided and promptly detected.
+
+A safety-classified system shall present the information needed for controlling it in a way that reduces the possibility of human error during system operation to a low level.
+
+The presentation of information needed for performing maintenance work shall be so designed as to reduce the possibility of human error to a low level.
+
+The instructions and tools needed for performing maintenance work shall be so designed as to reduce the possibility of human error to a low level.
+
+The design of the systems shall give due attention to the physical work environment and the accessibility of components during maintenance.
+
+The design of the plant shall use an unambiguous coding system.
+
+The coding system in 468.1 shall allow easy and reliable identification of rooms, systems and related components, structures and cables during design, operation, maintenance and repairs.
+
+The licence holder shall carry out failure tolerance analyses.
+
+The failure tolerance analyses shall demonstrate all systems performing safety functions satisfy the failure criteria given in section 3.4.5 of this Guide.
+
+The failure tolerance analyses shall demonstrate all systems performing functions relevant to safety satisfy the failure criteria given in section 3.4.5 of this Guide.
+
+The failure tolerance analyses shall demonstrate the auxiliary systems of the systems in 469.2 and 469.3 satisfy the failure criteria given in section 3.4.5 of this Guide.
+
+The failure tolerance analyses shall demonstrate the systems assigned to different levels of defence have been functionally isolated from one another.
+
+The failure tolerance analyses shall demonstrate that a common-cause failure in any single component type will not prevent the nuclear power plant from being brought to a controlled state and further to a safe state.
+
+A failure tolerance analysis shall assess one functional complex at a time.
+
+A failure tolerance analysis shall give due regard both to the system that performs a safety function and its auxiliary systems.
+
+A failure tolerance analysis shall address the failure of each component that may affect the successful execution of the safety function performed by the system following a specific event.
+
+A failure tolerance analysis shall address all modes of failure for all components involved in the execution of a safety function.
+
+A failure tolerance analysis shall focus on one failure at a time and examine its impact in terms of the operation of the system.
+
+A failure tolerance analysis shall also consider human error.
+
+A failure tolerance analysis shall demonstrate that single failures will not impede the performance of the safety function concerned.
+
+A probabilistic risk assessment shall assess the possibility of multiple human errors.
+
+A failure tolerance analysis shall assess human actions that maybe taken before, during or after the required performance of the system.
+
+The licence applicant shall submit the documents pertaining to a new nuclear power plant, its systems and their design to STUK in such a form that they can be used as the basis for the safety assessment in each individual licensing process.
+
+The statements given by STUK shall apply to the applications for a decision-in-principle, construction license and operating license. 
+
+The licence applicant shall submit documents in an order that is logical from the review point of view. 
+
+The licence applicant shall submit documents arranged according to the relevant subject matter in one or several sets.
+
+The licence applicant shall submit documents prior to the filling of licence application or during the processing of the licence application in such a way that all the required information is available prior to the issuance of the statement concerning the licence.
+
+The information enclosed with the application for a decision-in-principle shall provide STUK with sufficient grounds for preparing a preliminary safety assessment of each nuclear facility project.
+
+The application shall include a description of the safety principles to be observed.
+
+The application shall include a description of the pivotal series of standards to be complied with in systems design.
+
+The application shall include a general description of the nuclear power plant and its principal safety-related systems (the reactor, primary circuit and containment, as well as the systems performing safety functions and their auxiliary systems designed to maintain the integrity of the above).
+
+The application shall include a description on how the following requirements set forth in Government Decree 733/2008 and in the YVL Guides can be satisfied in the overall plant design and in the design of the most important safety-related systems:
+• the design bases used in the design of the plant and its systems;
+• the consideration of the redundancy, separation and diversity principles in all plant systems performing safety functions required in the various operational conditions of the plant;
+• the practical implementation of the defence-in-depth concept, including design extension conditions and severe accidents;
+• the preliminary lay-out of systems and the related structures and components;
+• the qualification of the calculation methods used in deterministic safety analyses;
+• the principles related to the avoidance of human errors.
+
+The application shall include references to the facilities that have served as models in the design, and a summary of principal modifications and their reasons.
+
+The application shall include the principal organizations involved in the design of the plant and its systems.
+
+The application shall include information on how the principal organisations satisfy the requirements set for a design organisation in section 3 of the present Guide.
+
+The application shall include the licence applicant’s own assessment on how the plant satisfies the most essential safety requirements affecting design.
+
+The application for a construction licence shall be accompanied by an outline of the technical operating principles and features and other arrangements which are used to ensure the safety of the nuclear facility.
+
+The application for a construction licence shall be accompanies by a description of the safety principles that the applicant intends to observe and an evaluation of the fulfilment of the principles.
+
+When an application for a construction licence is filed, the licence applicant shall submit the preliminary safety analysis report to STUK.
+
+The preliminary safety analysis report in 505.1 shall include the general design and safety principles of the nuclear facility, a description of the operation of the facility, and a description of the behaviour of the facility during accidents.
+
+When an application for a construction licence is filed, the licence applicant shall submit a probabilistic risk assessment of the design stage to STUK.
+
+When an application for a construction licence is filed, the licence applicant shall submit a proposal for a classification document to STUK.
+
+The classification document in 505.3 shall show the classification of structures, systems and components important to the safety of the nuclear facility on the basis of their significance with respect to safety.
+
+The preliminary safety analysis report shall provide an overview of the plant-level design principles.
+
+The preliminary safety analysis report shall provide the technical implementation of each safety-related system and its relationship with the overall plant complex.
+
+When an application for a construction licence is filed, the systems design shall have been frozen to the extent that the detailed design will not necessitate any substantial changes to the room and layout design of the plant, the location of main system components, or the information pertaining to the systems listed in paragraph 508, and that the requirement specification can be made for the purpose of procuring components and structures.
+
+The licence applicant shall provide information on all safety functions and the systems performing safety functions to STUK.
+
+The information in 507.1 shall be at a level of accuracy that allows the analysis of the operation of the plant in anticipated operational occurrences and accidents.
+
+The information in 507.1 shall be presented to the required level of accuracy either in the preliminary safety analysis report, or summarized in the preliminary safety analysis report.
+
+Where the information in 507.1 is only summarized in the preliminary safety analysis report, the licence applicant shall provide sufficiently accurate information in separate topical reports supplementing the safety analysis report.
+
+The preliminary safety analysis report shall provide information on Safety Class 1, 2 and 3 systems.
+
+The information in 508.1.1 shall include the system functions.
+
+The information in 508.1.1 shall include the design bases and requirements concerning the system and the related components and structures.
+
+The information in 508.1.3 shall include guidelines and standards to be applied in the design.
+
+The information in 508.1.3 shall include safety functions and the associated performance requirements as part of the defence-in-depth approach in different operational conditions of the plant.
+
+The information in 508.1.3 shall include ambient conditions and the design criteria derived from them.
+
+The information in 508.1.3 shall include internal and external threats to the system.
+
+The information in 508.1.3 shall include safety classification of the system and its structures and components.
+
+The information in 508.1.3 shall include failure criteria and the diversity and separation principles to avoid common-cause failures.
+
+The information in 508.1.3 shall include qualification requirements for components.
+
+The information in 508.1.3 shall include requirements for maintenance, inspections and testing in different operational states of the plant.
+
+The information in 508.1.3 shall include requirements for the construction materials.
+
+The information in 508.1.3 shall include radiological protection requirements taken into account in the design of the system.
+
+The preliminary safety analysis report shall include the description of each Safety Class 1, 2 and 3 system.
+
+Each description in 508.2.1 shall include a verbal description of the system supplemented by figures, diagrams, lists and tables.
+
+Where the described system in 508.2.1 is a process system, the information shall include main parts and components of the system, interfaces with other systems, process and instrumentation diagrams, 3D-diagram/computer model of the main parts, auxiliary systems (e.g. cooling, power supply) required for the operation of the system, monitoring, control and protection functions of the system complete with the systems and components required for performing such functions, operating parameters in different operational conditions (e.g. pressures, temperatures, volumetric flow rates, cooling capacities), and protection limits related to the operation of the system.
+
+Where the described system in 508.2.1 is an instrumentation and control system, the information shall include the overall I&C system architecture, including system interfaces, connections and interaction between systems and connections to the outside environment, prioritisation of the commands given by the I&C systems, equipment platforms of programmable systems complete with qualification details
+
+Where the described system in 508.2.1 is an electrical system, the information shall include the main diagram outlining the qualification requirements for components, entity of electrical systems, the structure and operating parameters of each system (e.g. voltages), monitoring, control and protection functions of the systems, position of switches in designed operational conditions, and automatic switching operations in the event of operational occurrences.
+
+Where the described system in 508.2.1 is a building, the information shall include master plans, structural materials, including coatings and steel or similar claddings, the location of components performing safety functions and main equipment contributing to the power production process inside the buildings, loads and load combinations to be considered in the design of buildings, methods for mounting components into structures, containment access locks and penetrations;
+
+The information in 508.1.1 shall include the operation and use of the system during different operational conditions of the plant.
+
+The conditions in 508.4.1 shall include normal operation, system malfunctions, anticipated operational occurrences and accidents.
+
+The information in 508.1.1 shall include the methods used for the physical separation of the system and its components (compartmentation, separation by distance, protection), and the preliminary positioning of the components in the plant.
+
+The information in 508.1.1 shall include functional isolation, i.e. interaction with other systems, dependencies on auxiliary systems, and the prevention of fault propagation.
+
+The information in 508.1.1 shall include a summary of the results of the preliminary failure tolerance analysis on the system.
+
+The information in 508.1.1 shall include a description of principles related to the avoidance of human error and how they have been taken into account.
+
+The information in 508.1.1 shall include a description of the analyses, tests and type tests carried out or foreseen for the purpose of system qualification.
+
+The information in 508.1.1 shall include the preliminary safety assessment independent of the designer drawn up or commissioned by the licence holder.
+
+Where a system is in Class EYT, where the system is of plant-specific risk significance as a result of the initiating events arising from its failure, the information listed in paragraph 508 concerning the system shall be provided in the safety analysis report.
+
+Where a system is in Class EYT, where the system protects systems performing safety functions from internal or external threats (e.g. fire protection system), the information listed in paragraph 508 concerning the system shall be provided in the safety analysis report.
+
+Where a system is in Class EYT, where the system is used for monitoring the radiation present in the plant, tools, workers or the environment, surface contamination or radioactivity, the information listed in paragraph 508 concerning the system shall be provided in the safety analysis report.
+
+Where a system is in class EYT, where the system is not included in 509.1-509.3, the preliminary safety analysis report shall describe the system to the extent necessary for the assessment of the plant’s overall operation.
+
+The preliminary safety analysis report shall include deterministic analyses of anticipated operational occurrences and accidents.
+
+The analyses in 511.1 shall demonstrate the analysed systems have the ability to perform their assigned safety functions.
+
+The preliminary safety analysis report shall provide a description of the design process and organisation.
+
+The description in 512.1 shall demonstrate that the design satisfies the requirements set forth in section 3.3 of this Guide.
+
+The description in 512.1 shall include a quality plan.
+
+The quality plant in 512.3 shall comprise the topics detailed in paragraph 314 of the present guide.
+
+The licence holder shall prepare a preliminary probabilistic risk assessment.
+
+The risk assessment in 513.1 shall be based on the information presented in the preliminary safety analysis report.
+
+Where the plant model has missing details, the probabilistic risk assessment shall utilize reliability assessments.
+
+Where reliability assessments are used in the preliminary probabilistic risk assessment, when the final designs are completed, STUK shall verify the accuracy of the reliability assessments.
+
+Where the plant model has missing details, when the missing details are designed, the reliability assessments in 513.3 shall be used as the starting point for setting goals for the design.
+
+The licence holder shall provide a separate classification document to STUK.
+
+The classification document shall summarise the safety classification of systems.
+
+The preliminary safety analysis report shall present the safety classification of each system in its system description.
+
+The guide YVL B.2 shall give the requirements pertaining to the safety classification of systems.
+
+The guide YVL B.2 shall give the requirements of the classification document.
+
+The licence holder shall provide a final safety analysis report to STUK prior to the loading of nuclear fuel into the reactor.
+
+The final safety analysis report shall provide an as-built description of the final plant.
+
+The final safety analysis report shall provide an overview of the principles applied in the design of the entire plant.
+
+The final safety analysis report shall provide an overview of the principles applied in the design of each system contained in the plant.
+
+The final safety analysis report shall describe the technical implementation of each safety-related system and its relationship with the overall plant complex in detail.
+
+The final safety analysis report shall supplement the preliminary safety analysis report with component specifications and other similar information clarified in more detail.
+
+The system information shall be presented with sufficient accuracy in either the final safety analysis report or detailed in separate topical reports supplementing the final safety analysis report.
+
+Where separate topical reports are used in 518.3, the system information shall be summarised in the final safety analysis report.
+
+The licence applicant may submit the system description of each system to STUK for review as soon as the system design has been completed in its entirety, and the detailed information on system components is available.
+
+Where system descriptions have been separately submitted to STUK, the descriptions may be included as part of the body of documentation consisting of the final safety analysis report and topical reports.
+
+The body of documentation in 518.6 shall serve as the basis for processing the application of an operating licence.
+
+When results are obtained during commissioning, the final safety analysis report and topical reports shall be updated as necessary.
+
+The final safety analysis report shall be regularly updated during the operation of the plant.
+
+When any modifications are done on the nuclear power plant, the final safety analysis report shall be duly updated.
+
+The final safety analysis shall provide information on any systems assigned to Safety Classes 1, 2 or 3.
+
+The information in 519.1 shall include a detailed description of the implemented systems.
+
+The information in 519.2 shall include assembly and component lists supplementing the description.
+
+The information in 519.1 shall include details of the components included in the systems.
+
+The information in 519.1 shall include a layout description detailing how the requirements pertaining to the location and protection of systems, structures and components, and the actions performed on the components during operation have been considered in the layout.
+
+The information in 519.1 shall include the physical separation of components (compartmentation, separation by distance, protection).
+
+The information in 519.1 shall include location requirements for pressure equipment.
+
+The information in 519.1 shall include radiation protection and air conditioning zoning.
+
+The information in 519.1 shall include provisions for component maintenance, inspections and testing.
+
+The information in 519.1 shall include provisions for component accessibility under operating and accident conditions.
+
+The information in 519.1 shall include ergonomics.
+
+The information in 519.1 shall include clarification on the actual functional isolation.
+
+The clarification in 519.11 shall include interaction with other systems, dependencies on auxiliary system and the prevention of fault propagation.
+
+The information in 519.1 shall include results of the failure tolerance analysis on the system.
+
+Where a system belongs to class EYT, where the system is of plant-specific risk significance as a result of the initiating events arising from its failure, the final safety analysis report shall include all information listed in paragraph 519 on the system.
+
+Where a system belongs to class EYT, where the system protects systems performing safety functions from internal or external threats (e.g. a fire protection system), the final safety analysis report shall include all information listed in paragraph 519 on the system.
+
+Where a system belongs to class EYT, where the system is used for monitoring the radiation present in the plant, tools, workers or environment, the final safety analysis report shall include all information listed in paragraph 519 on the system.
+
+Where a system belongs to class EYT, where the system is used for monitoring surface contamination or radioactivity, the final safety analysis report shall include all information listed in paragraph 519 on the system.
+
+Where a system belongs to class EYT, where the system does not belong to systems listed in paragraph 520, the final safety analysis report shall describe the system to the extent necessary for the assessment of the plant’s overall operation.
+
+The final safety analysis report shall include deterministic analyses of anticipated operational occurrences and accidents.
+
+The analyses in 522.1 shall demonstrate the analysed systems have the ability to perform their assigned safety functions in all operational conditions.
+
+The analyses in 522.1 shall demonstrate the presence of defence-in-depth concept , in compliance with the requirements.
+
+The final safety analysis report shall provide a description of the design process and organisation.
+
+The description in 523.1 shall demonstrate that the design satisfies the requirements set forth in section 3.3 of this Guide.
+
+The licence applicant shall submit a probabilistic risk assessment to STUK based on the information presented in the final safety analysis report.
+
+The final safety analysis report shall present the safety classification of systems and their components and structures in the respective system descriptions.
+
+The licence applicant shall submit a separate classification document to STUK.
+
+The classification document shall summarise the  safety classification of systems and their components and structures.
+
+The classification document shall be maintained up-to-date at all times during the construction and operation of the plant.
+
+The classification document shall comply with requirements given in Guide YVL B.2.
+
+The licence applicant shall submit a Technical Specifications document to STUK.
+
+The Technical Specifications document shall contain safety and protection limits for the operating parameters of the most important systems.
+
+The Technical Specifications document shall contain operability requirements for systems performing safety functions in different operational states.
+
+The Technical Specifications document shall contain steps required in the event of loss of the required operability of a system or component.
+
+The Technical Specifications document shall contain requirements pertaining to tests demonstrating the operability of systems and components.
+
+When any modifications are made to a system, the system descriptions shall be updated.
+
+While the plant is in operation, when a Safety Class 1, 2 or 3 system is planned to be modified, the licence holder shall submit conceptual design plans and system-specific pre-inspection documents to STUK for approval.
+
+While the plant is in operation, when a Class EYT system defined in paragraph 520 is planned to be modified, the licence holder shall submit the pre-inspection documents of the system to STUK for approval.
+
+Where a planned modification to a system is modest enough so as not to entail any substantial revision in the design basis, operating principle or function of the system, the licence holder shall not be required to submit a conceptual design plan.
+
+The scope and level of detail of the pre-inspection documents concerning the system modification shall depend on the safety significance of the modification.
+
+When any modifications are made to plant systems, the final safety analysis report shall be updated accordingly without delay.
+
+The licence applicant shall submit a conceptual design plan of each system to STUK.
+
+The conceptual design plan shall correspond to the content of the preliminary safety analysis report.
+
+The conceptual design plan shall contain a report on quality management principles, design reviews and the competence of the design organization.
+
+The conceptual design plan shall contain a preliminary safety assessment independent of the designer, drawn up or commissioned by the licence holder.
+
+The conceptual design plan shall use a probabilistic risk assessment to demonstrate that the system modification will not compromise overall plant safety.
+
+System pre-inspection documents shall contain descriptions that correspond to the content of the final safety analysis report.
+
+System pre-inspection documents shall contain a quality plan detailing the quality management measures pertaining to system design and implementation.
+
+System pre-inspection documents shall contain a description of the application of the plant’s quality and safety management procedures in the design and procurement of the systems and its components.
+
+System pre-inspection documents shall contain a description of the relationship between component quality assurance and the plant’s design, procurement and implementation procedures.
+
+System pre-inspection documents shall contain a description of the plant’s databases.
+
+System pre-inspection documents shall contain a preliminary safety assessment independent of the designer drawn up or commissioned by the licence holder.
+
+The licence holder shall submit a pre-operational testing programme to STUK for approval.
+
+The licence holder shall submit a report on the trial run of the system to STUK for approval.
+
+The pre-operational testing programme and the report on the trial run shall be as provided in Guide YVL A.5.
+
+STUK shall check the information enclosed with the application for a decision-in-principle for each plant project.
+
+Where deemed necessary for the preparation of the preliminary safety assessment, STUK shall request further information.
+
+STUK shall issue no separate approval decisions on the documents enclosed with the application for a decision-in-principle.
+
+When requested by the licence applicant, STUK shall give its preliminary opinion on issues concerning the application of safety principles or specific technical solutions.
+
+STUK shall prepare a preliminary safety assessment based on the review of documents in 601.1.
+
+The preliminary safety assessment shall address any issues observed in the plant’s design bases or their application in system design that may constitute obstacles to the granting of a construction licence.
+
+The preliminary safety assessment shall provide an assessment of the needs of improving the structure of the palnt to satisfy Finnish safety requirements.
+
+The preliminary safety assessment shall identify the design solutions that STUK deems necessary to be clarified or justified in more detail if the project proceeds.
+
+STUK shall carry out an overall assessment of each document submitted to STUK in connection with the filling of the application for a construction licence.
+
+The assessment in 603.1 shall establish the sufficiency and adequacy of the information provided.
+
+STUK shall issue the decision on the document’s acceptance for more detailed processing based on the assessment in 603.1.
+
+STUK shall inform the licence holder of the decision no later than one month from the date of the submission of the document.
+
+Where a document requires substantial additions or corrections, the document shall be returned to the licence applicant without closer scrutiny.
+
+STUK shall process the preliminary safety analysis report in stages broken down according to the subject matter.
+
+A subject matter shall comprise the design information of a single system, or a set of several interrelated systems.
+
+Where the performance of a system needs to be demonstrated by means of deterministic analyses of anticipated operational occurrences and accidents, the analyses shall be reviewed concurrently with the design information of the system.
+
+STUK shall review the probabilistic risk assessment concurrently with the preliminary safety analysis report.
+
+When STUK is assessing the design of the plant and each system, the observations made in the review of the probabilistic risk assessment shall be used as a starting point.
+
+STUK shall review the information provided on the systems in the preliminary safety analysis report broken down in logical subject matters comprising one or several systems.
+
+Where there are questions and comments pertaining to a subject matter, the questions and comments shall be addressed in correspondence between STUK and the licence applicant in such a way that STUK will be able to prepare a safety assessment on said subject matter.
+
+The purpose of the safety assessment in 606.2 shall be the issuance of a construction licence.
+
+Where a separate decision is issued by STUK on the acceptance of information, the licence applicant shall be allowed to use the system information in the preliminary safety analysis report as a design basis of structures and components.
+
+When STUK has processed all sections of the preliminary safety analysis report, when there are no further questions or remarks to be addressed, STUK shall issue an approval decision on the entire document.
+
+The approval decision in 608.1 shall be a precondition for the endorsement of the application for a construction licence.
+
+When STUK has ascertained that the probabilistic safety assessment demonstrates that the plant meets the quantitative objectives set by STUK for the probability of severe reactor core damage and large release of radioactive materials with sufficient confidence, STUK shall issue a separate decision concerning the probabilistic safety assessment.
+
+The decision in 609.2 shall be a precondition for the endorsement of the application for a construction licence.
+
+The approval of the classification document in its entirety shall be a precondition for the endorsement of a construction licence.
+
+STUK shall approve the safety classification of individual systems and their structures and components concurrently with the approval of the system.
+
+The approval process in 610.2 shall ensure that the decision concerning the safety class of a system may be taken into account when the requirements for structures and components are specified.
+
+While the plant is being constructed, when the safety class of a system changes, the classification document shall be updated.
+
+The licence applicant shall provide the final safety analysis in connection with the application for an operating licence.
+
+The final safety analysis report shall be broken down according to the subject matter.
+
+When no substantial changes to the information pertaining to a particular subject matter are expected prior to the commissioning to the plant, the licence applicant shall submit the final safety analysis report to STUK for review.
+
+When the design of a system is deemed to have been brought to completion to all respects, the licence applicant shall advisably submit the information pertaining to the respective system to STUK without delay.
+
+The licence holder shall submit the deterministic analyses of anticipated operational occurrences and accidents demonstrating the performance of the systems only when the design of all systems affecting the course of an anticipated operational occurrence or accident has been brought to completion.
+
+STUK shall review the probabilistic risk assessment concurrently with the final safety analysis report.
+
+STUK shall use the observations made in the review of 612.1 as a starting point when assessing the design of the plant and each of its systems.
+
+When STUK has reviewed the information presented on a system in the final safety analysis report, the related analysis of anticipated operational occurrences and accidents, and the relevant sections of the probabilistic risk assessment, STUK shall issue an approval decision on the system.
+
+The process in 613.1 shall apply to each individual system.
+
+When STUK has processed all sections of the final safety analysis report, when there are no further questions or comments to be addressed, STUK shall issue an approval decision on the entire document.
+
+The approval of the final safety analysis report is a precondition for the endorsement of the application for an operating licence.
+
+When the design of the plant has been brought to completion in all respects, when the plant model used in the probabilistic risk assessment has been updated to reflect the structure of the final plant, STUK shall accept the probabilistic risk assessment.
+
+An acceptable probabilistic risk assessment result shall be a precondition for the endorsement of the application for an operating licence.
+
+Where the probabilistic risk assessment shows with sufficient confidence that the plant meets the quantitative objectives set by STUK for the probability of severe reactor core damage and a large release of radioactive materials, the probabilistic risk assessment shall be acceptable.
+
+The classification document shall be updated where necessary as system design is clarified in the course of the design work.
+
+STUK shall approve the additions to the safety classifications concurrently with system processing.
+
+An up-to-date, entirely approved safety classification shall be a precondition for the endorsement of the application for an operating licence.
+
+The classification document shall be updated as necessary during the operation of the plant.
+
+The licence applicant shall submit the Technical Specifications of the plant to STUK for review.
+
+The review in 617.1 shall ensure the technical specifications can be approved prior to the issuance of the statement concerning the operating licence.
+
+When changes are planned for an operating nuclear power plant, the license holder shall submit a conceptual design plan concerning any systems modifications to STUK.
+
+The plan in 618.1 shall include supporting analyses of anticipated operational occurrences and accidents.
+
+The plan in 618.1 shall include the amended probabilistic risk assessment.
+
+The plan in 618.1 shall be submitted prior to the commencement of any detailed design.
+
+When STUK approves the conceptual design plan, the licence holder shall submit system pre-inspection documents to STUK.
+
+The approval of the system pre-inspection documents shall be a precondition for the acceptance of the construction plans of structures and components.
+
+The licence holder shall make the revisions to the final safety analysis report as specified in the approved system pre-inspection documents.
+
+Nuclear power plants shall be provided with cooling systems.
+
+The cooling systems shall cool the primary circuit in operational states and accidents.
+
+The cooling systems shall transfer the residual heat produced in the reactor to the ultimate heat sink.
+
+The cooling systems shall be designed to meet the safety design requirements presented in section 3.4.
+
+When the normally used ultimate heat sink is temporarily unavailable, the nuclear power plant shall remain in safe state for at least 72 hours.
+
+Site-specific analyses shall ascertain whether the specified period of 72 hours is sufficient or should be extended.
+
+While the reactor is in operational state, the reactor cooling system and associated auxiliary, control and protection systems shall ensure that the design parameters of the reactor primary circuit are not exceeded.
+
+While the reactor is in operational state, the reactor coolant system shall have extremely low possibility of coolant leaks below the top of active fuel.
+
+While there is an outage, the primary circuit shall not have an essential risk of a large leakage of reactor coolant due to measures affecting the circuit.
+
+The reactor coolant volume control shall ensure the coolant volume in the primary circuit is maintained within the range required for normal cooling.
+
+If there is a single failure of component or control system affecting volume control, then the reactor coolant volume control shall operate as specified in A105.1
+
+The nuclear power plant shall have a system which promptly indicates presence and size of any coolant leak and makes it possible to locate the source of the leak.
+
+While there is a single failure, the system in A106.1 shall operate as specified in A106.1.
+
+The plant shall have a reactor coolant clean-up system.
+
+While the plant is in operational state, the reactor coolant clean-up system shall remove radioactive materials and other impurities from the coolant.
+
+The plant shall have an emergency core cooling system.
+
+The emergency core cooling system shall guarantee that the design limits for fuel coolability are not exceeded.
+
+If there is a coolant leak in the primary circuit or in systems directly associated with it, then the emergency core coolant system shall ensure efficient reactor cooling.
+
+The emergency core cooling system shall provide for the occurrence of leaks of various magnitudes.
+
+The emergency core cooling system shall be able to cope with a leak equalling the complete and instantaneous double-ended break of the largest primary circuit pipe.
+
+The primary circuit shall be configured appropriately to ensure operability and efficiency of emergency cooling under postulated leak conditions together with A110.2.
+
+The positioning of emergency cooling connections shall ensure the operability and efficiency of emergency cooling under postulated leak conditions together with A110.1.
+
+The emergency core cooling system shall remove the residual heat produced in the reactor as long as is necessary.
+
+The emergency core cooling system shall allow recirculation of leaked water back into the reactor.
+
+The emergency core cooling system design shall consider any solid or chemical impurities that may be released into the water, impeding water recirculation or impairing reactor cooling.
+
+The coolant recirculation system shall have filtering structures.
+
+The filtering structures shall keep the levels of impurities passing through the filters low enough so as not to interfere with the operation of the coolant recirculation pumps or reduce the efficiency of reactor cooling.
+
+While there are impurities trapped in the filtering structures, the filtering system shall not cause pressure loss that interferes with the designed performance of the coolant recirculation system.
+
+When the pressure loss across filters suggests a risk of excessive clogging, the filtering structures shall be able to be cleaned with reversed coolant flow or gas blowdown.
+
+The filtering structures shall perform to specification in tests carried out in chemically representative conditions using aged insulation and coating materials to be placed inside the containment.
+
+The interfaces between systems connected to the I&C architecture shall be accurately defined as part of the design of the I&C architecture.
+
+The I&C architecture of a nuclear power plant shall meet the safety design requirements presented in section 3.4 of this guide.
+
+The design of the I&C architecture shall give special consideration to inter-system connections.
+
+The design of the I&C architecture shall give special consideration to the functional and quality requirements established for the architecture.
+
+The design of the I&C architecture shall give special consideration to the integration of plant system life cycles and system design process.
+
+The design of the I&C architecture shall seek to ensure maximum independence from any single technology.
+
+The design of the I&C architecture shall prepare for the need for component replacements.
+
+The design of the I&C architecture shall prepare for potential technological breakthroughs.
+
+The implementation and design of I&C architecture shall use design and quality methods similar to those applied to a system of the highest Safety Class connected to the I&C architecture.
+
+The I&C architecture shall be documented to allow an external party to verify the appropriateness of the design bases (requirements) for I&C architecture, accuracy of the design, proper justification for the key design decisions, and the failure behaviour.
+
+The external party in B105.1 shall not be involved in the design of I&C architecture and the plant.
+
+The <actor> shall evaluate how much time is sufficient for the purposes of B106.
+
+The evaluation carried out in B107.1 shall be based on the analyses of anticipated operational occurrences and accidents, and the operator actions called for under such circumstances.
+
+The <protection system> shall allow the operators to manually actuate required safety functions for any specific event deemed necessary by the operators.
+
+The safety functions of the protection system shall be capable of being manually actuated using reliable technology.
+
+The protection system shall allow operators to trigger protection signals (functions) manually.
+
+When protection signals are triggered manually, the protection system shall perform the actuated protection functions in a timely and orderly manner.
+
+The manual triggering of protection signals shall be separate from manual actuation of individual components.
+
+The protection system shall permit the manual actuation of the protection functions from within the control room.
+
+The <actor/process> shall analyse the consequences of any manual actuation of protection signals by operators on the plant.
+
+When a safety function is triggered by the protection system, while the plant parameters require the safety function, or while the safety function is not completed, the protection system shall disallow the operators from preventing or aborting the triggered safety function.
+
+When there is a failure in a protection system, while a preferable state can be unambiguously demonstrated, the protection systems shall assume the preferable state.
+
+The protection system shall substantiate the preferable state following its failure.
+
+The <system/actor> shall analyse the consequences of the failure conditions.
+
+The measurements related to Safety Class 2 protection systems shall give sufficiently accurate and reliable input data to the protection systems.
+
+Safety class 2 protection systems shall actuate a safety function based on the measurement of at least two different process parameters.
+
+The two process parameters in B117.1 shall be physically dependent on an anticipated operational occurrence or accident.
+
+The two process parameters in B117.1 shall be able to be set to trip low enough to ensure timely actuation.
+
+If two different process parameters cannot be measured in B117.1, then at least two different principles of measurement shall be applied for measuring the process parameter involved.
+
+Safety-classified protection systems shall monitor the validity of the input and output signals.
+
+Safety-classified protection systems shall monitor the internal operation of the system itself.
+
+If a safety-classified protection system detects invalid input or output signals, then the system shall transmit an alarm signal.
+
+If a safety-classified protection system detects a problem with its internal operation, it transmits an alarm signal.
+
+The self-diagnostics used in the protection systems shall be sufficiently extensive.
+
+The self-diagnostics used in the protection systems shall be adequately tested.
+
+The self-diagnostics of protection systems shall be analysed for extent and coverage.
+
+When analysing the self-diagnostics of protection system, hardware and software failures shall be considered separately.
+
+The protection systems shall monitor the plant’s operating parameters.
+
+The protection systems shall display the parameters required for the manual actuation of protection signals to the operators.
+
+The protection systems shall provide the operators with access to reliable information on the status of the protection systems.
+
+While the plant is in operation, the protection systems shall allow the testing of their safety functions.
+
+The protection systems shall be tested periodically.
+
+The protection system safety function test shall cover the entire event sequence from measurements to actuators.
+
+While periodic testing is taking place, the subsystem under test shall be brought to and remain in a state preferable from the plant safety point of view.
+
+The nuclear power plant shall be provided with reliable control systems for monitoring and controlling the reactor and process systems.
+
+The control systems shall maintain the process parameters within the normal operating range consistent with the then-existing operational state.
+
+The control systems shall monitor the condition of plant systems and components.
+
+While in the plant is in operational states, while there is at maximum a single failure in the control systems, the control systems and components being controlled shall have no need to actuate safety systems designed for postulated accidents.
+
+The control systems shall be supplied with sufficient measurement and status data to allow corrective control actions.
+
+When plant parameters depart from the normal operating range, the control systems shall allow automatic or operator-assisted actuation of corrective control actions.
+
+The control and alarm systems shall have defined operating and alarm limits.
+
+While control actions are performed, the control and alarm systems shall perform without exceeding the specified limits for actuation of safety functions.
+
+The reactor, other structures, systems and components of the nuclear power plant shall provide sufficient instrumentation to monitor process parameters and the operation and condition of systems.
+
+The nuclear reactor shall provide sufficiently accurate and reliable input data for the reactor performance characteristics calculation system.
+
+The nuclear reactor shall provide sufficiently accurate and reliable input data for the protection, control and monitoring systems.
+
+The reactor’s instrumentation shall provide a reliable determination of the power distribution in the reactor.
+
+The reactor’s instrumentation shall perform the calculation of the reactor’s thermal margins on a regular basis.
+
+If there is an incorrect operational condition related to the reactor core, the reactor’s instrumentation shall reliably detect the condition.
+
+The plant shall have a system that reliably detects incorrect positioning of reactor internals or fuel.
+
+The system of B137.1 shall be implemented as instrumentation or other arrangements.
+
+The primary circuit of a pressurized water reactor shall have monitoring instrumentation.
+
+If there are loose objects in the primary circuit of a pressurised water reactor, then the monitoring instrumentation shall detect their presence.
+
+The nuclear power plant shall have appropriate measuring and monitoring instrumentation for the purpose of monitoring and managing accidents.
+
+If there is an accident, then the accident instrumentation shall allow personnel access to sufficient data for situation assessment, and for the planning and implementation of countermeasures.
+
+The accident instrumentation shall provide all the measurements required for controlling accidents in accordance with the instructions for emergencies and anticipated operational occurrences.
+
+The accident instrumentation shall provide a sufficient set of measurements relating to management of postulated accidents.
+
+The accident instrumentation shall make it possible to detect changes in local conditions significant in terms of accident management.
+
+The accident instrumentation measurements shall include changes in the water inventory of a pressurised water reactor (pressure vessel water level) and in the water inventory of the containment.
+
+The accident instrumentation shall be clearly identifiable in the control room.
+
+The accident instrumentation shall be clearly distinguishable from other readings.
+
+The nuclear power plant shall have monitoring equipment that enables management and monitoring the progression of severe accidents.
+
+The equipment in B143.1 shall provide information on the potential re-criticality of the reactor.
+
+The equipment in B143.1 shall provide information on reactor debris.
+
+The equipment in B143.1 shall provide information on the risk of a reactor pressure vessel melt-through.
+
+The equipment in B143.1 shall provide information on the location of any reactor debris.
+
+The equipment in B143.1 shall provide information on other circumstances potentially endangering the integrity of the containment.
+
+The systems designed for managing severe accidents shall be independent from all other I&C systems of the plant unit.
+
+The power supply to the systems designed for managing severe accidents shall be electricity, compressed air, or another form of power supply.
+
+The power supply to the systems designed for managing severe accidents shall be independent from all the other power supply units of the plant.
+
+The measurement systems shall be capable of performing measurements over the full range within which the parameters being measured may vary in operational states or accidents.
+
+If a measurement fails, then the measurement system shall allow the operators to easily detect the failure, where possible.
+
+If a measurement range is exceeded, then the measurement system shall allow the operators to easily detect the situation, where possible.
+
+The control equipment shall record the process parameters indicating the plant status.
+
+The control equipment shall record the system control signals.
+
+The control equipment’s records shall permit a post-incident analysis of the operational events and accidents.
+
+The operators shall receive alarm data from automatic systems.
+
+The plant shall have an accident management support function.
+
+The accident management support function shall monitor and display comprehensive status information on the relevant safety functions.
+
+The accident management support function shall be designed to assist the operators.
+
+The accident management support function shall display its information separate and apart from all other information displayed in the control room.
+
+The accident management support function shall be available in all operational and shutdown conditions of the plant, including postulated accidents.
+
+The I&C systems shall ensure that errors in data communications within and between I&C systems do not trigger incorrect functions.
+
+The I&C systems shall ensure that errors in data communications within and between I&C systems do not prevent the performing of safety functions.
+
+While a safety-classified I&C system is in any conceivable load condition, its data communications system shall satisfy the response time requirements for normal operation, anticipated operational occurrences and accidents.
+
+The requirement B153.1 shall be demonstrated.
+
+Software versions shall have unique identifiers.
+
+Hardware versions shall have unique identifiers.
+
+When a wireless control is needed for a system, the designer shall give specific reasons for the use of wireless control.
+
+A wirelessly controlled device or system shall ensure that the control action can only be achieved with the signal intended for such control.
+
+If a wireless control signal breaks off, then the system under control shall assume a state preferable from safety point of view quickly enough.
+
+The control room shall be a Safety Class 3 system.
+
+The emergency control room shall be a Safety Class 3 system.
+
+Individual control room systems shall be classified in accordance with the general classification principles.
+
+The licence holder shall have documented procedures that ensure due consideration is given for human errors and organizational circumstances in control room planning.
+
+The procedures in C102.1 shall be in place from the very beginning of control room planning.
+
+The procedures in C102.1 shall be in place from the very beginning of control room change planning.
+
+When new projects and extensive modifications to the control room are undertaken, the design and implementation shall be governed by the Human Factors Engineering (HFE) concept.
+
+The HFE concept shall cover utilization of accumulated operating experience.
+
+The HFE concept shall cover function allocation and tasks analyses.
+
+The HFE concept shall cover personnel and training planning.
+
+The HFE concept shall cover Human System Interface design.
+
+The HFE concept shall cover development of guides and standards.
+
+The HFE concept shall cover a verification and validation plan regarding human factors and the implementation of the plan.
+
+The HFE concept shall cover assessment of human reliability.
+
+The HFE concept shall cover installation and commissioning of the control room.
+
+The HFE concept shall cover assessment and monitoring of control room performance.
+
+The HFE concept shall cover other things not listed in C103.1-C103.11.
+
+The instructions required for control room and nuclear power plant operations shall form a coherent body of procedures.
+
+The instructions in C104.1 shall be evaluated for appropriateness using the plant specific simulator.
+
+When any modifications to the control room procedures are planned, the modifications shall be evaluated for appropriateness prior to implementation using the plant specific simulator.
+
+When any significant ergonomic changes are planned to the control room, the changes shall be evaluated for appropriateness prior to implementation using the plant specific simulator.
+
+The individual sub-systems of the safety systems within the control room shall have a low likelihood of simultaneous failure.
+
+The individual sub-systems of the safety systems within the control room shall be functionally isolated from one another.
+
+The control room shall be protected to permit working without protective gear during normal operation and under accidents and threat conditions.
+
+The command centre for emergency preparedness shall be protected to permit working without protective gear during normal operation and under accidents and threat conditions.
+
+The design of the control room shall give due consideration to requirements regarding fire protection, protection against flooding, lighting, air conditioning, noise abatement, radiation protection and access control.
+
+The design of the command centre for emergency preparedness shall give due consideration to requirements regarding fire protection, protection against flooding, lighting, air conditioning, noise abatement, radiation protection and access control.
+
+The emergency control room shall be separate from the main control room.
+
+The emergency control room shall have extremely low probability of being damaged simultaneously with the main control room due to the same internal or external event.
+
+The emergency control room shall be contained in a different safety division than the main control room.
+
+The control room shall have capability for performing all measures required for controlling the plant in its operational states and accident conditions from within the control room.
+
+The control room shall have special screens that display the general condition of the plant and a summary of the status of the safety functions.
+
+The screens in C111.1 shall be designed to support the operators in managing accidents.
+
+The control room shall have displays that provide information required in outage situations.
+
+The control room shall have alarms that enable identification and management of anticipated operational occurrences and accidents.
+
+The alarms in C112.1 shall be prioritised according to the safety significance of the respective event.
+
+The alarms in C112.1 shall be designed to ensure alarms important to safety are recognised as reliably as possible.
+
+The measurement and status data referred to in the emergency procedures shall be easily identifiable.
+
+The control room shall provide facilities for monitoring the state of the off-site grid.
+
+When the application for a construction license is filed, the license applicant shall provide a qualification (V&V) plan for the main control room and the necessary monitoring and control posts.
+
+When the application for an operating license is filed, the licence applicant shall provide a results report in accordance with the control room V&V plan concerning the main control room and the necessary monitoring and control locations.
+
+While the main control room is lost, while any associated operational occurrence is taking place, the emergency control room shall allow the plant to be rendered in a controlled state.
+
+Where local controls are available, the local controls shall enable transition from a controlled to a safe state.
+
+The emergency control room design shall comply with requirements specified in Guide YVL A.11.
+
+The power supply of the emergency control room shall have due consideration to requirements D120, D125 and D126 presented in Annex D of this guide.
+
+The main control room shall have a safe passage to the emergency control room.
+
+The safe passage in C119.1 shall enable quick evacuation of the main control room.
+
+The main control room shall be independent from the emergency control room.
+
+The emergency control room shall be independent from the main control room.
+
+The control rooms shall be physically separated.
+
+The control rooms shall be functionally isolated.
+
+If any single fire compartment is destroyed, then the plant shall have lost at most the controls of one control room.
+
+The plant shall be controllable from only one control room at a time.
+
+The control rooms shall have a defined hierarchy that defines which control room controls the plant.
+
+If the connection to the off-site grid is lost, a system shall supply power from the plant main generator to systems important to safety.
+
+The system accomplishing D102.1 shall not cause interference (such as overvoltage) with systems important to safety.
+
+The system accomplishing D102.1 shall not pose any risk to the due performance of the safety functions.
+
+The external power supply to the plant unit shall have sufficient capacity to power the safety functions independently.
+
+The internal power supply to the plant unit shall have sufficient capacity to power the safety functions independently.
+
+The external power supply to the plant unit shall be in accordance with the design criteria specified in section 4.
+
+The internal power supply to the plant unit shall be in accordance with the design criteria specified in section 4.
+
+The internal and power supply units shall have extremely low probability of having more than one unit lost due to the same cause.
+
+The internal or external power supply units shall have extremely low probability of being lost due to the loss of another power supply.
+
+The safety-classified electrical power systems shall be functionally isolated.
+
+The safety-classified electrical power systems shall have redundant subsystems.
+
+If a subsystem of a safety-classified electrical power system experiences decline in performance or failure, then the redundant subsystem shall have an unlikely probability of being affected.
+
+When cross-connections between the redundant subsystems of safety-classified electrical subsystems are not demonstrated to improve the reliability of the system, the design of redundant subsystems shall avoid cross-connections between the redundant subsystems.
+
+Where cross-connections between redundant subsystems of safety-classified electrical subsystems are used, the connection design shall reliably prevent unintentional cross-connections. 
+
+Where cross-connections between redundant subsystems of safety-classified electrical subsystems are used, the connection design shall make human errors during commissioning and operation unlikely.
+
+Where cross-connections between redundant subsystems of safety-classified electrical subsystems are used, the design shall reliably prevent propagation of faults from one subsystem to another.
+
+The plant design shall give due consideration to local frequency and voltage fluctuations caused by the off-site grid or large on-site electrical equipment.
+
+If local frequency and voltage fluctuations occur, the plant safety functions shall not be endangered during normal operation, anticipated operational occurrences and accidents.
+
+The design of electrical systems shall ensure operator actions, periodic inspections, maintenance, testing and repair of electrical systems and components can be carried out without compromising plant or personnel safety.
+
+When actions listed in D108.1 are carried out, the equipment shall be inoperable for as short as is practicable.
+
+The electrical systems shall undergo periodic inspections and tests.
+
+The inspections and tests in D109.1 shall be extensive enough to permit the quick detection of any deterioration in the performance of safety-classified electrical systems and components before they cease to meet the acceptance limits.
+
+The components associated with the emergency power supply shall be subject to regular tests and inspections.
+
+Any parts of electrical systems that are not in use during normal plant operation shall be subject to regular tests and inspections.
+
+The tests and inspections in D110.1 and D110.2 shall ensure the equipment being tested is ready for operation at all times.
+
+The plant shall have two separate, independent grid connections from the off-site grid.
+
+The connections in D111.1 shall both connect to each redundant section of the on-site power distribution system.
+
+Both of the independent off-site grid connections shall be so designed as to ensure that a simultaneous failure of both connections due to the same cause remains unlikely.
+
+The design of the independent off-site grid connections shall consider failures of auxiliary equipment, anticipated operational occurrences, postulated accidents, weather phenomena and other on-site events.
+
+The auxiliary equipment in D112.2 shall include e.g. the auxiliary power supply, automation, relay protection and compressed air systems.
+
+When the main generator has been disconnected from the grid, both of the independent off-site grid connections shall be able to be activated sufficiently quickly.
+
+The plant requirements specification and design shall analyse and duly take into account the potential for the occurrence of voltage fluctuations and frequency variations in on-site and off-site power distribution networks, and their impact on the electrical systems and components of the nuclear power plant.
+
+The plant’s off-site grid connections shall be dimensioned from the point of view of electrical engineering to meet the safety design requirements presented in section 4.
+
+The plant’s off-site grid connections shall be dimensioned to meet the safety design requirements presented in section 4.
+
+Where same off-site grid connections are shared by several plant units, each individual connection shall have sufficient capacity to perform the safety functions at all connected plant units.
+
+The plant design shall give due consideration to equipment damage and fires caused by potential short circuits in the grid connections.
+
+The plant shall have a reliable change-over system.
+
+The change-over system shall permit automatic switch-over between the off-site grid connections.
+
+When the change-over system switches grid connections, the plant unit’s safety systems shall not be actuated as a consequence.
+
+The plant control room shall permit manual change-over of off-site grid connections.
+
+The plant emergency control room shall permit manual change-over of off-site grid connections.
+
+The plant unit’s house-load power supply systems shall be dimensioned to supply sufficient electrical power for the performance of the safety functions in all plant conditions.
+
+Safety-classified alternating current components shall have secured supply of power from onsite emergency power supply systems that ensures proper operation.
+
+Safety-classified on-site emergency power supply systems shall be structurally separated from other systems.
+
+Safety-classified on-site emergency power supply systems shall be functionally isolated from other systems.
+
+When there is a disruption in the regular power supply that endangers the operability of components, the safety-classified on-site emergency power supply systems shall switch on automatically.
+
+The safety-classified on-site emergency power supply systems shall ensure either uninterrupted power supply to safety functions, or the supply of power in accordance with the response-time requirements specified for safety systems.
+
+Safety-classified on-site emergency power supply systems shall be capable of being manually actuated from the main control room with high degree of reliability.
+
+Safety-classified on-site emergency power supply systems shall be capable of being manually actuated from the emergency control room with high degree of reliability.
+
+While regular electrical power supply is available, the main control room shall allow switching back from the safety-classified emergency power supply system to regular electrical power supply using a manual control.
+
+While regular electrical power supply is available, the emergency control room shall allow switching back from the safety-classified emergency power supply system to regular electrical power supply using a manual control.
+
+The safety-classified emergency power supply shall be dimensioned to start, switch on, receive loads and supply electrical power reliably.
+
+While in ordinary operating conditions, or extreme load conditions (e.g. start-ups or short circuits in power distribution sub-systems), the safety-classified emergency power supply shall perform functions of D127.1 reliably.
+
+The safety-classified on-site emergency power supply shall supply alternating current of consistently maintained quality, that ensures operability of supplied components is not compromised.
+
+The generators used for emergency power supply shall conform to detailed requirements specified in Guide YVL E2.
+
+The safety-classified on-site emergency power supply systems shall have sufficiently comprehensive condition monitoring systems.
+
+The condition monitoring systems shall have alarms.
+
+The condition monitoring systems shall enable location of failures.
+
+If there is a failure preventing or compromising system performance, the condition monitoring system shall promptly alarm the operator.
+
+The safety-classified on-site emergency power systems shall be capable of being safely isolated from other electrical systems.
+
+While a safety-classified on-site emergency power system is isolated, the isolated system shall be able to be maintained, repaired and functionally tested.
+
+The power supply units of battery-backed alternating current systems shall be capable of being reliably replaced with stand-by power supply connections.
+
+The stand-by power supply connections shall make it possible to carry out necessary measures on the power supply units without compromising plant safety.
+
+The safety-classified on-site emergency power supply systems shall be dimensioned to operate for the period of time specified in the safety analysis report.
+
+The design of the nuclear power plant shall give due consideration to the possibility of a simultaneous loss of both the plant’s on-site and off-site alternating current power supply units (total loss of alternating current supply).
+
+The plant shall have access to alternating current power supply units that are independent of the on-site power supply units.
+
+The independent power supply unit in D135.1 shall be capable of being actuated quickly enough to maintain the plant unit in controlled state.
+
+The independent power supply unit in D135.1 shall have sufficient capacity to maintain the plant unit in controlled state.
+
+Where an independent power supply unit is shared by several plant units, the power supply unit shall have sufficient capacity to simultaneously supply all plant units sharing the power supply unit.
+
+The design of the independent power supply unit shall ensure that the probability of simultaneous failure of the on-site and off-site grid connections due to the same cause remains low.
+
+The design in D139.1 shall consider weather phenomena and other external and internal events as the cause of failure.
+
+The design of the connections of the independent power supply unit shall reliably prevent the propagation of electrical failures from one plant unit to another.
+
+The design of the connections of the independent power supply unit shall reliably prevent the unplanned activation and coupling of the connections.
+
+The design of the connections of the independent power supply unit shall ensure that the probability of human error in conjunction with activation and use remains low.
+
+Safety-classified direct current components shall have reliable and sufficient battery sets.
+
+If the supply of alternating current is disrupted, the battery sets in D141.1 shall provide an uninterrupted supply of direct current to the safety-classified direct current components.
+
+The battery sets in D141.1 shall have charging devices.
+
+The battery sets and charging devices in D141.1 and D142.1 shall be dimensioned to assure the operability of safety-classified direct current power systems.
+
+The operability in D142.2 shall be considered in accordance with the operating time requirements specified for each individual system.
+
+The battery sets designed to back-up the operation of electrical systems important to safety shall remain operable for a minimum of two hours under all circumstances.
+
+The start-up batteries of combustion engines shall have dimensioning criteria specified on a case-by-case basis.
+
+Any special-purpose batteries shall have dimensioning criteria specified on a case-by-case basis.
+
+Charging devices shall be capable of simultaneously supplying direct current to the components being supplied and charging the batteries.
+
+The charging device shall be so dimensioned as to ensure uncompromised performance even under extreme load (e.g. start-up) and operating conditions.
+
+While the battery set is disconnected from the charging device, the charging device shall be capable of supplying necessary direct current to the components.
+
+While the battery set is disconnected from the charging device, the charging device will provide direct current of sufficiently high quality not to cause any disruptions to powered components.
+
+While supplying power from the alternating current power grid, if there is a disruption in the alternating current, then the charging devices shall reliably prevent the transmission of the disruptions to the direct current power system through the charging device.
+
+Safety-classified direct current power supply systems shall be structurally isolated from other systems.
+
+Safety-classified direct current power supply systems shall be functionally isolated from other systems.
+
+If there is an electrical disruption, then the safety-classified direct current power systems shall ensure that the probability of a decline in performance of redundant subsystems doe to the same disruption remains low.
+
+If there is an electrical disruption, then the safety-classified direct current power systems shall ensure that the probability of failure of redundant subsystems doe to the same disruption remains low.
+
+Safety-classified direct current power systems shall have sufficiently extensive condition monitoring devices.
+
+The condition monitoring systems shall have alarms.
+
+The condition monitoring systems shall enable location of failures.
+
+If there is a failure preventing or compromising system performance, the condition monitoring system shall alarm the operator.
+
+The alternating current power supply systems of nuclear power plant units shall allow the supply of electrical power from one unit to another within the same site.
+
+If there is a loss of off-site power, then the alternating current power supply system of one unit shall be able to maintain another unit in a controlled state.
+
+When there is a power supply connection between plant units, if there is an electrical failure in one unit, the power supply connection shall ensure the probability of propagation of the failure to another unit remains low.
+
+The design of the power supply connection between plant units shall ensure the probability of unplanned activation and coupling remains low.
+
+The power supply connection between plant units shall be capable of being activated quickly and reliably.
+
+The power supply connection between plant units shall minimize the risk for human error.
+
+The safety-classified electrical power and instrumentation and control systems and components of nuclear power plants, including related cabling and installations, shall be reliably protected from the effects of electromagnetic interference, disruptions in networks and radio interference, as well as from disturbances caused by data communications.
+
+Electrical and automation equipment and related cabling shall be designed and installed as to ensure that they themselves do not generate any harmful electromagnetic interference in their operating environment.
+
+Electrical and automation equipment and related cabling shall not generate any harmful electromagnetic interference in their operating environment.
+
+The design of electrical systems, components and cabling shall consider emission of and immunity to radiated radio frequency interference.
+
+The design of electrical systems, components and cabling shall consider emission via cables of and immunity to conducted radio frequency interference.
+
+The design of electrical systems, components and cabling shall consider electrostatic discharge (ESD).
+
+The design of electrical systems, components and cabling shall consider other types of electromagnetic interference.
+
+The specifications for safety-classified electrical and I&C systems and components shall define detailed EMC requirements.
+
+Where general international electromagnetic compatibility standards on industrial environments are used as the basis for the requirement, such standards shall be supplemented in response to any exceptionally complex EMC conditions prevailing in the installation sites of specific equipment.
+
+The EMC requirements shall give due consideration to the exposure of components to potential recurring rapid transients, such as the switching off of inductive loads and the ringing of relays.
+
+The EMC requirements shall give due consideration to the exposure of components to high-energy transients, such as various switching transients and strokes of lightning.
+
+The EMC requirements shall give due consideration to the exposure of components to other natural or man-made sources of electromagnetic interference.
+
+The EMC requirements shall give due consideration to the interference characteristics of wireless data transmission and telephone systems.
+
+The EMC requirements shall give due consideration to the repair, maintenance and measuring devices used at the nuclear power plant.
+
+The preparation of EMC specifications and qualification shall be supported by a radio frequency table.
+
+The radio frequency table shall list all the radio frequencies allowed on the nuclear power plant site.
+
+The radio frequency table shall include the highest permissible field intensities.
+
+Where the radio frequency table includes the maximum permissible transmission power levels for a specific device type, the table shall specify the theoretical assumptions on which the transmission power level is based.
+
+The <actor> shall perform unit-specific analyses that determine the EMC environment of electrical systems.
+
+The <actor> shall perform unit-specific analyses that evaluate the adequacy of the EMC requirements imposed on systems and components.
+
+When the electrical and I&C systems of a nuclear power plant are replaced, the license holder shall pay special attention to both the EMC conditions prevailing on each installation location and the EMC characteristics of the equipment in order to avoid compatibility problems.
+
+Earthing and lightning protection systems shall effectively protect people, buildings, equipment as well as electrical and I&C systems from over-voltage and over-current caused by strokes of lightning.
+
+Earthing and lightning protection systems shall effectively protect people, buildings, equipment as well as electrical and I&C systems from other potential electromagnetic interference due to meteorological conditions.
+
+Earthing and lightning protection systems shall be appropriately maintained.
+
+The nuclear power plant’s earthing and overvoltage protection systems shall effectively prevent the occurrence of harmful on-site or off-site overvoltage in electrical and I&C systems.
+
+The design of earthing systems shall view electrical systems as a single entity.
+
+The electrical power systems shall have reliable protection devices.
+
+The protection devices shall operate under all foreseen grid switching conditions.
+
+If there is a disturbance or failure, then the protection devices shall deactivate the affected component or section of the electric power network only.
+
+If there is a fault current present, then the protection system shall cut off the current quickly enough to avoid hazards and minimize disruptions.
+
+All the plant’s safety-classified high-power switchgears shall have reliable arc protection or other appropriate protection.
+
+If there is an arc fault, then the protection in D171.1 shall minimise equipment damage and ensure the safety of the plant and its operating and maintenance personnel.
+
+The plant shall have adequate alarms for electrical failures.
+
+If there is an electrical failure, then the alarms in D172.1 shall ensure prompt detection, location and repair of the failures.
+
+The plant shall have adequate logging devices that monitor the power distribution network.
+
+If there is an electrical failure, then the logging devices shall ensure prompt detection, location and repair of the failure.
+
+The operation of the protection devices of safety-classified electrical power systems shall be tested across the entire protection chain.
+
+The testing in D174.1 shall be carried out on a regular basis.
+
+The testing in D174.1 shall ensure the operability of the protection system.
+
+All safety functions shall be evaluated for the safety significance of blocking the function via a bypass feature.
+
+Where a bypass feature is seen necessary, the bypass feature shall be included.
+
+Where a safety function has a bypass feature, the feature shall be implemented by a protection device.
+
+If a bypass feature endangers the availability of any safety-classified electrical power supply, then the bypass feature shall not be included.
+
+Where individual protection devices are installed to safeguard components during testing, the devices shall be listed.
+
+Where individual protection devices are installed to safeguard components during testing, the devices shall be designed so that their operation does not endanger a system’s capability to operate during an actual event.
+
+The design of the protection devices of electrical power systems and components of a nuclear power plant shall give due consideration to the safety standards applied in Finland regarding the safety of electrical equipment and electrical installations.
+
+The design in D177.1 shall give due consideration to other regulations issued by electrical safety authorities.
+
+The other regulations in D177.2 shall include e.g. the set of standards: SFS 6000: Low-voltage electrical installations; SFS 6001: High-voltage electrical installations; and SFS 6002: Safety at electrical work.
+
+The plant spaces where significant amounts of airborne radioactive materials may occur shall be provided with ventilation and filtering systems.
+
+The ventilation and filtering systems shall reduce the concentrations of airborne radioactive substances within the plant.
+
+The ventilation and filtering systems shall prevent the spread of radioactive substances to other areas within the plant.
+
+The ventilation and filtering systems shall limit the release of radioactive materials to the environment.
+
+The plant shall have air-conditioning systems.
+
+The air-conditioning systems shall maintain and secure such ambient conditions in all rooms of a nuclear facility as to ensure that the components and structures important to plant safety are kept in good condition and operate flawlessly.
+
+The license holder shall provide an analysis of the consequences of any loss of the ventilation, heating and cooling of the spaces hosting safety-classified systems.
+
+The license holder shall provide an analysis of the temperature-related behavior of spaces hosting safety-classified systems during disturbances in plant operation.
+
+The license holder shall perform an assessment based on the analysis that determines whether it is necessary to apply the diversity principle (such as air and sea water) in the heating or cooling of important spaces.
+
+Where a space housing heat-producing equipment has a maximum temperature limit specified for the delivered performance, the space shall be provided with reliable cooling systems.
+
+The air-conditioning systems shall maintain appropriate working conditions for the plant’s operating and maintenance staff.
+
+The air-conditioning systems shall maintain the cleanness, temperature and humidity of indoor air in compliance with the regulations issued by the authorities.
+
+Each safety division of the plant shall be fitted with an air-conditioning system.
+
+Each air-conditioning system shall be independent of the air conditioning of other safety divisions.
+
+Each air-conditioning system shall maintain the heating, cooling, fire safety and other required ambient conditions of the spaces.
+
+Where a containment or control room space comprises parts of several safety divisions, the space shall be without an air-conditioning system.
+
+Where a containment or control room space comprises parts of several safety divisions, the space shall be connected to the air-conditioning system of another division.
+
+The air-conditioning and ventilation systems shall perform their functions during normal operation, anticipated operational occurrences and accidents.
+
+Where an air-conditioning or ventilation system is designed to operate during or after accidents, the design basis for the system shall be accident conditions.
+
+The air-conditioning and ventilation components shall be protected from the effects of the accidents and anticipated operational occurrences that the components are designed to manage.
+
+Where a room contains components assigned to Safety Classes 1 to 3, a definition of room conditions shall be carried out.
+
+The definition of room conditions shall cover the circumstances most relevant to the design of ventilation and air conditioning.
+
+The most relevant circumstances shall include temperature, humidity, radiation level, heat loads, pressure differences, and tightness and insulation requirements.
+
+Where a definition of room conditions is carried out, the room shall be proposed preliminary air change rates based on the definition of room conditions.
+
+The nuclear facility shall be subject to the rules and regulations issued by the Ministry of the Environment and the Ministry of the Interior (Rakennusmääräyskokoelma RakMK , the Finnish Building Code) concerning the design and operation of air-conditioning and ventilation systems, and the related fire protection design bases.
+
+Where a room is needed under accident conditions, the room shall be provided with closing and filtering devices controlling the supply air system and measuring instruments to detect concentrations of radioactive and toxic materials..
+
+The rooms in E111.1 shall include the control room, emergency control room, command centre for emergency preparedness and any other rooms required.
+
+The design of the air conditioning and ventilation systems shall give due consideration to the storage and transportation of hazardous materials.
+
+The design of the air conditioning and ventilation systems shall give due consideration to threats and accidents on the plant site and in its surroundings.
+
+The buildings of a nuclear power plant and their rooms shall be classified into ventilation zones.
+
+The ventilation zones shall have predetermined, verifiable pressure differences between them.
+
+The pressure differences shall ensure that air always flows from the clean areas towards the less clean areas in terms of radiation safety.
+
+The classification of rooms into ventilation zones shall consider the amounts and forms of radioactive materials potentially released from the plant systems and components in the event of leaks.
+
+The classification of rooms into ventilation zones shall consider the accessibility of the rooms during normal operation and accidents.
+
+The air flow shall ensure that the concentrations of radioactive materials in the indoor air in manned plant rooms can be kept sufficiently low.
+
+The design of air flow shall give due consideration to the required periods of stay in the rooms.
+
+The air-conditioning and ventilation systems serving the rooms in the controlled area and in the clean area shall be completely separate
+
+Where a room is used for personnel access at the boundary of the controlled area and the clean area, E115.1 shall not apply.
+
+Guide YVL C.1 shall present area and zone classification during operation based on the plant’s radiation conditions.
+
+The plans for the air-conditioning and ventilation systems of the rooms located in the controlled area shall describe how the escape of radioactive materials to the environment is prevented in the event of a fire.
+
+Where a building houses safety-classified subsystems, the design and positioning of intake air centres and supply air systems shall ensure the ingress of smoke into these areas is unlikely in the event of fire.
+
+If smoke spreads to intake air centres, then the supply air system shall allow prevention of further spreading of smoke by, for instance, switching off the supply air system.
+
+Where a building houses safety-classified subsystems, the design and positioning of intake air centres and supply air systems shall ensure the ingress of any combustible, toxic or otherwise hazardous substances to such centres and systems is unlikely.
+
+If ingress of hazardous substances to the plant rooms becomes a risk, then the supply air system shall allow prevention of the ingress by, for instance, switching off the supply air system.
+
+The supply air systems shall be fitted with filtering equipment.
+
+The filtering equipment shall prevent the impurities contained in outdoor air from accumulating in the plant rooms.
+
+When the availability of supply air is adversely affected by snow and ice, the supply air system shall ensure the availability of supply air.
+
+The ventilation ducts shall lead exhaust air from the controlled area into the environment through the ventilation stack in a controlled manner.
+
+Where a controlled area contains subsystems of safety-classified systems, the exhaust air system may comprise shared ducts.
+
+Where the exhaust air system contains shared ducts, the shared ducts shall be placed upstream of the ventilation stack.
+
+Where the exhaust air system contains shared ducts,  the shared ducts shall have adequate smoke and fire compartmentation.
+
+The requirements for leaktightness of the ducts  shall duly consider the amount of radioactive materials in the exhaust air.
+
+The requirements for leaktightness of the ducts  shall duly consider the rooms through which the ventilation duct is laid.
+
+The requirements for leaktightness of the ducts  shall duly consider the pressure differences between the ducts and their surroundings.
+
+The selection process of the materials and coatings for the ventilation ducts and equipment shall give due consideration to easy decontamination of the surfaces from potential radioactivity.
+
+The design of the geometrical shape of ventilation ducts and equipment shall give due consideration to easy decontamination of the surfaces from potential radioactivity.
+
+If any combustible, toxic or otherwise hazardous gases and vapours are released into the plant rooms, the air conditioning system shall remove the gases and vapours.
+
+If the plant exhaust air contains or may contain radioactive materials in gaseous, aerosol or particulate form in amounts significant in terms of environmental radiation exposure, the air filtration system shall filter the exhaust air sufficiently.
+
+The exhaust air system shall be capable of restricting the flow of exhaust air in order to reduce releases in the event of an accident.
+
+Where a room can be subject to restricted exhaust air, where it is deemed necessary, the rooms shall have room-specific equipment that filter and cool the air of the room.	
+
+The design of the exhaust air system shall give due consideration to the risk of the filters catching fire and burning.
+
+If a filter catches fire, then the air-conditioning system shall isolate the filter from the rest of the air-conditioning system.
+
+The guide YVL E6 shall specify the requirements for the coatings of structures inside the containment building.
+
+The design of air-conditioning and ventilation systems shall comply with requirements presented in the guide YVL E6.
+
+Where an individual component’s coated surface area is deemed so small that any coating material released from the surface does not clog the air flow paths, the requirements of the guide YVL E.6 shall not apply.
